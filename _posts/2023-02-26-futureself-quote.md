@@ -2,7 +2,7 @@
 layout: post
 title: Mia quotes...Be your future self now
 lang: en
-tags: jumquote
+tags: quotes
 ---
 
 # Quotes of the day
