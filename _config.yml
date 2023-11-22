@@ -8,13 +8,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            JuMiverse
-tagline:          'Blog site for the JuMiverse'
-description:      'Blog site for the JuMiverse'
+title:            HEALTHBYTES
+tagline:          'Blog site for healthbytes'
+description:      'Blog site for the healthbytes'
 url:              
 
 author:
-  name:           'JuM'
+  name:           'hb'
 
 paginate:         2
 paginate_path: "/blog/page:num/"
