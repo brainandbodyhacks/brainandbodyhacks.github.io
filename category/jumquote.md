@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "category: jumquote"
+title: "category: quotes"
 tag: jumquote
 ---
