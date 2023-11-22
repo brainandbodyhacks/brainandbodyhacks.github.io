@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "category: futureskills"
+title: "category: m"
 tag: futureskills
 ---
