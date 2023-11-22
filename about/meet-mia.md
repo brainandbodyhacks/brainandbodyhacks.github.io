@@ -2,7 +2,7 @@
 layout: page
 --- 
 
-<img src="/assets/images/IMG_2009.jpeg.PNG" width="200" height="200">
+<img src="/assets/images/IMG_2009.jpeg" width="200" height="200">
 
 
 ## Meet Mia
