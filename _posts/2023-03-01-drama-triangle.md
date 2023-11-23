@@ -3,7 +3,7 @@ layout: post
 title: Mia learns...how to ask for what you need
 summary: Break out of the drama triangle by asking for what you need
 lang: en
-tags: jumlearn
+tags: learn
 ---
 
 <div class="message">
