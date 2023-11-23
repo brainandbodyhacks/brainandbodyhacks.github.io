@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://healthbytes.github.io/">
-    <img src="assets/images/JuMia.PNG" alt="JuMiverse logo" width="200" height="200">
+    <img src="assets/images/IMG_2012.jpeg" alt="JuMiverse logo" width="200" height="200">
   </a>
 </p>
 
