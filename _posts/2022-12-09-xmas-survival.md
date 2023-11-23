@@ -3,7 +3,7 @@ layout: post
 title: Mia learns...how to survive before xmas
 summary: how to survive before xmas
 lang: en
-tags: jumlearn jumsimplify
+tags: learn simplify
 ---
 
 <div class="message">
