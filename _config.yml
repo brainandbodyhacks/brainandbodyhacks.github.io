@@ -1,7 +1,6 @@
 # Dependencies
 theme: "minima"
 
-markdown:         redcarpet
 pygments:        false
 
 # Permalinks
