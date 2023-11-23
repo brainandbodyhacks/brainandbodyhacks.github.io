@@ -2,7 +2,7 @@
 theme: "minima"
 
 markdown:         redcarpet
-pygments:         true
+pygments:        false
 
 # Permalinks
 permalink:        pretty
