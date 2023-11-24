@@ -9,6 +9,6 @@
 <p align="center">
   The inspiration to deal with life in a healthy way.
   <br>
-  <a href="https://healthbytes.github.io/"><strong>Explore HEALTHBYTES »</strong></a>
+  <a href="https://curieosa.github.io/"><strong>Explore CURIEOSA »</strong></a>
   <br>
 </p>
