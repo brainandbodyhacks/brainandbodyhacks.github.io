@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mia quotes...One small step can change your life
+title: Curieosa quotes...One small step can change your life
 lang: en
 tags: quotes
 ---
