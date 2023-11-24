@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "category: brain"
-tag: brain
+title: "category: brainbytes"
+tag: brainbytes
 ---
