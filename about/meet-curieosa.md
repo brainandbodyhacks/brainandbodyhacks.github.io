@@ -5,13 +5,13 @@ layout: page
 <img src="/assets/images/IMG_2009.jpeg" width="200" height="200">
 
 
-## Meet Mia
-Mia has a passion: she loves to [learn](/category/jumlearn/) about each and everything. 
+## Meet Curieosa
+Curieosa has a passion: she loves to [learn](/category/jumlearn/) about each and everything. 
 She loves to grow and find efficient solutions to the problems of today’s busy world. 
 She also wants to share her knowledge and to help people to find answers on their own and make their lives easier.
 
-## A Day in the Life of Mia
-Let Mia guide you through one of her typical days:
+## A Day in the Life of Curieosa
+Let Curieosa guide you through one of her typical days:
 
 **Waking up:**
 
@@ -36,13 +36,13 @@ I love an early lunch with food that gives me energy, such as beans with vegetab
 
 The afternoon might start with more sessions or **experimental work** all around upskilling and learning.
 I play around with automation scripts for fun and to help me to achieve my goals.
-I am eager to get new input on how to work smarter, not harder, and I try a lot of new formats and methods to make life easier and to [simplify](/category/jumsimplify/).
+I am eager to get new input on how to work smarter, not harder, and I try a lot of new formats and methods to make life easier and to [simplify](/category/simplify/).
 Sometimes it is all about being creative and removing things that do not create value or joy.
 
 **Evening:**
 
 If we do not connect with friends or family, evenings are **JuMtime**! 
-We try to [cook](/category/jumcook/) together, talk the day through and **plan the future**.
+We try to [cook](/category/cook/) together, talk the day through and **plan the future**.
 We draft ideas for small projects, such as beautifying our flat or organizing the next **trip**.
 And at the end of the day, often a good **movie** takes us into another reality until we fall asleep and dream about our future adventures.
 
@@ -57,6 +57,6 @@ And at the end of the day, often a good **movie** takes us into another reality 
 
 > "Constant Improvers offer the world a wealth of gifts. Once they learn to trust themselves as much as they trust others’ opinions, these personalities can shine!“ - [16personalities](https://www.16personalities.com/infj-personality)
 
-Enjoy the JuMiverse, enjoy learning, enjoy your life!
+Enjoy the curiosity, enjoy learning, enjoy your life!
 
 **_#staycurious_** **_#stayhealthy_**
