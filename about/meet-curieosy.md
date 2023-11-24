@@ -5,13 +5,13 @@ layout: page
 <img src="/assets/images/IMG_2009.jpeg" width="200" height="200">
 
 
-## Meet Curieosa
-Curieosa has a passion: she loves to [learn](/category/jumlearn/) about each and everything. 
+## Meet Curieosy
+Curieosy has a passion: she loves to [learn](/category/jumlearn/) about each and everything. 
 She loves to grow and find efficient solutions to the problems of today’s busy world. 
 She also wants to share her knowledge and to help people to find answers on their own and make their lives easier.
 
-## A Day in the Life of Curieosa
-Let Curieosa guide you through one of her typical days:
+## A Day in the Life of Curieosy
+Let Curieosy guide you through one of her typical days:
 
 **Waking up:**
 
