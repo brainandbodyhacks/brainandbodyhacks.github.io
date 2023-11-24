@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://curieosy.github.io/">
-    <img src="/assets/images/IMG_2013.jpeg" alt="curieosy logo" width="200" height="200">
+    <img src="/assets/images/IMG_2030.jpeg" alt="curieosy logo" width="200" height="200">
   </a>
 </p>
 
