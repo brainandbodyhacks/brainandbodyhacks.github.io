@@ -7,9 +7,9 @@ pygments:        false
 permalink:        pretty
 
 # Setup
-title:            CURIEOSY
-tagline:          'Blog site for curious people'
-description:      'Blog site for the people'
+title:            DAILYBYTES
+tagline:          'Blog site for a daily byte of inspiration'
+description:      'Blog site for a daily byte of inspiration'
 url:              
 
 author:
