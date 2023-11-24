@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mia quotes...Be your future self now
+title: Curieosa quotes...Be your future self now
 lang: en
 tags: quotes
 ---
