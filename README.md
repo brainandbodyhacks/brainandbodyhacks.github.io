@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">Welcome to HEALTHBYTES!</h3>
+<h3 align="center">Welcome to CURIEOSA!</h3>
 
 <p align="center">
-  The inspiration to deal with life in a healthy way.
+  The inspiration to deal with life in a curious way.
   <br>
   <a href="https://curieosa.github.io/"><strong>Explore CURIEOSA »</strong></a>
   <br>
