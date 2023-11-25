@@ -1,0 +1,44 @@
+---
+layout: post
+title: Mia learns...Jekyll
+summary: setup a blog using Github pages and Jekyll
+lang: en
+tags: learn
+---
+
+<div class="message">
+Mia's first post in a new Jekyll-based blog!
+</div>
+
+Learn how Mia created a blog using GitHub Pages and Jekyll:
+
+# Goal
+Today I learned how to setup a blog using [GitHub Pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com/).
+I was already using GitHub to organize my personal work, so [GitHub Pages](https://pages.github.com/) got my attention.
+My goal was to set up an easy to maintain and simplistic blog to write my stories and share my learnings. 
+Here is how easy it is to get started.
+
+# Steps
+## Follow the instructions
+
+I followed the quick-start tutorials on:
+
+* [Jekyll docs](http://jekyllrb.com/docs/home/)
+* [Jekyll tutorials](https://jekyllrb.com/docs/step-by-step/01-setup/)
+
+## Check examples
+
+After setting up a blog with a very basic layout, I dived deeper into some of the existing examples and adapted 
+step by step, using different layouts for pages and posts.
+
+* [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
+
+* Github repo with the sources of this blog can be found here: [https://github.com/vitalyrepin/vrepinblog](https://github.com/vitalyrepin/vrepinblog)
+
+## Experiment
+
+I rolled up my sleeves and experimented with advanced layouts, stylesheets, jekyll tags and much more.
+I prefere to keep it simple, so for me the combination of GitHub pages and Jekyll works great.
+Try it yourself!
+
+**_#staycurious_**
