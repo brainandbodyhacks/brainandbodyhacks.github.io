@@ -2,11 +2,11 @@
 layout: page
 --- 
 
-<img src="/assets/images/IMG_2009.jpeg" width="200" height="200">
+<img src="/assets/images/flowingbytes-q.jpeg" width="200" height="200">
 
 
 ## Meet Curieosy
-Curieosy has a passion: she loves to [learn](/category/jumlearn/) about each and everything. 
+Curieosy has a passion: she loves to [learn](/category/learn/) about each and everything. 
 She loves to grow and find efficient solutions to the problems of today’s busy world. 
 She also wants to share her knowledge and to help people to find answers on their own and make their lives easier.
 
