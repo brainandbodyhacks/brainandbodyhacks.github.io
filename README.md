@@ -9,6 +9,6 @@
 <p align="center">
   The inspiration to deal with life in a curious way.
   <br>
-  <a href="https://curieosy.github.io/"><strong>Explore flowingbytes »</strong></a>
+  <a href="https://flowingbytes.github.io/"><strong>Explore flowingbytes »</strong></a>
   <br>
 </p>
