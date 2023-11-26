@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to survive before xmas
-summary: how to survive before xmas
+summary: Do you want to reduce the holiday stress, stay in control of your time and focus on the essence of cristmas?
 lang: en
 tags: learn simplify
 ---
@@ -11,7 +11,7 @@ How you can learn to tackle stress and insanity to survive before xmas
 </div>
 
 # Goal
-Do you want to reduce the holiday stress, stay in control of our time and focus on the essence of cristmas? Here is how I struggled, learned and found a way:
+Do you want to reduce the holiday stress, stay in control of your time and focus on the essence of cristmas? Here is how I struggled, learned and found a way:
 
 My emotions about christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
