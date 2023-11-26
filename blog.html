@@ -20,9 +20,9 @@ layout: page
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.summary }}
       <a href="{{ post.url }}">
-          {{ read more.. }}
+          {{ post.summary }}
+          <small>{{ read more.. }}</small>
       </a>
     <hr>
   </div>
