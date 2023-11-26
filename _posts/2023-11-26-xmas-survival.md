@@ -1,38 +1,37 @@
 ---
 layout: post
-title: Mia learns...how to survive before xmas
+title: How to survive before xmas
 summary: how to survive before xmas
 lang: en
 tags: learn simplify
 ---
 
 <div class="message">
-How mia learns to tackle stress and insanity to survive before xmas
+How you can learn to tackle stress and insanity to survive before xmas
 </div>
 
 # Goal
-Mia's goal: 
 Reduce the holiday stress, stay in control of our time and focus on the essence of cristmas.
 
-Mia's emotions about christmas are mixed.
+My emotions about christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
 But when reality hits you, things look different.
 The days befor christmas are filled with busyness which is pushing poeple to limits sometimes. And when poeple reach their limits, conflicts are the consequence.
-So for quite a while, Mia is thinking about how to get out of the hamster wheel before christmas, simplify life again and focus on the important stuff.
+So for quite a while, I have been thinking about how to get out of the hamster wheel before christmas, simplify life again and focus on the important stuff.
 
 # Steps
 ## Clearly picture your ideal christmas
-Mia's ideal of christmas is to slow down and give mind and body some rest.
+My ideal of christmas is to slow down and give mind and body some rest.
 Listening to piano or violine songs and cuddling up in a blanket with some hot tea calm Mia down and she gets back energy. And what a nice experience to step into a white winter wonderland and breath in the fresh air, get cold a bit just to heat up again afterwards at home.
 What comes in the way are all the real or sometimes imaginary duties we fill our lifes with: 
 - Buying presents because it is the tradition, not because you just found something that reminds you of your sibling.
 - Or visiting all the xmas markets with friends and collegues, even if you feel your body needs rest
 - Or stuffing the whole family together in one room, overeating without moving and eventually bringing up topics that bear conflict.
 
-Mia reads a lot about how to avoid these artificial duties, focus on precious time, calming down and listening to your needs.
+I read a lot about how to avoid these artificial duties, focus on precious time, calming down and listening to your needs.
 
 ## Manage expectations & set boundaries
-Here is the essence of what Mia learned:
+Here is the essence of what I learned:
 Often poeple think that they are not in control of their needs and time. Too many requests and events are leaving us with too many decisions on where to go, how long to stay and how much money to spend. Obligations at work and deadlines at the end of the year are not helping either.
 
 Thus it is so important to set boundaries. Without boundaries, everyone loses.  
@@ -59,6 +58,6 @@ The rarest thing we have is time, so think about it as a precious gift as well.
 # Take aways
 You can be in control of your time, this is not selfish, it is wise!
 When we feel in control, we can enjoy what we chose. And we give because we want to and not because we feel forced to.
-Mia's wish: Take more control over your time, health and life, especially at those busy times.
+Here is my wish: Take more control over your time, health and life, especially at those busy times.
 
 **_#staycurious_** **_#stayhealthy_**
