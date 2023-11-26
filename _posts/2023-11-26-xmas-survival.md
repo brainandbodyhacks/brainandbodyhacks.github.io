@@ -11,13 +11,13 @@ How you can learn to tackle stress and insanity to survive before xmas
 </div>
 
 # Goal
-Reduce the holiday stress, stay in control of our time and focus on the essence of cristmas.
+Do you want to reduce the holiday stress, stay in control of our time and focus on the essence of cristmas? Here is how I struggled, learned and found a way:
 
 My emotions about christmas are mixed.
 The idea to slow down and connect with your loved ones is appealing.
 But when reality hits you, things look different.
-The days befor christmas are filled with busyness which is pushing poeple to limits sometimes. And when poeple reach their limits, conflicts are the consequence.
-So for quite a while, I have been thinking about how to get out of the hamster wheel before christmas, simplify life again and focus on the important stuff.
+The days befor christmas are filled with busyness which is pushing poeple to limits at times. And when poeple reach their limits, conflicts might be the consequence.
+So for quite a while, I have been thinking about how to get out of the hamster wheel before christmas, how to simplify life again and focus on the important stuff.
 
 # Steps
 ## Clearly picture your ideal christmas
@@ -44,7 +44,7 @@ You can control to make your needs transparent. What is joy for one individual c
 Your needs are as valid as other poeples needs, its not black and white, they can live in parallel as long as we do not violate the boundaries of others.
 And to avoid that, we need to know those boundaries!
 
-## Take some time out and say NO
+## Take some time out and say No
 We also need to articulate, what is "off the table". Say "No" if a request violates your boundaries - at work or in private life. You need to say No if your health is at risk or you do not have enough energy anymore - as the latter often leads to the former. If you are not healthy, you can hardly spread joy and help others.
 
 ## Get enough sleep
