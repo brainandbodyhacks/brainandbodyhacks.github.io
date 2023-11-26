@@ -5,13 +5,13 @@ layout: page
 <img src="/assets/images/flowingbytes-q.jpeg" width="200" height="200">
 
 
-## Meet Curieosy
-Curieosy has a passion: she loves to [learn](/category/learn/) about each and everything. 
-She loves to grow and find efficient solutions to the problems of today’s busy world. 
-She also wants to share her knowledge and to help people to find answers on their own and make their lives easier.
+## Meet FLOWINGBYTES
+I have a passion: I love to [learn](/category/learn/) about each and everything. 
+I love to grow and find efficient solutions to the problems of today’s busy world. 
+When I share my knowledge and with it can help people to find answers on their own and make their lives easier, it fills me with joy!
 
-## A Day in the Life of Curieosy
-Let Curieosy guide you through one of her typical days:
+## A Day in the Life of FLOWINGBYTES
+Let me guide you through one of my typical days:
 
 **Waking up:**
 
