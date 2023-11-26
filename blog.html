@@ -21,8 +21,9 @@ layout: page
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {{ post.summary }}
-    <a href="{{ post.url }}">
+      <a href="{{ post.url }}">
           {{ read more.. }}
+      </a>
     <hr>
   </div>
   {% endfor %}
