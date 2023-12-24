@@ -7,8 +7,8 @@
 <h3 align="center">Welcome to brainandbodyhacks!</h3>
 
 <p align="center">
-  The inspiration to flow with life.
+  The inspiration for smart brain users.
   <br>
-  <a href="https://flowingbytes.github.io/"><strong>Explore brainandbodyhacks »</strong></a>
+  <a href="https://brainandbodyhacks.github.io/"><strong>Explore brainandbodyhacks »</strong></a>
   <br>
 </p>
