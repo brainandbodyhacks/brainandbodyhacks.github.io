@@ -9,6 +9,6 @@
 <p align="center">
   The inspiration for smart brain users.
   <br>
-  <a href="https://brainandbodyhacks.github.io/"><strong>Explore brainbodyhacks »</strong></a>
+  <a href="https://brainbodyhacks.github.io/"><strong>Explore brainbodyhacks »</strong></a>
   <br>
 </p>
