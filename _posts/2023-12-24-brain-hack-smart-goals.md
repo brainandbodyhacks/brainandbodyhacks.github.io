@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Brain Hack: S.M.A.R.T.e Ziele
-summary: Mit dem S.M.A.R.T. brain hack kannst Du gehirngerechte Ziele setzen, erhöhst so die Wahrscheinlichkeit sie zu erreichen und hilfreiche Routinen zu entwickeln.
+title: S.M.A.R.T. brainhack
+summary: Mit dem S.M.A.R.T. brainhack kannst Du gehirngerechte Ziele setzen, erhöhst so die Wahrscheinlichkeit sie zu erreichen und hilfreiche Routinen zu entwickeln.
 lang: de
 tags: brainhack
 ---
+
 
 # Problem:
 ## Was ist das Problem?
