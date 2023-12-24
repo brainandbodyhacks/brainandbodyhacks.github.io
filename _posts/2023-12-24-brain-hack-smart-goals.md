@@ -1,3 +1,11 @@
+---
+layout: post
+title: Brain Hack: S.M.A.R.T.e Ziele
+summary: Mit dem S.M.A.R.T. brain hack kannst Du gehirngerechte Ziele setzen, erhöhst so die Wahrscheinlichkeit sie zu erreichen und hilfreiche Routinen zu entwickeln.
+lang: de
+tags: brainhack
+---
+
 # Problem:
 ## Was ist das Problem?
 Du erreichst Deine Ziele nicht. Immer wieder nimmst Du Dir etwas  vor, aber scheiterst dann an der Umsetzung.
@@ -10,8 +18,8 @@ Du möchtest Dir Ziele setzen, die Dir einen konkreten Nutzen bringen und die Du
 ## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
 Setze Dir nur Ziele, die die folgenden Kriterien erfüllen und formuliere diese auch konkret so.
 
-Schreibe dein Ziel grob auf.
-Nun beantworte die folgenden Fragen dazu:
+1. Schreibe dein Ziel grob auf.
+2. Nun beantworte die folgenden Fragen dazu:
 
 - Mache es spezifisch mit der Frage: Was genau möchte ich erreichen?  es sollte ein klar benanntes konkretes Ziel für Dich sein, keine allgemeine Formulierung, wie z.B Weltfrieden 
 - Mache es messbar mit der Frage: Wie kann ich es quantifizieren?  setze einen Messwert, wie eine Frist, eine Menge oder Atückzahl ode eine prozentuale Änderung
@@ -20,7 +28,7 @@ das Ziel sollte attraktiv für Dich sein, damit wird Dopamin ausgeschüttet, das
 - Mache es realistisch mit der Frage: Kann ich mein Ziel erreichen?  unrealistische Ziele sind per Definition kaum erreichbar, daher sollten Ziele immer realistisch formuliert werden. Eine Vision hingegen darf gerne groß und unerreichbar sein, die Ziele die dahinterstehen müssen aber konkret sein.
 - Mache es terminiert mit der Frage: Wann will ich mein Ziel erreichen?  dsetze eine Frist , ein konkretes end Datum 
 
-Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert. Studien zeigen, dass 
+3. Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert. Studien zeigen, dass 
 
 Das Konzept wurde schon 1981 von George Doran, Arthur Miller, and James Cunningham in einem research paper veröffentlicht: 
 https://cce.bard.edu/files/Setting-Goals.pdf 
@@ -30,37 +38,37 @@ Seitdem wird die Methode von vielen Organisationen und Individuen erfolgreich ge
 
 ## 1. Abnehmen
 
-Ein unsmartes Abnhemziel: “Ich möchte abnehmen”
-
-Das Ziel s.m.a.r.t. formuliert:
+Hier wurde das unspezifisches Ziel: “Ich möchte abnehmen” mit den s.m.a.r.t.en Fragen umformuliert:
 
 **Spezifisch**
 Was genau möchte ich erreichen ?
+
 Ich möchte bis Ende Januar 2 Kilo abnehmen.
 
 **Messbar**
 Wie kann ich es messen?
+
 Dafür esse ich zu Mittag mehr Protein und Gemüse und keinen Nachtisch. Mein Teller enthält zur Hälfte Gemüse und zu einem Drittel komplexe Kohlenhydrate und gesundes Protein. Ich trinke vor jedem Essen ein großes Glas Wasser.
 
 **Attraktiv**
 Warum ist es mir wichtig?
-Ich möchte mich wohl in meinem Körper fühlen ind wieder in meine Jeans passen.
+
+Ich möchte mich wohl in meinem Körper fühlen und wieder in meine Jeans passen.
 
 **Realistisch**
 Kann ich das Ziel erreichen?
-Ja ich kann vor jedem Essen ein Glas Wasser trinken, ich kann mir meinen Teller zur Hälfte mit Gemüse, Salat etc füllen und darauf Pute, Feta, Hünchen, Bohnen, Thunfisch oder Ähnliches anrichten. Den Rest fülle ich mit Komplexen Kohlenhydrate und gesunden Fetten auf. Ich kann mir täglich Rezepte vorschlagen lassen.
+
+Ja ich kann vor jedem Essen ein Glas Wasser trinken, ich kann mir meinen Teller zur Hälfte mit Gemüse, Salat etc füllen und darauf Pute, Feta, Hünchen, Bohnen, Thunfisch oder Ähnliches anrichten. Den Rest fülle ich mit Komplexen Kohlenhydrate und gesunden Fetten auf. 
+Ich kann mir täglich Rezepte basierend auf diesen Kritieren per App vorschlagen lassen.
 
 **Terminiert**
 Bis wann möchte ich es erreichen?
-Bis Ende Januar
+
+Bis Ende Januar.
 
 ## 2. Ebook schreiben
 
-Ein unsmartes Produktivitätsziel: “Ich möchte ein ebook schreiben”
-
-Das Ziel s.m.a.r.t. formuliert:
-
-Smart formuliert:
+Hier wurde das unspezifisches Ziel “Ich möchte ein ebook schreiben” mit den s.m.a.r.t.en Fragen umformuliert:
 
 **Spezifisch**
 Was genau möchte ich erreichen ? 
@@ -73,9 +81,13 @@ wie kann ich es messen?
 Das pdf soll mind. 6 Hacks enthalten, die sich auf mind. 5 Seiten verteilen. Ich werde 500 Wörter pro Tag schreiben.
 
 **Attraktiv**
-Ja, es ist es mir auf jeden Fall wichtig. Dieses Gebiet fasziniert mich und ich kenne mich darin sehr gut aus. Dadurch kann ich mein Wissen weitergeben, etwas kreieren und anderen helfen und auf mich aufmerksam machen.
+Warum ist es mir wichtig? 
+
+Es ist es mir auf jeden Fall wichtig, denn ieses Gebiet fasziniert mich und ich liebe es, mein Wissen dazu weiterzugeben, etwas zu kreieren und anderen helfen zu können.
 
 **Realistisch**
+Ist es umsetzbar? 
+
 Ja, es ist machbar. Dafür schreibe ich jeden Tag am Morgen einen Draft zu einem konkreten Brainhack, mit Problemstellung, Hack, Beispielen und wissenschaftlichem Nachweis.
 Jedes Wochenende überarbeite ich die drafts und publishe sie. 
 Ich weiss, dass ich 1 Hack pro Tag schreiben kann. Dann benötige ich Tage für den Draft. Für die Überarbeitung rechne ich jeweils nochmal 1 Tag pro Hack ein, dies ergibt 6 Tage ein. Weitere 6 Tage plane ich für das Design des Buchs und einen Puffer mit 10 Tagen für Krankheit oder Unvorhergesehenes.
@@ -83,47 +95,63 @@ Ich weiss, dass ich 1 Hack pro Tag schreiben kann. Dann benötige ich Tage für 
 **Terminiert**
 In 28 Tagen ist mein pdf fertiggestellt.
 
-3. Ich möchte fit werden
+## 3. Fit werden
 
-Spezifisch: Was genau möchte ich erreichen ? 
+Hier wurde das unspezifisches Ziel “Ich möchte fit werden” mit den s.m.a.r.t.en Fragen umformuliert:
+
+**Spezifisch**
+Was genau möchte ich erreichen? 
 Jeden Tag absolviere ich mindestens ein 5 minütiges Hit Training oder ich gehe alternativ mindestens eine halbe Stunde spazieren.
 
-Messbar: wie kann ich es messen? 
+**Messbar**
+Wie kann ich es messen? 
+
 Ich trainiere jeden Tag nach dem Mittagessen, mit einer Dauer von mindestens 5 Minuten haben und einer Herzrate auf 140 . Alternativ war ich mindestens eine halbe Stunde spazieren.
 
-Attraktiv: warum ist es mir wichtig? 
-das Ziel ist mir sehr wichtig:  Mit diesem täglichen Gewohnheit kann ich mich jeden Tag bewegen, Dadurch bleibe ich gesund, kann meine Konzentration und Produktivität steigern. Und kann vor allem meinen Stress abzubauen.
+**Attraktiv**
+Warum ist es mir wichtig? 
 
-Realistisch: ist es umsetzbar? 
+Das Ziel ist mir sehr wichtig:  Mit diesem täglichen Gewohnheit kann ich mich jeden Tag bewegen, Dadurch bleibe ich gesund, kann meine Konzentration und Produktivität steigern. Und kann vor allem meinen Stress abzubauen.
+
+**Realistisch**
+Ist es umsetzbar? 
+
 Ja, Es ist umsetzbar: 5 Minuten HIT oder 30 Minuten spazieren gehen kann ich täglich umsetzen, es ist auch an stressigen Tagen odevauch im Hotelzimmer mchbrar und durchhaltbar.
 Bei Erkältung oder Muskelkater kann ich immer das Spazierengehen wählen.
 
-Terminiert: Bis wann möchte ich mein Ziel erreichen ? 
+**Terminiert**
+Bis wann möchte ich mein Ziel erreichen ? 
+
 das Training werde ich täglich absolvieren. Die Uhrzeit spielt eine untergeordnete Rolle, aber zur Mitagszeit ist es am realistischsten.
 
 
-1. Beispiel: Veröffentlichung eines Blogs
+## 3. Veröffentlichung eines Blogs
 Beim Erstellen dieses Blogs habe ich folgendes SMARTe Ziel formuliert:
 
-Spezifisch: Was genau möchte ich erreichen?
+**Spezifisch**
+Was genau möchte ich erreichen?
 
-In 10:Tagen veröffentliche ich meinen eigenen Blog. Die Zielgruppe meines Blogs sind alle, die verstehen wollen, wie sie vom Gehirnbenutzer zum Gehirnbenutzer werden können und damit große Ziele in kleine. Schritten erreichen können.. Der Blog soll meiner Zielgruppe helfen, ihr Wohlbefinden, ihre Gesundheit und ihre Produktivität zu steigern.
+In 10 Tagen veröffentliche ich meinen eigenen Blog. Die Zielgruppe meines Blogs sind alle, die verstehen wollen, wie sie vom Gehirnversteher und zum smarten Gehirnbenutzer werden können und damit große Ziele in kleinen Schritten erreichen können. Der Blog soll meiner Zielgruppe helfen, ihr Wohlbefinden, ihre Gesundheit und ihre Produktivität zu steigern.
 
-Messbar: Wie kann ich es quantifizieren?
+**Messbar**
+Wie kann ich es messen?
 
-Der Blog soll beim Start 6 Blogartikel mit Brain Hacks enthalten mit jeweils mindestens 400 Worten. Ich möchte mindestes 3 Hacks im Draft haben. Damit stelle ich genügend Inhalte in den ersten Tagen nach der Veröffentlichung sicher und habe ein Backup .
+Der Blog enthält beim Start 6 Blogartikel mit Brain Hacks die jeweils mindestens 400 Worte umfassen. Ich möchte mindestes 3 Hacks im Draft haben. Damit stelle ich genügend Inhalte in den ersten Tagen nach der Veröffentlichung sicher und habe ein Backup 
 
-Attraktiv: Ist es mir wichtig?
+**Attraktiv**
+Ist es mir wichtig?
 
 Ja, das Ziel ist mir wichtig. Das Thema Brain Hacks begeistert mich, ich lerne selbst dazu und kann meine learnings teilen und damit anderen helfen, deutlich bewusster mit ihrem Gehirn zu arbeiten und dadurch mehr zu erreichen.
 
-Realistisch: Kann ich mein Ziel erreichen?
+**Realistisch**
+Kann ich mein Ziel erreichen?
 
 Ja, das kann ich! In den ersten 6 Tagen kann ich 6 Hacks draften, dazu 1 Tag pro Hack fürs finetuning und veröffentlichen und 10 Tage als Puffer für Krankheiten etc.  den übrigen 30 Tagen kann ich Blog weiter konfigurieren, das Impressum und „Über Mich“ erstellen und über weiter Schritte nachdenken.
 
-Terminiert: Wann will ich mein Ziel erreichen?
+**Terminiert**
+Wann will ich mein Ziel erreichen?
 
-In 2 Monaten habe ich mein großes Ziel erreicht, jede Woche setze ich ein Zwischenspiel mit Veröffentlichungen von 2 Hacks.
+In 2 Monaten habe ich mein großes Ziel erreicht, jede Woche setze ich ein Zwischenziel mit Veröffentlichungen von 2 Hacks.
 
 
 # Mehr zum Thema:
