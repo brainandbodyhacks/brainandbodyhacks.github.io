@@ -23,12 +23,16 @@ Schreibe dein Ziel grob auf.
 
 Nun beantworte die folgenden Fragen dazu:
 
-- Mache das Ziel spezifisch mit der Frage: Was genau möchte ich erreichen?  es sollte ein klar benanntes konkretes Ziel für Dich sein, keine allgemeine Formulierung, wie z.B Weltfrieden 
-- Mache es messbar mit der Frage: Wie kann ich es quantifizieren?  setze einen Messwert, wie eine Frist, eine Menge oder Atückzahl ode eine prozentuale Änderung
-- Mache das Ziel attraktiv mit der Frage: Ist es mir wichtig?  
-das Ziel sollte attraktiv für Dich sein, damit wird Dopamin ausgeschüttet, dass die Zielerreichung motiviert
-- Mache das Ziel realistisch mit der Frage: Kann ich mein Ziel erreichen?  unrealistische Ziele sind per Definition kaum erreichbar, daher sollten Ziele immer realistisch formuliert werden. Eine Vision hingegen darf gerne groß und unerreichbar sein, die Ziele die dahinterstehen müssen aber konkret sein.
-- Mache das Ziel terminiert mit der Frage: Wann will ich mein Ziel erreichen?  dsetze eine Frist , ein konkretes end Datum 
+- Was genau möchte ich erreichen?  es sollte ein klar benanntes konkretes Ziel für Dich sein, keine allgemeine Formulierung, wie z.B Weltfrieden. Durch die Beantwortung der Frage siehst Du, ob das Ziel spezifisch ist.
+
+- Wie kann ich es quantifizieren?  setze einen Messwert, wie eine Frist, eine Menge oder Atückzahl ode eine prozentuale Änderung. Durch die Beantwortung der Frage siehst Du, ob das Ziel messbar ist.
+
+- Ist es mir wichtig?  
+das Ziel sollte attraktiv für Dich sein, damit wird Dopamin ausgeschüttet, dass die Zielerreichung motiviert. Durch die Beantwortung der Frage siehst Du, ob das Ziel attraktiv ist.
+
+- Kann ich mein Ziel erreichen?  unrealistische Ziele sind per Definition kaum erreichbar, daher sollten Ziele immer realistisch formuliert werden. Eine Vision hingegen darf gerne groß und unerreichbar sein, die Ziele die dahinterstehen müssen aber konkret sein. Durch die Beantwortung der Frage siehst Du, ob das Ziel realistisch ist.
+  
+- Wann will ich mein Ziel erreichen?  Setze eine Frist, ein konkretes Datum. Durch die Beantwortung der Frage siehst Du, ob das Ziel terminiert ist.
 
 Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert. Studien zeigen, dass 
 
