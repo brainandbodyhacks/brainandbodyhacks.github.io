@@ -94,7 +94,7 @@ Jedes Wochenende überarbeite ich die drafts und publishe sie.
 Ich weiss, dass ich 1 Hack pro Tag schreiben kann. Dann benötige ich Tage für den Draft. Für die Überarbeitung rechne ich jeweils nochmal 1 Tag pro Hack ein, dies ergibt 6 Tage ein. Weitere 6 Tage plane ich für das Design des Buchs und einen Puffer mit 10 Tagen für Krankheit oder Unvorhergesehenes.
 
 **Terminiert**
-In 28 Tagen ist mein pdf fertiggestellt.
+In 28 Tagen ist mein Dokument fertiggestellt.
 
 ## 3. Fit werden
 
@@ -102,7 +102,7 @@ Hier wurde das unspezifisches Ziel “Ich möchte fit werden” mit den s.m.a.r.
 
 **Spezifisch**
 Was genau möchte ich erreichen? 
-Jeden Tag absolviere ich mindestens ein 5 minütiges Hit Training oder ich gehe alternativ mindestens eine halbe Stunde spazieren.
+Jeden Tag absolviere ich mindestens ein 5 minütiges H.I.T. Training oder ich gehe alternativ mindestens eine halbe Stunde spazieren.
 
 **Messbar**
 Wie kann ich es messen? 
@@ -117,7 +117,7 @@ Das Ziel ist mir sehr wichtig:  Mit diesem täglichen Gewohnheit kann ich mich j
 **Realistisch**
 Ist es umsetzbar? 
 
-Ja, Es ist umsetzbar: 5 Minuten HIT oder 30 Minuten spazieren gehen kann ich täglich umsetzen, es ist auch an stressigen Tagen odevauch im Hotelzimmer mchbrar und durchhaltbar.
+Ja, Es ist umsetzbar: 5 Minuten H.I.T. oder 30 Minuten spazieren gehen kann ich täglich umsetzen, es ist auch an stressigen Tagen oder sogar auf Reisen machbar und durchhaltbar.
 Bei Erkältung oder Muskelkater kann ich immer das Spazierengehen wählen.
 
 **Terminiert**
@@ -127,7 +127,7 @@ das Training werde ich täglich absolvieren. Die Uhrzeit spielt eine untergeordn
 
 
 ## 3. Veröffentlichung eines Blogs
-Beim Erstellen dieses Blogs habe ich folgendes SMARTe Ziel formuliert:
+Hier wurde das unspezifisches Ziel: “Ich möchte einen Blog veröffentlichen” mit den s.m.a.r.t.en Fragen umformuliert:
 
 **Spezifisch**
 Was genau möchte ich erreichen?
