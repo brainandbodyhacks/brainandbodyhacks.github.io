@@ -32,7 +32,7 @@ das Ziel sollte attraktiv für Dich sein, damit wird Dopamin ausgeschüttet, das
 3. Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert. Studien zeigen, dass 
 
 Das Konzept wurde schon 1981 von George Doran, Arthur Miller, and James Cunningham in einem research paper veröffentlicht: 
-https://cce.bard.edu/files/Setting-Goals.pdf 
+[Setting Goals](https://cce.bard.edu/files/Setting-Goals.pdf) 
 Seitdem wird die Methode von vielen Organisationen und Individuen erfolgreich genutzt um Ziele mit einem Aktionsplan zu konkretisieren.
 
 # Beispiele
@@ -156,12 +156,9 @@ In 2 Monaten habe ich mein großes Ziel erreicht, jede Woche setze ich ein Zwisc
 
 
 # Mehr zum Thema:
+- Ein entscheidende Komponente zur Zielerreichung ist die individuelle Motivation. Hier erfährst Du die neurowissenschaftlichen Hintergründe zur effektiven Zielsetzung, Motivationssteigerung und den beteiligten Neurotransmittern: [The Neuroscience of Motivation: The Brain’s Role in Achieving Goals]([https://cce.bard.edu/files/Setting-Goals.pdf](https://www.modernmindmasters.com/the-neuroscience-of-motivation/)
 
-- Ein entscheidende Komponente zur Zielerreichung ist die individuelle Motivation. Hier erfährst Du die neurowissenschaftlichen Hintergründe zur effektiven Zielsetzung, Motivationssteigerung und den beteiligten Neurotransmittern:
-https://www.modernmindmasters.com/the-neuroscience-of-motivation/
-
-- Dieser Artikel beleuchtet das aktuelle Verständnis von Zielerreichung und Verhaltensänderungen aus der Hirnforschung:
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854216/
+- Dieser Artikel beleuchtet das aktuelle Verständnis von Zielerreichung und Verhaltensänderungen aus der Hirnforschung: [The Neuroscience of Goals and Behavior Change](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854216/)
 
 **_#staysharp_**
 
