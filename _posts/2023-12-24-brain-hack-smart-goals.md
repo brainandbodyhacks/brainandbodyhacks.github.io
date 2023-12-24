@@ -163,4 +163,6 @@ https://www.modernmindmasters.com/the-neuroscience-of-motivation/
 - Dieser Artikel beleuchtet das aktuelle Verständnis von Zielerreichung und Verhaltensänderungen aus der Hirnforschung:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854216/
 
+**_#staysharp_**
+
 
