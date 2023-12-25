@@ -16,7 +16,7 @@ Du möchtest Deine Zeit effizient nutzen und Dinge umsetzen.
 
 # Hack
 
-## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
+## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 
 **Brainhack Produktivitäts-Prio**: Finde Deine Zeit für optimale Performance und plane dort die wichtigsten Aktivitäten.
 
