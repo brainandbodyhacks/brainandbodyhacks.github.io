@@ -9,7 +9,7 @@ tags: bodyhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du kämpfst oft mit Erkältungen oder hast ständig Entzündungen, kurz Dein Immunsystem ist nicht das Beste .
+Du kämpfst oft mit Erkältungen oder hast ständig Entzündungen, kurz Dein Immunsystem ist nicht das Beste.
 
 ## Was ist das Ziel?
 Du möchtest Deine Entzündungen bekämpfen, Dein Immunsystem stärken und die allgemeine Gehirngesundheit fördern.
@@ -22,19 +22,20 @@ Omega-3-Fettsäuren sind eine Gruppe von mehrfach ungesättigten Fettsäuren, di
 Sie sind essenziell, das heißt, unser Körper kann sie nicht selbst herstellen und muss sie über die Nahrung aufnehmen. 
 
 Die wichtigsten Omega-3-Fettsäuren sind:
-- Alpha-Linolensäure (ALA), die in pflanzlichen Lebensmitteln wie Leinöl, Rapsöl, Walnüssen, Chiasamen oder Grünkohl vorkommt .
+- Alpha-Linolensäure (ALA), die in pflanzlichen Lebensmitteln wie Leinöl, Rapsöl, Walnüssen, Chiasamen oder Grünkohl vorkommt.
 - Eicosapentaensäure (EPA) und Docosahexaensäure (DHA), die in tierischen Lebensmitteln wie Fisch, Meeresfrüchten, Eiern oder Milchprodukten vorkommen.
 
 Unser Körper kann ALA in EPA und DHA umwandeln, aber nur in geringen Mengen.
 Deshalb ist es empfehlenswert, regelmäßig Fisch oder andere tierische EPA- und DHA-Quellen zu essen, oder gegebenenfalls Nahrungsergänzungsmittel wie Fischöl oder Algenkapseln zu nehmen.
 
-Die empfohlene Tagesdosis für Omega-3-Fettsäuren liegt bei etwa 250 mg EPA und DHA für Erwachsene und 100 mg für Kinder.  Um eine optimale Wirkung zu erzielen, sollte man außerdem darauf achten, dass das Verhältnis von Omega-3- zu Omega-6-Fettsäuren, die in vielen pflanzlichen Ölen, Nüssen, Samen oder Fleisch enthalten sind, nicht zu hoch ist. Ein ideales Verhältnis liegt bei etwa 1:5 .
+Die empfohlene Tagesdosis für Omega-3-Fettsäuren liegt bei etwa 250 mg EPA und DHA für Erwachsene und 100 mg für Kinder.  Um eine optimale Wirkung zu erzielen, sollte man außerdem darauf achten, dass das Verhältnis von Omega-3- zu Omega-6-Fettsäuren, die in vielen pflanzlichen Ölen, Nüssen, Samen oder Fleisch enthalten sind, nicht zu hoch ist. Ein ideales Verhältnis liegt bei etwa 1:5.
 
 # Beispiele
 Die positiven Wirkungen von EPA und DHA im Körper sind wissenschaftlichen gut belegt, wie zum Beispiel:
 
 ## 1. Herz-Kreislauf-System stärken
 Sie können die normale Funktion des Herz-Kreislauf-Systems unterstützen, indem sie den Blutdruck und den Cholesterinspiegel senken und die Blutgerinnung verlangsamen. 
+
 ## 2. Gehirnfunktion fördern
 Sie können die Entwicklung und Funktion des Gehirns fördern, insbesondere bei Kindern, Schwangeren und älteren Menschen.
 
@@ -42,7 +43,7 @@ Sie können die Entwicklung und Funktion des Gehirns fördern, insbesondere bei 
 Sie wirken entzündungshemmend und können bei Erkrankungen wie Arthritis, Asthma, Neurodermitis oder Depression helfen.
 
 ## 4. Das Immunsystem stärken
-Sie stärken das Immunsystem und schützen vor Infektionen .
+Sie stärken das Immunsystem und schützen vor Infektionen.
 
 ## 5. Die Sehkraft verbessern
 Sie verbessern die Sehkraft und die Gesundheit der Augen.
