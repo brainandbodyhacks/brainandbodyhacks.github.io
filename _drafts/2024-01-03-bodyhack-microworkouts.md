@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodyhack "microworkouts"
-summary: Mit dem Bodyhack "microworkouts" kannst Du in einer Minute Deine Durchblutung steigern, Deine Willenskraft stärken und den Gefahren des langen Sitzens vorbeugen
+summary: Mit dem Bodyhack "microworkouts" kannst Du in wenigen Minuten Deine Durchblutung steigern, Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
 lang: de
 tags: bodyhack
 ---
