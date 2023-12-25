@@ -40,7 +40,14 @@ Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größ
 Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! 
 
 ## 1. 20 Sekunden Sprint
-## 2. Burpees, Liegestütze, Klimmzüge
+Das Training umfasst drei 20-sekündige „All-Out“-Zyklussprints, dauert insgesamt 10 Minuten, einschließlich 2 Minuten Warm-Up und 3 Minuten Cool-Down, sowie 2 Minuten lockeres Radfahren zur Entspannung zwischen den Sprints.
+
+Verglichen mit einer Gruppe, die einen fünfmal höheren Trainingsaufwand investierte - nämlich 45 Minuten ununterbroches Radfahren in mäßigem Tempo, plus das gleiche Aufwärmen und Abkühlen - waren die Ergebnisse nach 12 Wochen Training bemerkenswert ähnlich.
+
+## 2. Mountain Climbers, Liegestütze, Burpees
+Mein eigenes Lieblingsintervalltraining umfasst 2 Runden mit: 
+je 30 Sekunden Mountain Climbers - 30 Sekunden Erhohlung - 30 Sekunden Liegestütze - 30 Sekunden Erhohlung - 30 Sekunden Burpees.
+Ich absolviere das Traing täglich nach dem Mittagessen nach emtsprechendem Warm-Up und variiere die Übungen nach Belieben mit High Knees, Hampelmännern und Pull-Ups.
 
 # Hack Rating
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
@@ -52,4 +59,5 @@ Kosten: 5
 Effizienz: 4
 
 # Mehr zum Thema
+- [No time to get fit? Think again](https://www.sciencedaily.com/releases/2016/04/160427095204.htm)
 - [The One-Minute Workout](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi92pbv0qqDAxUMSPEDHbhsAIMQFnoECFQQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCYphNKuwLq3AM78cmA0DZ6g&usg=AOvVaw2vl-duq4QlHAIkHtQMWmBT&opi=89978449)
