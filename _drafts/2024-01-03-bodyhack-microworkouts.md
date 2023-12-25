@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bodyhack "1 Minute Move"
-summary: Mit dem Bodyhack "1 Minute Move" kannst Du in einer Minute Deine Durchblutung steigern, Deine Willenskraft stärken und den Gefahren des langen Sitzens vorbeugen
+title: Bodyhack "microworkouts"
+summary: Mit dem Bodyhack "microworkouts" kannst Du in einer Minute Deine Durchblutung steigern, Deine Willenskraft stärken und den Gefahren des langen Sitzens vorbeugen
 lang: de
 tags: bodyhack
 ---
