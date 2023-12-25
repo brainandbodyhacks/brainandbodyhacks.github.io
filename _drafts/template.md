@@ -14,7 +14,7 @@ tags: brainhack
 
 # Hack
 
-## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
+## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 
 # Beispiele
 
