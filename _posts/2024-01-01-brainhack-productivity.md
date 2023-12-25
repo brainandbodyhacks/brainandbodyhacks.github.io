@@ -38,10 +38,12 @@ Vor dem Snack bzw. zur Mittagszeit hin, wurden die Anträge in fast allen Fälle
 Erst nach dem Mittagessen pendelte sich die Quote wieder bei etwa Zweidritteln ein." - [jurios](https://jurios.de/2018/04/17/studie-hungrige-richter-faellen-haertere-urteile/)
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier das Ergebnis für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein Rating für den heutigen Hack:
 
 Zeitaufwand: 3
+
 Kosten: 4
+
 Effizienz: 4
 
 # Mehr zum Thema
