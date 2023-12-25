@@ -166,10 +166,12 @@ Wann will ich mein Ziel erreichen?
 In 2 Monaten habe ich mein großes Ziel erreicht, jede Woche setze ich ein Zwischenziel mit Veröffentlichungen von 2 Hacks.
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier das Ergebnis für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein Rating für den heutigen Hack:
 
 Zeitaufwand: 3
+
 Kosten: 4
+
 Effizienz: 4
 
 # Mehr zum Thema
