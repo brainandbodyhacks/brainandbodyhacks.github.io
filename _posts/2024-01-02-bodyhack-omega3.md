@@ -16,7 +16,7 @@ Du möchtest Deine Entzündungen bekämpfen, Dein Immunsystem stärken und die a
 
 # Hack
 
-## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
+## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 **Bodyhack Omega-3-Boost**
 Omega-3-Fettsäuren sind eine Gruppe von mehrfach ungesättigten Fettsäuren, die für unsere Gesundheit wichtig sind. 
 Sie sind essenziell, das heißt, unser Körper kann sie nicht selbst herstellen und muss sie über die Nahrung aufnehmen. 
