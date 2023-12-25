@@ -24,13 +24,22 @@ Der Alterungsprozess wird bekämpft,  das Risiko, an Krankheiten wie Herz-Kreisl
 
 Doch viele  von uns haben einen vollgepackten Terminplan und den Eindruck, dass Sport dort keinen Platz hat, da er zeitintensiv ist. 
 Wir gehen davon aus, dass wir mehr Zeit investieren müssen, als wir haben, damit das Training wirksam sein kann.
-Doch Im letzten Jahrzehnt gab es neue Erkenntnisse der Wissenschaft um das hochintensive Intervalltraining, besser bekannt als HIIT, ausgesprochen „Hit“. 
+
+Doch Im letzten Jahrzehnt gab es neue Erkenntnisse der Wissenschaft um das hochintensive Intervalltraining, besser bekannt als **HIIT, ausgesprochen „Hit“**. 
 Wir haben gelernt, dass HIIT erhebliche Vorteile bieten kann und die Zeit eines Trainings erheblich verkürzen kann. 
+
+Was ist Intervalltraining? Im Grunde handelt es sich dabei um kurze, sehr intensive Trainingsinzervalle, gefolgt von Erholungsphasen im schnellen Wechsel:
+
+**Volle Power, entspannen , volle Power, entspannen, volle Power..., entspannen**
+
+Die Technik kann auf praktisch jede Workoutart angewendet werden, Radfahren, Schwimmen oder Training mit dem eigenen Körpergewicht wie Burpees, Liegestütze oder Klimmzüge.
+
+Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehe  wollen, dann sind Intervalltrainingstechniken eine der effizientesten Lösungen.
 
 # Beispiele
 
 ## 1. 20 Sekunden Sprint
-## 2. Burpees
+## 2. Burpees, Liegestütze, Klimmzüge
 
 # Mehr zum Thema
 - [The One-Minute Workout](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi92pbv0qqDAxUMSPEDHbhsAIMQFnoECFQQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCYphNKuwLq3AM78cmA0DZ6g&usg=AOvVaw2vl-duq4QlHAIkHtQMWmBT&opi=89978449)
