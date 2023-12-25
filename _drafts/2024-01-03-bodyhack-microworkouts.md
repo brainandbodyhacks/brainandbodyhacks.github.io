@@ -37,7 +37,7 @@ Die Technik kann auf praktisch jede Workoutart angewendet werden, Radfahren, Sch
 Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehe  wollen, dann sind Intervalltrainingstechniken eine der effizientesten Lösungen.
 
 # Beispiele
-Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! 
+Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! Nicht geeignet bei Krankheit!
 
 ## 1. 20 Sekunden Sprint
 Das Training umfasst drei 20-sekündige „All-Out“-Zyklussprints, dauert insgesamt 10 Minuten, einschließlich 2 Minuten Warm-Up und 3 Minuten Cool-Down, sowie 2 Minuten lockeres Radfahren zur Entspannung zwischen den Sprints.
@@ -47,7 +47,7 @@ Verglichen mit einer Gruppe, die einen fünfmal höheren Trainingsaufwand invest
 ## 2. Mountain Climbers, Liegestütze, Burpees
 Mein eigenes Lieblingsintervalltraining umfasst 2 Runden mit: 
 je 30 Sekunden Mountain Climbers - 30 Sekunden Erhohlung - 30 Sekunden Liegestütze - 30 Sekunden Erhohlung - 30 Sekunden Burpees.
-Ich absolviere das Traing täglich nach dem Mittagessen nach emtsprechendem Warm-Up und variiere die Übungen nach Belieben mit High Knees, Hampelmännern und Pull-Ups.
+Ich absolviere das Training täglich nach dem Mittagessen nach entsprechendem Warm-Up und variiere die Übungen nach Belieben mit High Knees, Hampelmännern und Pull-Ups.
 
 # Hack Rating
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
