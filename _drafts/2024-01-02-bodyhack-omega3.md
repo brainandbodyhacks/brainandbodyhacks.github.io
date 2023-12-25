@@ -8,11 +8,11 @@ tags: bodyhack
 
 # Problem:
 ## Was ist das Problem?
-Du hast ständig Entzündungen, Dein Immunsystem ist nicht das Beste und Du kämpfst daher oft mit Erkältungen.
+Du kämpfst oft mit Erkältungen oder hast ständig Entzündungen, kurz Dein Immunsystem ist nicht das Beste .
 
 # Ziel: 
 ## Was ist das Ziel?
-Entzündungen bekämpfen, das Immunsystem stärken und die allgemeine Gehirngesundheit fördern.
+Du möchtest Deine Entzündungen bekämpfen, Dein Immunsystem stärken und die allgemeine Gehirngesundheit fördern.
 
 # Hack: 
 ## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
@@ -31,21 +31,21 @@ Die empfohlene Tagesdosis für Omega-3-Fettsäuren liegt bei etwa 250 mg EPA und
 # Beispiele
 Die positiven Wirkungungen von EPA und DHA im Körper sind wissenschaftlichen gut belegt, wie zum Beispiel:
 
-## 1. 
+## 1. Herz-Kreislauf-System stärken
 Sie können die normale Funktion des Herz-Kreislauf-Systems unterstützen, indem sie den Blutdruck und den Cholesterinspiegel senken und die Blutgerinnung verlangsamen. 
-## 2 
+## 2. Gehirnfunktion fördern
 Sie können die Entwicklung und Funktion des Gehirns fördern, insbesondere bei Kindern, Schwangeren und älteren Menschen.
 
-## 3
+## 3. Entzündungen hemmen
 Sie wirken entzündungshemmend und können bei Erkrankungen wie Arthritis, Asthma, Neurodermitis oder Depression helfen.
 
-## 4
+## 4. Das Immunsystem stärken
 Sie stärken das Immunsystem und schützen vor Infektionen .
 
-## 5
+## 5. Die Sehkraft verbessern
 Sie verbessern die Sehkraft und die Gesundheit der Augen.
 
-## 6
+## 6. Stoffwechsel anregen
 Sie unterstützen den Gewichtsverlust und den Muskelaufbau, indem sie den Stoffwechsel anregen und die Fettverbrennung erhöhen.
 
 
