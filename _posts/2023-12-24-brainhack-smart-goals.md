@@ -23,20 +23,24 @@ Schreibe dein Ziel grob auf.
 
 Nun beantworte die folgenden Fragen dazu:
 
-- Was genau möchte ich erreichen?  Du solltest ein klares konkretes Ziel für Dich benennen, keine allgemeine Formulierung, wie z.B Weltfrieden. Durch die Beantwortung der Frage siehst Du, ob das Ziel spezifisch ist.
+- Was genau möchte ich erreichen?
+Du solltest ein klares konkretes Ziel für Dich benennen, keine allgemeine Formulierung, wie z.B Weltfrieden. Durch die Beantwortung der Frage siehst Du, ob das Ziel spezifisch ist.
 
-- Wie kann ich es messen?  Setze einen Messwert, wie eine Frist, eine Menge oder Stückzahl oder eine prozentuale Änderung. Durch die Beantwortung der Frage siehst Du, ob das Ziel messbar ist.
+- Wie kann ich es messen?
+Setze einen Messwert, wie eine Frist, eine Menge oder Stückzahl oder eine prozentuale Änderung. Durch die Beantwortung der Frage siehst Du, ob das Ziel messbar ist.
 
 - Ist es mir wichtig?  
 Das Ziel sollte attraktiv für Dich sein, damit wird Dopamin ausgeschüttet, dass die Zielerreichung motiviert. Durch die Beantwortung der Frage siehst Du, ob das Ziel attraktiv ist.
 
-- Kann ich mein Ziel erreichen?  Unrealistische Ziele sind per Definition kaum erreichbar, daher sollten Ziele immer realistisch formuliert werden. Eine Vision hingegen darf gerne groß und unerreichbar sein, die Ziele die dahinterstehen müssen aber konkret sein. Durch die Beantwortung der Frage siehst Du, ob das Ziel realistisch ist.
+- Kann ich mein Ziel erreichen?
+Unrealistische Ziele sind per Definition kaum erreichbar, daher sollten Ziele immer realistisch formuliert werden. Durch die Beantwortung der Frage siehst Du, ob das Ziel realistisch ist.
   
-- Wann will ich mein Ziel erreichen?  Setze eine Frist, ein konkretes Datum. Durch die Beantwortung der Frage siehst Du, ob das Ziel terminierbar ist.
+- Wann will ich mein Ziel erreichen?
+Setze eine Frist, ein konkretes Datum. Durch die Beantwortung der Frage siehst Du, ob das Ziel terminierbar ist.
 
-Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert. Studien zeigen, dass 
+Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert.
 
-Das Konzept wurde schon 1981 von George Doran, Arthur Miller, and James Cunningham in einem research paper veröffentlicht: 
+Das Konzept wurde schon 1981 von George Doran, Arthur Miller, and James Cunningham in einem Research Paper veröffentlicht: 
 [Setting Goals](https://cce.bard.edu/files/Setting-Goals.pdf) 
 Seitdem wird die Methode von vielen Organisationen und Individuen erfolgreich genutzt um Ziele mit einem Aktionsplan zu konkretisieren.
 
@@ -64,7 +68,7 @@ Ich möchte mich wohl in meinem Körper fühlen und wieder in meine Jeans passen
 **Realistisch**
 Kann ich das Ziel erreichen?
 
-Ja ich kann vor jedem Essen ein Glas Wasser trinken, ich kann mir meinen Teller zur Hälfte mit Gemüse, Salat etc füllen und darauf Pute, Feta, Hünchen, Bohnen, Thunfisch oder Ähnliches anrichten. Den Rest fülle ich mit Komplexen Kohlenhydrate und gesunden Fetten auf. 
+Ja ich kann vor jedem Essen ein Glas Wasser trinken, ich kann mir meinen Teller zur Hälfte mit Gemüse oder Salat füllen und darauf Pute, Feta, Hünchen, Bohnen, Thunfisch oder Ähnliches anrichten. Den Rest fülle ich mit komplexen Kohlenhydraten und gesunden Fetten auf. 
 Ich kann mir täglich Rezepte basierend auf diesen Kritieren per App vorschlagen lassen.
 
 **Terminiert**
@@ -82,21 +86,21 @@ Was genau möchte ich erreichen ?
 Ich möchte bis Ende März erst einmal ein mind. 5 seitiges pdf erstellen, das beschreibt, wie brain hacks uns helfen unser Gehirn smart zu benutzen und somit unsere Ziele zu erreichen.
 
 **Messbar**
-wie kann ich es messen? 
+Wie kann ich es messen? 
 
 Das pdf soll mind. 6 Hacks enthalten, die sich auf mind. 5 Seiten verteilen. Ich werde 500 Wörter pro Tag schreiben.
 
 **Attraktiv**
 Warum ist es mir wichtig? 
 
-Es ist es mir auf jeden Fall wichtig, denn ieses Gebiet fasziniert mich und ich liebe es, mein Wissen dazu weiterzugeben, etwas zu kreieren und anderen helfen zu können.
+Es ist es mir auf jeden Fall wichtig, denn dieses Gebiet fasziniert mich und ich liebe es, mein Wissen dazu weiterzugeben, etwas zu kreieren und anderen helfen zu können.
 
 **Realistisch**
 Ist es umsetzbar? 
 
 Ja, es ist machbar. Dafür schreibe ich jeden Tag am Morgen einen Draft zu einem konkreten Brainhack, mit Problemstellung, Hack, Beispielen und wissenschaftlichem Nachweis.
-Jedes Wochenende überarbeite ich die drafts und publishe sie. 
-Ich weiss, dass ich 1 Hack pro Tag schreiben kann. Dann benötige ich Tage für den Draft. Für die Überarbeitung rechne ich jeweils nochmal 1 Tag pro Hack ein, dies ergibt 6 Tage ein. Weitere 6 Tage plane ich für das Design des Buchs und einen Puffer mit 10 Tagen für Krankheit oder Unvorhergesehenes.
+Jedes Wochenende überarbeite ich die Drafts und veröffentliche sie. 
+Ich weiß, dass ich 1 Hack pro Tag schreiben kann. Dann benötige ich 6 Tage für alle Drafts. Für die Überarbeitung rechne ich jeweils nochmal 1 Tag pro Hack ein, dies ergibt nochmal 6 Tage. Weitere 6 Tage plane ich für das Design des Buchs und einen Puffer mit 10 Tagen für Krankheit oder Unvorhergesehenes.
 
 **Terminiert**
 In 28 Tagen ist mein Dokument fertiggestellt.
@@ -112,12 +116,12 @@ Jeden Tag absolviere ich mindestens ein 5 minütiges H.I.T. Training oder ich ge
 **Messbar**
 Wie kann ich es messen? 
 
-Ich trainiere jeden Tag nach dem Mittagessen, mit einer Dauer von mindestens 5 Minuten haben und einer Herzrate auf 140 . Alternativ war ich mindestens eine halbe Stunde spazieren.
+Ich trainiere jeden Tag nach dem Mittagessen, mit einer Dauer von mindestens 5 Minuten und einer Herzrate von 140 . Alternativ war ich mindestens eine halbe Stunde spazieren.
 
 **Attraktiv**
 Warum ist es mir wichtig? 
 
-Das Ziel ist mir sehr wichtig:  Mit diesem täglichen Gewohnheit kann ich mich jeden Tag bewegen, Dadurch bleibe ich gesund, kann meine Konzentration und Produktivität steigern. Und kann vor allem meinen Stress abzubauen.
+Das Ziel ist mir sehr wichtig:  Mit diesem täglichen Gewohnheit kann ich mich jeden Tag bewegen. Dadurch bleibe ich gesund, kann meine Konzentration und Produktivität steigern und vor allem meinen Stress abzubauen.
 
 **Realistisch**
 Ist es umsetzbar? 
@@ -128,7 +132,7 @@ Bei Erkältung oder Muskelkater kann ich immer das Spazierengehen wählen.
 **Terminiert**
 Bis wann möchte ich mein Ziel erreichen ? 
 
-das Training werde ich täglich absolvieren. Die Uhrzeit spielt eine untergeordnete Rolle, aber zur Mitagszeit ist es am realistischsten.
+Das Training werde ich täglich zur Mitagszeit absolvieren.
 
 
 ## 3. Veröffentlichung eines Blogs
@@ -137,12 +141,12 @@ Hier wurde das unspezifisches Ziel: “Ich möchte einen Blog veröffentlichen�
 **Spezifisch**
 Was genau möchte ich erreichen?
 
-In 10 Tagen veröffentliche ich meinen eigenen Blog. Die Zielgruppe meines Blogs sind alle, die verstehen wollen, wie sie vom Gehirnversteher und zum smarten Gehirnbenutzer werden können und damit große Ziele in kleinen Schritten erreichen können. Der Blog soll meiner Zielgruppe helfen, ihr Wohlbefinden, ihre Gesundheit und ihre Produktivität zu steigern.
+In 10 Tagen veröffentliche ich meinen eigenen Blog. Die Zielgruppe meines Blogs sind alle, die verstehen wollen, wie sie zum Gehirnversteher und smarten Gehirnbenutzer werden können und damit große Ziele in kleinen Schritten erreichen können. Der Blog soll meiner Zielgruppe helfen, ihr Wohlbefinden, ihre Gesundheit und ihre Produktivität zu steigern.
 
 **Messbar**
 Wie kann ich es messen?
 
-Der Blog enthält beim Start 6 Blogartikel mit Brain Hacks die jeweils mindestens 400 Worte umfassen. Ich möchte mindestes 3 Hacks im Draft haben. Damit stelle ich genügend Inhalte in den ersten Tagen nach der Veröffentlichung sicher und habe ein Backup 
+Der Blog enthält beim Start 6 Blogartikel mit Brain Hacks die jeweils mindestens 400 Worte umfassen. Ich möchte mindestes 3 Hacks im Draft haben. Damit stelle ich genügend Inhalte in den ersten Tagen nach der Veröffentlichung sicher und habe ein Backup.
 
 **Attraktiv**
 Ist es mir wichtig?
@@ -152,7 +156,7 @@ Ja, das Ziel ist mir wichtig. Das Thema Brain Hacks begeistert mich, ich lerne s
 **Realistisch**
 Kann ich mein Ziel erreichen?
 
-Ja, das kann ich! In den ersten 6 Tagen kann ich 6 Hacks draften, dazu 1 Tag pro Hack fürs finetuning und veröffentlichen und 10 Tage als Puffer für Krankheiten etc.  den übrigen 30 Tagen kann ich Blog weiter konfigurieren, das Impressum und „Über Mich“ erstellen und über weiter Schritte nachdenken.
+Ja, das kann ich! In den ersten 6 Tagen kann ich 6 Hacks draften, dazu 1 Tag pro Hack fürs Finetuning und Veröffentlichen und 10 Tage als Puffer für Krankheiten etc. In den übrigen 30 Tagen kann ich den Blog weiter konfigurieren, das Impressum und „Über Mich“ erstellen und über weiter Schritte nachdenken.
 
 **Terminiert**
 Wann will ich mein Ziel erreichen?
