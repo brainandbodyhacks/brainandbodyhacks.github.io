@@ -7,15 +7,17 @@ tags: brainhack
 ---
 
 
-# Problem:
+# Problem und Zielsetzung
+
 ## Was ist das Problem?
 Du erreichst Deine Ziele nicht. Immer wieder nimmst Du Dir etwas  vor, aber scheiterst dann an der Umsetzung.
 
-# Ziel: 
+
 ## Was ist das Ziel?
 Du möchtest Dir Ziele setzen, die Dir einen konkreten Nutzen bringen und die Du erreichen und umsetzen kannst.
 
-# Hack: 
+# Hack
+
 ## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
 Setze Dir nur Ziele, die die folgenden Kriterien erfüllen und formuliere diese auch konkret so.
 
@@ -164,7 +166,7 @@ Wann will ich mein Ziel erreichen?
 In 2 Monaten habe ich mein großes Ziel erreicht, jede Woche setze ich ein Zwischenziel mit Veröffentlichungen von 2 Hacks.
 
 
-# Mehr zum Thema:
+# Mehr zum Thema
 - Ein entscheidende Komponente zur Zielerreichung ist die individuelle Motivation. Hier erfährst Du die neurowissenschaftlichen Hintergründe zur effektiven Zielsetzung, Motivationssteigerung und den beteiligten Neurotransmittern: [The Neuroscience of Motivation: The Brain’s Role in Achieving Goals]([https://cce.bard.edu/files/Setting-Goals.pdf](https://www.modernmindmasters.com/the-neuroscience-of-motivation/)
 
 - Dieser Artikel beleuchtet das aktuelle Verständnis von Zielerreichung und Verhaltensänderungen aus der Hirnforschung: [The Neuroscience of Goals and Behavior Change](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854216/)
