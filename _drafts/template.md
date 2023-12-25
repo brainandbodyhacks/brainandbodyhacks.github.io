@@ -6,22 +6,19 @@ lang: de
 tags: brainhack
 ---
 
+# Problem und Zielsetzung
 
-# Problem:
 ## Was ist das Problem?
 
-
-# Ziel: 
 ## Was ist das Ziel?
 
+# Hack
 
-# Hack: 
 ## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
-
 
 # Beispiele
 
 ## 1. 
-## 2
+## 2.
 
-# Mehr zum Thema:
+# Mehr zum Thema
