@@ -9,7 +9,7 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du findest keine Zeit um die wichtigen Dinge zu erledigen, Du hast zu viele todos und triviale Aufgaben.
+Du findest keine Zeit um die wichtigen Dinge zu erledigen, Du hast zu viele Todos und triviale Aufgaben.
 
 ## Was ist das Ziel?
 Du möchtest Deine Zeit effizient nutzen und Dinge umsetzen.
@@ -24,8 +24,8 @@ Jeder hat eine innere Uhr und eine Zeit in der er potentiell produktiver ist als
 Finde für Dich diese Zeit indem Du Dein Energielevel prüfst und plane die wichtigsten Aufgaben in diese Zeit.
 Andere Aktivitäten, Routineaufgaben, wie Wäschewaschen oder Kontierung können wunderbar in den Energielöchern zum Beispiel nach dem Mittagessen eingeplant werden.
 
-Es gibt Beweise dafür, dass wenn der präfrontale Cortex erschöpft ist, deine entschedungsfähigkeit und Rationalität abnehmen. - todo Studie 
-Ein smarter Gehirnbenutzer legt die Aufgaben, die diese Fähigkeiten am ehesten fordern in die Zeiten an denen der prafrontale Cortex genug Energie hat.
+Es gibt Beweise dafür, dass wenn der präfrontale Cortex erschöpft ist, deine Entscheidungsfähigkeit und Rationalität abnehmen [^1].
+Ein smarter Gehirnbenutzer legt die Aufgaben, die diese Fähigkeiten am ehesten fordern in die Zeiten an denen der präfrontale Cortex genug Energie hat.
 
 # Beispiele
 Falls Du am produktivsten um 7 Uhr Morgens bist, aber zu dieser Zeit erstmal alle e-Mails prüftst oder eine Kaffepause machst, dann hast Du Deine Zeit nicht gehirngerecht genutzt.
@@ -47,7 +47,8 @@ Kosten: 4
 Effizienz: 4
 
 # Mehr zum Thema
-- Die Studie findest Du hier: [THE ROLE OF THE JUSTICE SYSTEM IN DECISION-MAKING FOR
+- [^1]: Universität Zürich https://idw-online.de/de/news615325
+- [THE ROLE OF THE JUSTICE SYSTEM IN DECISION-MAKING FOR
 CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-april2018.pdf)
 - [Sind wir, was wir essen?](https://www.psychologie.ch/sind-wir-was-wir-essen)
 - [Extraneous factors in judicial decisions](https://www.pnas.org/doi/10.1073/pnas.1018033108)
