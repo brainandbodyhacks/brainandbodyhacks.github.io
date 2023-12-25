@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodyhack "microworkouts"
-summary: Mit dem Bodyhack "microworkouts" kannst imitmwenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
+summary: Mit dem Bodyhack "microworkouts" kannst mit wenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
 lang: de
 tags: bodyhack
 ---
@@ -16,7 +16,7 @@ Du möchtest gesund bleiben und Dich fit fühlen, indem Du mit minimalem Zeitauf
 
 # Hack
 
-## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
+## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 **Bodyhack "microworkouts" oder auch "exercise snacking"**
 
 Durch regelmäßige körperliche Aktivität sehen wir besser aus und fühlen uns besser. 
@@ -25,7 +25,7 @@ Der Alterungsprozess wird bekämpft, das Risiko an Herz-Kreislauf-Erkrankungen, 
 Doch viele von uns haben einen vollgepackten Terminplan und den Eindruck, dass Sport dort keinen Platz hat, da er zeitintensiv ist. 
 Wir gehen davon aus, dass wir mehr Zeit investieren müssen, als wir haben, damit das Training wirksam sein kann.
 
-Doch Im letzten Jahrzehnt gab es viele neue Erkenntnisse aus der Wissenschaft zum Effekt des hochintensive Intervalltrainings, besser bekannt als **HIIT, ausgesprochen „Hit“**. 
+Doch Im letzten Jahrzehnt gab es viele neue Erkenntnisse aus der Wissenschaft zum Effekt des hochintensiven Intervalltrainings, besser bekannt als **HIIT, ausgesprochen „Hit“**. 
 Wir haben gelernt, dass HIIT große gesundheitliche Vorteile bieten und die Zeit eines Trainings erheblich verkürzen kann. 
 
 Was ist Intervalltraining? Im Grunde handelt es sich dabei um kurze, sehr intensive Trainingsinzervalle, gefolgt von Erholungsphasen im schnellen Wechsel:
@@ -34,7 +34,7 @@ Was ist Intervalltraining? Im Grunde handelt es sich dabei um kurze, sehr intens
 
 Die Technik kann auf praktisch jede Workoutart angewendet werden, Radfahren, Schwimmen oder Training mit dem eigenen Körpergewicht wie Burpees, Liegestütze oder Klimmzüge.
 
-Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehe  wollen, dann sind Intervalltrainingstechniken eine der effizientesten Lösungen.
+Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehen wollen, dann sind Intervalltrainingstechniken eine der effizientesten Lösungen.
 
 # Beispiele
 Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! Nicht geeignet bei Krankheit!
