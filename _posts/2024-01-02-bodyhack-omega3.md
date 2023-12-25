@@ -31,7 +31,7 @@ Deshalb ist es empfehlenswert, regelmäßig Fisch oder andere tierische EPA- und
 Die empfohlene Tagesdosis für Omega-3-Fettsäuren liegt bei etwa 250 mg EPA und DHA für Erwachsene und 100 mg für Kinder.  Um eine optimale Wirkung zu erzielen, sollte man außerdem darauf achten, dass das Verhältnis von Omega-3- zu Omega-6-Fettsäuren, die in vielen pflanzlichen Ölen, Nüssen, Samen oder Fleisch enthalten sind, nicht zu hoch ist. Ein ideales Verhältnis liegt bei etwa 1:5 .
 
 # Beispiele
-Die positiven Wirkungungen von EPA und DHA im Körper sind wissenschaftlichen gut belegt, wie zum Beispiel:
+Die positiven Wirkungen von EPA und DHA im Körper sind wissenschaftlichen gut belegt, wie zum Beispiel:
 
 ## 1. Herz-Kreislauf-System stärken
 Sie können die normale Funktion des Herz-Kreislauf-Systems unterstützen, indem sie den Blutdruck und den Cholesterinspiegel senken und die Blutgerinnung verlangsamen. 
