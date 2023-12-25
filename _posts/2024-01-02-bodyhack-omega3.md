@@ -63,9 +63,5 @@ Effizienz: 4
 # Mehr zum Thema
 - [Omega 3 – das essenzielle Supplement](https://medletics-academy.de/omega-3-das-essenzielle-supplement/)
 - [DAS Supplement: Omega 3 Detailvideo](https://www.youtube.com/watch?v=4Q-61UWQwuQ)
-- Gesunde Fettsäure: Omega-3 - AOK
-- Omega 3: Wirkung, Dosierung, Lebensmittel, Nebenwirkungen - VitaminExpress
-- Omega-3-Fettsäure-Kapseln sinnvolle Nahrungsergänzung?
-- Die 26 besten Omega-3 Lebensmittel gegen Mangel | kochenOHNE
+- [Gesunde Fettsäure: Omega-3 - AOK](https://www.aok.de/pk/magazin/ernaehrung/vitamine/gesunde-fettsaeure-omega-3/)
 
-**_#stayhealthy_**
