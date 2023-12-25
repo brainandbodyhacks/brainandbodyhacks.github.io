@@ -50,6 +50,12 @@ Sie verbessern die Sehkraft und die Gesundheit der Augen.
 ## 6. Stoffwechsel anregen
 Sie unterstützen den Gewichtsverlust und den Muskelaufbau, indem sie den Stoffwechsel anregen und die Fettverbrennung erhöhen.
 
+# Hack Rating
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier das Ergebnis für den heutigen Hack:
+
+Zeitaufwand: 5
+Kosten: 2
+Effizienz: 4
 
 # Mehr zum Thema
 - [Omega 3 – das essenzielle Supplement](https://medletics-academy.de/omega-3-das-essenzielle-supplement/)
