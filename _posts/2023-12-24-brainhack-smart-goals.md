@@ -53,7 +53,7 @@ Seitdem wird die Methode von vielen Organisationen und Individuen erfolgreich ge
 Hier wurde das unspezifisches Ziel: “Ich möchte abnehmen” mit den s.m.a.r.t.en Fragen umformuliert:
 
 **Spezifisch**
-Was genau möchte ich erreichen ?
+Was genau möchte ich erreichen?
 
 Ich möchte bis Ende Januar 2 Kilo abnehmen.
 
@@ -175,7 +175,7 @@ Kosten: 4
 Effizienz: 4
 
 # Mehr zum Thema
-- Ein entscheidende Komponente zur Zielerreichung ist die individuelle Motivation. Hier erfährst Du die neurowissenschaftlichen Hintergründe zur effektiven Zielsetzung, Motivationssteigerung und den beteiligten Neurotransmittern: [The Neuroscience of Motivation: The Brain’s Role in Achieving Goals]([https://cce.bard.edu/files/Setting-Goals.pdf](https://www.modernmindmasters.com/the-neuroscience-of-motivation/)
+- Ein entscheidende Komponente zur Zielerreichung ist die individuelle Motivation. Hier erfährst Du die neurowissenschaftlichen Hintergründe zur effektiven Zielsetzung, Motivationssteigerung und den beteiligten Neurotransmittern: [The Neuroscience of Motivation: The Brain’s Role in Achieving Goals](https://www.modernmindmasters.com/the-neuroscience-of-motivation/)
 
 - Dieser Artikel beleuchtet das aktuelle Verständnis von Zielerreichung und Verhaltensänderungen aus der Hirnforschung: [The Neuroscience of Goals and Behavior Change](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854216/)
 
