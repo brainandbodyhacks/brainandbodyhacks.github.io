@@ -6,15 +6,16 @@ lang: de
 tags: bodyhack
 ---
 
-# Problem:
+# Problem und Zielsetzung
+
 ## Was ist das Problem?
 Du kämpfst oft mit Erkältungen oder hast ständig Entzündungen, kurz Dein Immunsystem ist nicht das Beste .
 
-# Ziel: 
 ## Was ist das Ziel?
 Du möchtest Deine Entzündungen bekämpfen, Dein Immunsystem stärken und die allgemeine Gehirngesundheit fördern.
 
-# Hack: 
+# Hack
+
 ## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
 Omega-3-Fettsäuren sind eine Gruppe von mehrfach ungesättigten Fettsäuren, die für unsere Gesundheit wichtig sind. 
 Sie sind essenziell, das heißt, unser Körper kann sie nicht selbst herstellen und muss sie über die Nahrung aufnehmen. 
@@ -49,7 +50,7 @@ Sie verbessern die Sehkraft und die Gesundheit der Augen.
 Sie unterstützen den Gewichtsverlust und den Muskelaufbau, indem sie den Stoffwechsel anregen und die Fettverbrennung erhöhen.
 
 
-# Mehr zum Thema:
+# Mehr zum Thema
 - [Omega 3 – das essenzielle Supplement](https://medletics-academy.de/omega-3-das-essenzielle-supplement/)
 - [DAS Supplement: Omega 3 Detailvideo](https://www.youtube.com/watch?v=4Q-61UWQwuQ)
 - Gesunde Fettsäure: Omega-3 - AOK
