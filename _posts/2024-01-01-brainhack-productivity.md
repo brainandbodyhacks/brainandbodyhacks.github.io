@@ -47,8 +47,9 @@ Kosten: 4
 Effizienz: 4
 
 # Mehr zum Thema
-- [^1]: Universität Zürich https://idw-online.de/de/news615325
 - [THE ROLE OF THE JUSTICE SYSTEM IN DECISION-MAKING FOR
 CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-april2018.pdf)
 - [Sind wir, was wir essen?](https://www.psychologie.ch/sind-wir-was-wir-essen)
 - [Extraneous factors in judicial decisions](https://www.pnas.org/doi/10.1073/pnas.1018033108)
+
+[^1]: Universität Zürich https://idw-online.de/de/news615325
