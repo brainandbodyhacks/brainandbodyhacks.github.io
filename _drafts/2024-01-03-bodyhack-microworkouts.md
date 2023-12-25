@@ -37,15 +37,18 @@ Die Technik kann auf praktisch jede Workoutart angewendet werden, Radfahren, Sch
 Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehe  wollen, dann sind Intervalltrainingstechniken eine der effizientesten Lösungen.
 
 # Beispiele
+Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! 
 
 ## 1. 20 Sekunden Sprint
 ## 2. Burpees, Liegestütze, Klimmzüge
 
-# Rating des Hacks
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten u d Effizienz getestet. Hier das Ergebnis für den heutigen Hack:
+# Hack Rating
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
 
 Zeitaufwand: 5
+
 Kosten: 5
+
 Effizienz: 4
 
 # Mehr zum Thema
