@@ -18,7 +18,7 @@ Du möchtest Dir Ziele setzen, die Dir einen konkreten Nutzen bringen und die Du
 
 # Hack
 
-## Welchen Hack kannst Du nutzen um das Ziel zu erreichen?
+## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 Setze Dir nur Ziele, die die folgenden Kriterien erfüllen und formuliere diese auch konkret so.
 
 Schreibe dein Ziel grob auf.
