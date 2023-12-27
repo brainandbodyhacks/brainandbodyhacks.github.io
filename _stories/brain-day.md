@@ -1,10 +1,33 @@
 ---
 layout: post
-title: Braiday
-summary: A day in the life of
+title: Brainy
+summary: Brainy das Gehirn
 lang: de
 tags: stories
 ---
 
 
-# Problem und Zielsetzung
+# Brainy
+Es war einmal ein kluges Gehirn namens Brainy, das in einer Welt lebte, wo jedes seiner Teile eine eigene Persönlichkeit hatte und in einer Organisation zusammenarbeitete. 
+
+Brainy ist der Gründer und Leiter einer Organisation namens Brainy Inc., die sich zum Ziel gesetzt hat, Menschen in Firmen zu helfen, "gehirngerecht" zu arbeiten. Das bedeutet, dass sie die Funktionen und Strukturen des Gehirns verstehen und nutzen, um ihre Leistung, Kreativität und Zufriedenheit zu steigern.
+
+
+Brainy war der Chef dieser Organisation, und sein Büro lag im prächtigen Frontallappen, wo alle wichtigen Entscheidungen getroffen wurden.
+
+Der Frontallappen, auch bekannt als Frank, war für die Planung und Problemlösung zuständig. Er war immer beschäftigt, Strategien zu entwickeln und sicherzustellen, dass alle Teile von Brainy's Organisation reibungslos funktionierten.
+
+Im Parietallappen, genannt Pat, ging es um die Verarbeitung von sensorischen Informationen. Pat war ein Meister der Orientierung und half Brainy dabei, sich in der Welt zurechtzufinden.
+
+Der Okzipitallappen, Olivia genannt, war die Expertin für visuelle Wahrnehmung. Sie analysierte alles, was Brainy sah, und interpretierte die Bilder, die durch Brainy's Augen hereinkamen.
+
+Der Temporallappen, Timmy, war für das Hören und das Gedächtnis zuständig. Er bewahrte alle Erinnerungen auf und half Brainy dabei, sich an die schönen Melodien zu erinnern, die er hörte.
+
+Die Insel, ein kleiner, aber wichtiger Teil von Brainy, war für das Gefühl der Liebe und des Mitgefühls zuständig. Sie sorgte dafür, dass Brainy immer freundlich und empathisch gegenüber anderen war.
+
+Das Kleinhirn, Clara genannt, war für die Koordination und Präzision von Brainy's Bewegungen verantwortlich. Sie war eine talentierte Tänzerin und sorgte dafür, dass Brainy nie einen Schritt falsch setzte.
+
+Und schließlich war da noch der Hirnstamm, der sich um die grundlegenden Lebensfunktionen wie Atmung und Herzschlag kümmerte. Er war der ruhige und beständige Teil der Organisation, der immer im Hintergrund arbeitete.
+
+Zusammen bildeten sie die perfekte Organisation, die Brainy dabei half, ein glückliches und gesundes Leben zu führen. Und wenn sie nicht gestorben sind, dann arbeiten sie noch heute zusammen, um Brainy's Welt zu einem besseren Ort zu machen. Ende.
+
