@@ -2,27 +2,27 @@
 layout: page
 ---
 
-<h3 align="center">Willkommen zum</h3>
+<h3 align="center">Stories</h3>
 <p align="center">
   <br>
   <img src="../assets/images/IMG_2023.jpeg?sanitize=true" width="100px" height="100px">
 </p>
-<h3 align="center">BRAINBODYHACKS Blog </h3>
+<h3 align="center">Brainy Stories </h3>
 <p align="center">
-  Der Blog für smarte Gehirnbenutzer
+  Geschichten vom und über das Gehirn
 </p>
 <hr>
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for story in site.stories %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
-        {{ post.title }}
+        {{ story.title }}
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ story.date | date_to_string }}</span>
       {{ post.summary }}
       <h3>
         <a href="{{ post.url }}">
