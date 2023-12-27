@@ -22,24 +22,24 @@ Du möchtest gesund bleiben und Dich fit fühlen, indem Du mit minimalem Zeitauf
 Durch regelmäßige körperliche Aktivität sehen wir besser aus und fühlen uns besser. 
 Der Alterungsprozess wird bekämpft, das Risiko an Herz-Kreislauf-Erkrankungen, Diabetes und sogar Krebs zu erkranken wird verringert. 
 
-Doch viele von uns haben einen vollgepackten Terminplan und den Eindruck, dass Sport dort keinen Platz hat, da er zeitintensiv ist. 
+Doch viele von uns haben einen vollgepackten Terminplan und den Eindruck, dass Sport dort keinen Platz hat. 
 Wir gehen davon aus, dass wir mehr Zeit investieren müssen, als wir haben, damit das Training wirksam sein kann.
 
 Doch Im letzten Jahrzehnt gab es viele neue Erkenntnisse aus der Wissenschaft zum Effekt des hochintensiven Intervalltrainings, besser bekannt als **HIIT, ausgesprochen „Hit“**. 
 Wir haben gelernt, dass HIIT große gesundheitliche Vorteile bieten und die Zeit eines Trainings erheblich verkürzen kann. 
 
-Was ist Intervalltraining? Im Grunde handelt es sich dabei um kurze, sehr intensive Trainingsinzervalle, gefolgt von Erholungsphasen im schnellen Wechsel:
+Was ist Intervalltraining? Im Grunde handelt es sich dabei um kurze, sehr intensive Trainingsintervalle, gefolgt von Erholungsphasen im schnellen Wechsel:
 
 **Volle Power, entspannen, volle Power, entspannen, volle Power..., entspannen**
 
 Die Technik kann auf praktisch jede Workoutart angewendet werden, Radfahren, Schwimmen oder Training mit dem eigenen Körpergewicht wie Burpees, Liegestütze oder Klimmzüge.
 
-Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehen wollen, dann sind Intervalltrainingstechniken eine der effizientesten Lösungen.
+Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehen wollen, dann sind Intervalltrainingstechniken eine effiziente Lösung.
 
 # Beispiele
 Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! Nicht geeignet bei Krankheit!
 
-## 1. 20 Sekunden Sprint
+## 1. 20 Sekunden Rad-Sprint
 Das Training umfasst drei 20-sekündige „All-Out“-Zyklussprints, dauert insgesamt 10 Minuten, einschließlich 2 Minuten Warm-Up und 3 Minuten Cool-Down, sowie 2 Minuten lockeres Radfahren zur Entspannung zwischen den Sprints.
 
 Verglichen mit einer Gruppe, die einen fünfmal höheren Trainingsaufwand investierte - nämlich 45 Minuten ununterbroches Radfahren in mäßigem Tempo, plus das gleiche Aufwärmen und Abkühlen - waren die Ergebnisse nach 12 Wochen Training bemerkenswert ähnlich.
