@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodyhack "microworkouts"
-summary: Mit dem Bodyhack "microworkouts" kannst mit wenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
+summary: Mit dem Bodyhack "microworkouts" kannst Du mit wenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
 lang: de
 tags: bodyhack
 ---
@@ -32,7 +32,7 @@ Was ist Intervalltraining? Im Grunde handelt es sich dabei um kurze, sehr intens
 
 **Volle Power, entspannen, volle Power, entspannen, volle Power..., entspannen**
 
-Die Technik kann auf praktisch jede Workoutart angewendet werden, Radfahren, Schwimmen oder Training mit dem eigenen Körpergewicht wie Burpees, Liegestütze oder Klimmzüge.
+Die Technik kann auf praktisch jede Workout Art angewendet werden, Radfahren, Schwimmen oder Training mit dem eigenen Körpergewicht wie Burpees, Liegestütze oder Klimmzüge.
 
 Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehen wollen, dann sind Intervalltrainingstechniken eine effiziente Lösung.
 
@@ -42,11 +42,11 @@ Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! Nicht geeig
 ## 1. 20 Sekunden Rad-Sprint
 Das Training umfasst drei 20-sekündige „All-Out“-Zyklussprints, dauert insgesamt 10 Minuten, einschließlich 2 Minuten Warm-Up und 3 Minuten Cool-Down, sowie 2 Minuten lockeres Radfahren zur Entspannung zwischen den Sprints.
 
-Verglichen mit einer Gruppe, die einen fünfmal höheren Trainingsaufwand investierte - nämlich 45 Minuten ununterbroches Radfahren in mäßigem Tempo, plus das gleiche Aufwärmen und Abkühlen - waren die Ergebnisse nach 12 Wochen Training bemerkenswert ähnlich.
+Verglichen mit einer Gruppe, die einen fünfmal höheren Trainingsaufwand investierte - nämlich 45 Minuten ununterbrochen Radfahren in mäßigem Tempo, plus das gleiche Aufwärmen und Abkühlen - waren die Ergebnisse nach 12 Wochen Training bemerkenswert ähnlich.
 
 ## 2. Mountain Climbers, Liegestütze, Burpees
 Mein eigenes Lieblingsintervalltraining umfasst 2 Runden mit: 
-je 30 Sekunden Mountain Climbers - 30 Sekunden Erhohlung - 30 Sekunden Liegestütze - 30 Sekunden Erhohlung - 30 Sekunden Burpees.
+je 30 Sekunden Mountain Climbers - 30 Sekunden Erholung - 30 Sekunden Liegestütze - 30 Sekunden Erholung - 30 Sekunden Burpees.
 Ich absolviere das Training täglich nach dem Mittagessen nach entsprechendem Warm-Up und variiere die Übungen nach Belieben mit High Knees, Hampelmännern und Pull-Ups.
 
 # Hack Rating
