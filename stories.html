@@ -1,6 +1,8 @@
-layout	title
-page
-Archive
-{% for story in site.stories %}
+---
+layout: page
+title: Stories
+---
 
-{{ story.date | date_to_string }} » [ {{ story.title }} ]({{ story.url }}) {% endfor %}
+{% for story in site.stories %}
+  * {{ story.date | date_to_string }} &raquo; [ {{ story.title }} ]({{ story.url }})
+{% endfor %}
