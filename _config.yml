@@ -22,7 +22,7 @@ paginate_path: "/blog/page:num/"
 version:          1.0.0
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'Blog':'/blog','Info':'/about/about','Kategorien':'/categories','Archiv':'/archive'}
+pages_list:       {'Hacks':'/blog','Info':'/about/about','Stories':'/stories','Kategorien':'/categories','Archiv':'/archive'}
 
 
 
