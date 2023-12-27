@@ -1,52 +1,6 @@
----
-layout: page
----
+layout	title
+page
+Archive
+{% for story in site.stories %}
 
-<h3 align="center">Stories</h3>
-<p align="center">
-  <br>
-  <img src="../assets/images/IMG_2023.jpeg?sanitize=true" width="100px" height="100px">
-</p>
-<h3 align="center">Brainy Stories </h3>
-<p align="center">
-  Geschichten vom und über das Gehirn
-</p>
-<hr>
-
-<div class="posts">
-  {% for story in site.stories %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ story.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ story.date | date_to_string }}</span>
-      {{ story.summary }}
-      <h3>
-        <a href="{{ post.url }}">
-          <small> Mehr.. </small>
-        </a>
-      </h3>
-    <hr>
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-  <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-  <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-  {% if paginator.page == 2 %}
-  <a class="pagination-item newer" href="/">Newer</a>
-  {% else %}
-  <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-  {% endif %}
-  {% else %}
-  <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+{{ story.date | date_to_string }} » [ {{ story.title }} ]({{ story.url }}) {% endfor %}
