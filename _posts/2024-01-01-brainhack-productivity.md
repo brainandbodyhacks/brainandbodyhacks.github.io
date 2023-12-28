@@ -28,14 +28,17 @@ Es gibt Beweise dafür, dass wenn der präfrontale Cortex erschöpft ist, deine 
 Ein smarter Gehirnbenutzer legt die Aufgaben, die diese Fähigkeiten am ehesten fordern in die Zeiten an denen der präfrontale Cortex genug Energie hat.
 
 # Beispiele
-Falls Du am produktivsten um 7 Uhr Morgens bist, aber zu dieser Zeit erstmal Deine E-Mails prüfst oder eine Kaffeepause machst, dann hast Du Deine Zeit nicht gehirngerecht genutzt.
 
+## Beispiel 1
 Ein bekanntes Beispiel für dieses Phänomen zeigt eine Studie mit Richtern, die nach dem Mittagessen andere Entscheidungen trafen, als davor wenn sie hungrig waren:
 
 > "Die Studie kam zu einem verblüffend und gleichzeitig erschreckend klaren Ergebnis. 
 Die Anträge der Häftlinge wurden früh morgens, direkt nach dem Snack und direkt nach der Mittagspause in Zweidritteln der Fälle positiv beschieden. 
 Vor dem Snack bzw. zur Mittagszeit hin, wurden die Anträge in fast allen Fällen abgelehnt.
 Erst nach dem Mittagessen pendelte sich die Quote wieder bei etwa Zweidritteln ein." - [jurios](https://jurios.de/2018/04/17/studie-hungrige-richter-faellen-haertere-urteile/)
+
+## Beispiel 2
+Falls Du am produktivsten um 7 Uhr Morgens bist, aber zu dieser Zeit erstmal Deine E-Mails prüfst oder eine Kaffeepause machst, dann hast Du Deine Zeit nicht gehirngerecht genutzt.
 
 # Hack Rating
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein Rating für den heutigen Hack:
