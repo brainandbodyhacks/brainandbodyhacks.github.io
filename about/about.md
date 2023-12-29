@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Über mich
+title: Deine Expertin für Weiterentwicklung durch smarte Gehirnnutzung
 ---
-                                                                                                
-# Deine Expertin für Weiterentwicklung durch smarte Gehirnnutzung
+                                                                                
 
 ## Wie ich Dir helfen kann
 Ich habe erfahren, dass das Wissen um **gehirngerechte Lebensgestaltung** enorme Erleichterung im Alltag und auch in herausfordernden Situationen bringen kann.
