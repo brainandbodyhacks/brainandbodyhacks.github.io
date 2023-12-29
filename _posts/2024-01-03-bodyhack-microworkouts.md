@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bodyhack "microworkouts"
+title: Bodyhack "Microworkouts"
 summary: Mit dem Bodyhack "microworkouts" kannst Du mit wenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
 lang: de
 tags: bodyhack
