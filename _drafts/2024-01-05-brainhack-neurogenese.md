@@ -20,7 +20,9 @@ Du möchtest Dein Errinnerungsvermögen stärken, neue Sachen leichter Lernen un
 **BrainHack "BDNF-Growth"**: Der Brain-Derived Neurotrophic Factor, kurz BDNF ist ist ein Nervenwachstumsfaktor, der die Entwicklung, Funktion und das Wachstum von Gehirnzellen beeinflusst.
 Das aus dem Gehirn stammende Protein fördert das Wachstum neuer Neuronen und Synapsen durch das Sprießen von Axonen und Dendriten. 
 BDNF ist die stärkste bekannteste Substanz, die die Neurogenese stimuliert. 
-Dr. John Ratey verkündete in seinem Bestseller „Spark: The Revolutionary New Science of Exercise and the Brain“, dass BDNF „Wundermittel für das Gehirn“ sei. - quote 
+Dr. John Ratey untersucht in seinem Bestseller „Spark: The Revolutionary New Science of Exercise and the Brain“ das „Wundermittel für das Gehirn“ BDNF:
+
+> "Filled with science and case studies, Spark is the first book to explore the connection between exercise and the brain" [^1].
 
 Verwenden Sie die folgenden Neurogenese-Hacks um BDNF zu erhöhen:
 
@@ -40,7 +42,7 @@ Das Schreiben oder Zähneputzen mit der schwächeren Hand sorgt dafür, dass das
 - [Intervention of Brain-Derived Neurotrophic Factor and Other Neurotrophins in Adult Neurogenesis](https://pubmed.ncbi.nlm.nih.gov/34453295/)
 - [Brain-Derived Neurotrophic Factor in Brain Disorders: Focus on Neuroinflammation](https://pubmed.ncbi.nlm.nih.gov/30117106/)
 
-- []: https://psycnet.apa.org/record/2008-02933-000
+[^1]: Universität Zürich https://psycnet.apa.org/record/2008-02933-000
 
 
 
