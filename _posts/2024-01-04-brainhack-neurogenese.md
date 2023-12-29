@@ -32,7 +32,7 @@ Verwenden Sie die folgenden Neurogenese-Hacks, um BDNF zu erhöhen:
 Unser Gehirn produziert während des Trainings BDNF, was zur Stimulation neuer Gehirnzellen führt. Daher ist Bewegung das optimale Mittel zur Produktion von BDNF. 
 
 ## 2. Bücher oder Hörbücher
-Das Lesen von Büchern oder Hören von Hörbüchern ähnelt dem Download von neuen Informationen. Das Verarbeiten der neuen Informationen erhöht die BDNF Prosuktion und führt so zu Neuronenwachstum.
+Das Lesen von Büchern oder Hören von Hörbüchern ähnelt dem Download von neuen Informationen. Das Verarbeiten der neuen Informationen erhöht die BDNF Produktion und führt so zu Neuronenwachstum.
 
 ## 3. Musik hören
 Schöne Musik kann Dich beruhigen und Dein BDNF erhöhen, sowie Deine Konzentration steigern. Vor allem Binaurale Beats sind Frequenzen, die sich positiv aufs Gehirn auswirken können [^2].
