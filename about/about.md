@@ -37,7 +37,7 @@ Vor allem hat mich aber die neurobiologischen Aspekte gepackt: Wie funktioniert 
 
 ### Agiler Coach
 Ich habe mehrere Jahre Erfahrung im 1 on 1 Coaching und Coaching für Teams im agilen Umfeld. Gerade agile Transformationen profitieren von gehirngerechter Gestaltung und können furchtbar schiefgehen, wenn die neurologischen Basics nicht verstanden sind.
-Ich habe die unterschiedlichsten transformativen und agilen Setups selbst durchlebt und begleitet und durfte in den Rollen als Scrum Master, Release Train Engineer und Agiler Coach sowohl als gescheiterte als auch erfolgreiche Veränderungsvorhaben erleben. 
+Ich habe die unterschiedlichsten transformativen und agilen Setups selbst durchlebt und begleitet und durfte in den Rollen als Scrum Master, Release Train Engineer und Agiler Coach sowohl gescheiterte als auch erfolgreiche Veränderungsvorhaben erleben. 
 
 ### Mehr
 - Master of Science in Informatik und Multimedia
