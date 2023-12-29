@@ -32,11 +32,25 @@ Verwenden Sie die folgenden Neurogenese-Hacks um BDNF zu erhöhen:
 Unser Gehirn produziert während des Trainings BDNF, was zur Stimulation neuer Gehirnzellen führt. Daher ist Bewegung das optimale Mittel zur Produktion von BDNF. 
 
 ## 2. Bücher oder Hörbücher
-Das Lesen von Büchern oder Hören von Hörbüchern ähnelt dem Download von neuen Informatoinen. Das Verarbeiten der neuen Informationen erhöht die BDNF Prosuktion und führt so zu Neuronenwachstum.
+Das Lesen von Büchern oder Hören von Hörbüchern ähnelt dem Download von neuen Informationen. Das Verarbeiten der neuen Informationen erhöht die BDNF Prosuktion und führt so zu Neuronenwachstum.
 
 ## 3. Benutzen der schwächeren Hand
 Das Schreiben oder Zähneputzen mit der schwächeren Hand sorgt dafür, dass das Gehirn seine Komfortzone verlässt. Dies stärkt die neuronalen Verbindungen und hilft bei der Neubildung von Gehirnzellen.
 
+# Hack Rating
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für die heutigen Hacks:
+
+Zeitaufwand: 
+- 3 für Bewegung und Bücher / Hörbücher
+- 4 für das Benutzen der schwächeren Hand
+
+Kosten: 
+- 3 für Bücher / Hörbücher
+- 4 für Bewegung oder das Benutzen der schwächeren Hand
+
+Effizienz: 
+- 4
+  
 # Mehr zum Thema
 - [Brain-derived neurotrophic factor expression in serotonergic neurons improves stress resilience and promotes adult hippocampal neurogenesis](https://pubmed.ncbi.nlm.nih.gov/35872219/)
 - [Intervention of Brain-Derived Neurotrophic Factor and Other Neurotrophins in Adult Neurogenesis](https://pubmed.ncbi.nlm.nih.gov/34453295/)
