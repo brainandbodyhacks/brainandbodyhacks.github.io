@@ -50,5 +50,4 @@ Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig.
 - Softwareentwicklerin, Key Developer Expert
 - Master of Science in Informatik und Multimedia
 - HIIT Fan, On-off Boulderin und Salsa-Tänzerin
-- Mehr auf LinkedIn
 
