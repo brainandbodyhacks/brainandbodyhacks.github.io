@@ -12,7 +12,7 @@ tags: brainhack
 Mit der Zeit nimmt das Wachstum der Gehirnzellen ab und somit auch unsere Fähigkeit, sich Sachen zu merken und Neues zu lernen. Doch wir können die Neubildung aktiv unterstützen - auch im hohen Alter. Das Gehirn ist plastisch, es kann sich verändern und durch Neurogenese die neuronalen Verbindungen stärken und Gehirnzellen neu bilden.
 
 ## Was ist das Ziel?
-Du möchtest Dein Erinnerungsvermögen stärken, neue Sachen leichter Lernen und grundsätzlich das Wachstum Deiner Gehirnzellen stärken.
+Du möchtest Dein Erinnerungsvermögen stärken, neue Sachen leichter Lernen und grundsätzlich das Wachstum Deiner Gehirnzellen fördern.
 
 # Hack
 
