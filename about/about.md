@@ -50,5 +50,5 @@ Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig.
 - Key Expert Testautomation 
 - Softwareentwicklerin, Key Developer Expert
 - Master of Science in Informatik und Multimedia
-- On-off Boulderin und Salsa-Tänzerin, HIIT Fan
+- HIIT Fan, On-off Boulderin und Salsa-Tänzerin 
 
