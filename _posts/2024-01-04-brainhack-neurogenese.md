@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brainhack "BDNF-Neurogenese"
-summary: Mit dem hack kannst Du über Neurogenese neue Gehirnzellen wachsen lassen
+summary: Mit dem Brainhack kannst Du über Neurogenese neue Gehirnzellen wachsen lassen
 lang: de
 tags: brainhack
 ---
