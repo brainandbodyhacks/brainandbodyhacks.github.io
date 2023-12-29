@@ -36,6 +36,8 @@ Hörbücher: Da Laufen die BDNF-Produktion erhöht, was das Neuronenwachstum ste
 Hörbücher ähneln dem Anschließen an einen Computer und dem direkten Herunterladen von Informationen. 
 Ich lese über 100 Bücher pro Jahr und höre beim Laufen Hörbücher
 
+3. Schreiben Sie mit Ihrer schwächeren Hand Diese kleine Übung sorgt dafür, dass Ihr Gehirn seine Komfortzone verlässt, stärkt die neuronalen Verbindungen und hilft bei der Neubildung von Gehirnzellen.
+
 # Mehr zum Thema
 
 
