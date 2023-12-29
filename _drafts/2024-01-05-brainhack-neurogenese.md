@@ -1,7 +1,7 @@
 ---
 layout: post
-title: brainhack neurogenese
-summary: Mit dem hack kannst Du neue Gehirnzellen wachsen lassen mit Neurogenese
+title: brainhack "BDNF-Growth"
+summary: Mit dem hack kannst Du über Neurogenese neue Gehirnzellen wachsen lassen
 lang: de
 tags: brainhack
 ---
@@ -9,37 +9,38 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
+Mit der Zeit nimmt das Wachstum der Gehirnzellen ab und somit auch unsere Fähigkeit, sich Sachen zu merken und Neues zu lernen. Doch wir können die Neubildung aktiv unterstützen - auch im hohen Alter. Das Gehirn ist plastisch, es kann sich verändern und durch Neurogenese die neuronalen Verbindungen stärken und Gehirnzellen neu bilden.
 
 ## Was ist das Ziel?
-das Wachstum von Gehirnzellen beeinflussen
+Du möchtest Dein Errinnerungsvermögen stärken, neue Sachen leichter Lernen und grundsätzlich das Wachstum Deiner Gehirnzellen stärken.
 
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
-Es gibt eine magische Substanz, die beim Hacken von Geist und Körper eine Rolle spielt.
-Diese Substanz ist ein Nervenwachstumsfaktor, der die Entwicklung, Funktion und das Wachstum von Gehirnzellen beeinflusst.
-Der aus dem Gehirn stammende neurotrophe Faktor (BDNF) ist ein Protein, das das Wachstum neuer Neuronen und Synapsen durch das Sprießen von Axonen und Dendriten fördert. 
-BDNF ist die stärkste und aktivste Substanz, die die Neurogenese stimuliert. 
-Dr. John Ratey verkündete in seinem Bestseller „Spark: The Revolutionary New Science of Exercise and the Brain“, dass BDNF „Wundermittel für das Gehirn“ sei.
+**BrainHack "BDNF-Growth"**: Der Brain-Derived Neurotrophic Factor, kurz BDNF ist ist ein Nervenwachstumsfaktor, der die Entwicklung, Funktion und das Wachstum von Gehirnzellen beeinflusst.
+Das aus dem Gehirn stammende Protein fördert das Wachstum neuer Neuronen und Synapsen durch das Sprießen von Axonen und Dendriten. 
+BDNF ist die stärkste bekannteste Substanz, die die Neurogenese stimuliert. 
+Dr. John Ratey verkündete in seinem Bestseller „Spark: The Revolutionary New Science of Exercise and the Brain“, dass BDNF „Wundermittel für das Gehirn“ sei. - quote 
 
-Verwenden Sie die folgenden Neurogenese-Hacks um BDNF ..
+Verwenden Sie die folgenden Neurogenese-Hacks um BDNF zu erhöhen:
 
 # Beispiele
 
-## 1. 
-Bewegung: Aerobic-Übungen sind das optimale Mittel zur Produktion von BDNF. 
-Unser Gehirn produziert während des Trainings BDNF, was zur Stimulation neuer Gehirnzellen führt.
-Hörbücher: Da Laufen die BDNF-Produktion erhöht, was das Neuronenwachstum steigert, müssen Sie Ihr Gehirn nutzen, um Ihre Verkabelung stark zu halten.
+## 1. Bewegung
+Unser Gehirn produziert während des Trainings BDNF, was zur Stimulation neuer Gehirnzellen führt. Daher ist Bewegung das optimale Mittel zur Produktion von BDNF. 
 
+## 2. Bücher oder Hörbücher
+Das Lesen von Büchern oder Hören von Hörbüchern ähnelt dem Download von neuen Informatoinen. Das Verarbeiten der neuen Informationen erhöht die BDNF Prosuktion und führt so zu Neuronenwachstum.
 
-## 2.
-Hörbücher ähneln dem Anschließen an einen Computer und dem direkten Herunterladen von Informationen. 
-Ich lese über 100 Bücher pro Jahr und höre beim Laufen Hörbücher
-
-3. Schreiben Sie mit Ihrer schwächeren Hand Diese kleine Übung sorgt dafür, dass Ihr Gehirn seine Komfortzone verlässt, stärkt die neuronalen Verbindungen und hilft bei der Neubildung von Gehirnzellen.
+## 3. Benutzen der schwächeren Hand
+Das Schreiben oder Zähneputzen mit der schwächeren Hand sorgt dafür, dass das Gehirn seine Komfortzone verlässt. Dies stärkt die neuronalen Verbindungen und hilft bei der Neubildung von Gehirnzellen.
 
 # Mehr zum Thema
+- [Brain-derived neurotrophic factor expression in serotonergic neurons improves stress resilience and promotes adult hippocampal neurogenesis](https://pubmed.ncbi.nlm.nih.gov/35872219/)
+- [Intervention of Brain-Derived Neurotrophic Factor and Other Neurotrophins in Adult Neurogenesis](https://pubmed.ncbi.nlm.nih.gov/34453295/)
+- [Brain-Derived Neurotrophic Factor in Brain Disorders: Focus on Neuroinflammation](https://pubmed.ncbi.nlm.nih.gov/30117106/)
 
+- []: https://psycnet.apa.org/record/2008-02933-000
 
 
 
