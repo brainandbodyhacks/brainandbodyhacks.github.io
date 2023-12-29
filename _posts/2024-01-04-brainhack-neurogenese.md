@@ -1,6 +1,6 @@
 ---
 layout: post
-title: brainhack "BDNF-Growth"
+title: Brainhack "BDNF-Neurogenese"
 summary: Mit dem hack kannst Du über Neurogenese neue Gehirnzellen wachsen lassen
 lang: de
 tags: brainhack
@@ -17,7 +17,7 @@ Du möchtest Dein Errinnerungsvermögen stärken, neue Sachen leichter Lernen un
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
-**BrainHack "BDNF-Growth"**: Der Brain-Derived Neurotrophic Factor, kurz BDNF ist ist ein Nervenwachstumsfaktor, der die Entwicklung, Funktion und das Wachstum von Gehirnzellen beeinflusst.
+**BrainHack "BDNF-Neurogenese"**: Der Brain-Derived Neurotrophic Factor, kurz BDNF ist ist ein Nervenwachstumsfaktor, der die Entwicklung, Funktion und das Wachstum von Gehirnzellen beeinflusst.
 Das aus dem Gehirn stammende Protein fördert das Wachstum neuer Neuronen und Synapsen durch das Sprießen von Axonen und Dendriten. 
 BDNF ist die stärkste bekannteste Substanz, die die Neurogenese stimuliert. 
 Dr. John Ratey untersucht in seinem Bestseller „Spark: The Revolutionary New Science of Exercise and the Brain“ das „Wundermittel für das Gehirn“ BDNF:
