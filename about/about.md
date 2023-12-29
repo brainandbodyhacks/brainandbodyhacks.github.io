@@ -46,9 +46,9 @@ Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig.
 - Hobby-Schreiberin
 - Clean-Eating Practitioner
 - SAFe Program Consultant
-- ISTQB zertifizierte Testerin
-- Key Expert Testautomation 
+- ISTQB zertifizierte Testerin, Key Expert Testautomation 
 - Softwareentwicklerin, Key Developer Expert
 - Master of Science in Informatik und Multimedia
-- HIIT Fan, On-off Boulderin und Salsa-Tänzerin 
+- HIIT Fan, On-off Boulderin und Salsa-Tänzerin
+- Mehr auf LinkedIn
 
