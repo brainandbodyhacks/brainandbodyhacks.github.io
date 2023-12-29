@@ -54,6 +54,3 @@ Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig.
 - Master of Science in Informatik und Multimedia
 - On-off Boulderin und Salsa-Tänzerin, HIIT Fan
 
-
-- 
-
