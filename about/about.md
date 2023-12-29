@@ -5,7 +5,7 @@ title: Deine Expertin für Weiterentwicklung durch smarte Gehirnnutzung
                                                                                 
 
 ## Wie ich Dir helfen kann
-Ich habe erfahren, dass das Wissen um **gehirngerechte Lebensgestaltung** enorme Erleichterung im Alltag und auch in herausfordernden Situationen bringen kann.
+Das Wissen um **gehirngerechte Lebensgestaltung** kann enorme Erleichterung im Alltag und auch in herausfordernden Situationen bringen.
 
 Ich zeige Dir, welche **wissenschaftlich belegten Techniken** uns helfen, nachaltige Veränderung anzustoßen und gesunde Routinen zu entwickeln um zum smarten Gehirnbenutzer zu werden. Dadurch können wir unsere **Produktivität steigern, unser Wohlbefinden und unsere Gesundheit verbessern und große Ziele durch kleine Schritte erreichen**. 
 
