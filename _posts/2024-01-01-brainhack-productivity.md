@@ -6,9 +6,7 @@ lang: de
 tags: brainhack
 ---
 
-
-../audio/productivity-prio-hack.mp4
-
+audio/productivity-prio-hack.mp4
   
 # Problem und Zielsetzung
 
