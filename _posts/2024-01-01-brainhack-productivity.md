@@ -6,7 +6,9 @@ lang: de
 tags: brainhack
 ---
 
-audio/productivity-prio-hack.mp4
+
+
+
   
 # Problem und Zielsetzung
 
@@ -58,3 +60,6 @@ CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-
 - [Extraneous factors in judicial decisions](https://www.pnas.org/doi/10.1073/pnas.1018033108)
 
 [^1]: Universität Zürich https://idw-online.de/de/news615325
+
+# Podcast
+https://github.com/brainbodyhacks/brainbodyhacks.github.io/assets/151754068/41192828-a746-44b1-834b-e6820c050231
