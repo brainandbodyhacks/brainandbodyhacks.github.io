@@ -5,7 +5,8 @@ summary: Mit dem Brainhack "Produktivitäts-Prio" kannst Du Deine Produktivität
 lang: de
 tags: brainhack
 ---
-
+![]("../audio/productivity-prio-hack.mp4")
+  
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
