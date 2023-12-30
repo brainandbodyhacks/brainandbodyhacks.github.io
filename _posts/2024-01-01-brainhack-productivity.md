@@ -13,7 +13,7 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du findest keine Zeit um die wichtigen Dinge zu erledigen, Du hast zu viele Todos und triviale Aufgaben.
+Du findest keine Zeit um die wichtigen Dinge zu erlhttps://brainbodyhacks.github.io/2024/01/01/brainhack-productivity/edigen, Du hast zu viele Todos und triviale Aufgaben.
 
 ## Was ist das Ziel?
 Du möchtest Deine Zeit effizient nutzen und Dinge umsetzen.
@@ -61,7 +61,7 @@ CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-
 
 [^1]: Universität Zürich https://idw-online.de/de/news615325
 
-"https://github.com/brainbodyhacks/brainbodyhacks.github.io/audio/productivity-prio-hack.mp4?raw=true"
+https://github.com/brainbodyhacks/brainbodyhacks.github.io/audio/productivity-prio-hack.mp4?raw=true
 
 
 
