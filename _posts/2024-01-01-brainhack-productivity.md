@@ -6,7 +6,7 @@ lang: de
 tags: brainhack
 ---
 
-![Podcast]("../audio/productivity-prio-hack.mp4")
+![Podcast](../audio/productivity-prio-hack.mp4)
   
 # Problem und Zielsetzung
 
