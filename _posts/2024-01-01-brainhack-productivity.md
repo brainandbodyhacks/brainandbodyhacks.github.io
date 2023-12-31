@@ -63,5 +63,7 @@ CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-
 
 https://github.com/brainbodyhacks/brainbodyhacks.github.io/audio/productivity-prio-hack.mp4?raw=true
 
-
+<video width="320" height="240" controls>
+  <source src="https://github.com/brainbodyhacks/brainbodyhacks.github.io/audio/productivity-prio-hack.mp4" type="video/mp4">
+</video>
 
