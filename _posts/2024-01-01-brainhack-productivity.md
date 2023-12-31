@@ -51,7 +51,7 @@ Effizienz: 4
 
 # Podcast
 <video width="320" height="240" controls>
-  <source src="https://github.com/brainbodyhacks/brainbodyhacks.github.io/blob/7bd8f9763bb28c2615cb13cc84a7ad5d037f8879/audio/productivity-prio-hack.mp4" type="video/mp4">
+  <source src="https://youtu.be/CreU9g302yU?si=uCy34DdnFIR4tccc" type="video/mp4">
 </video>
 
 # Mehr zum Thema
