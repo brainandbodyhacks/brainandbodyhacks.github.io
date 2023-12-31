@@ -51,11 +51,9 @@ Effizienz: 4
 
 # Podcast
 <video width="320" height="240" controls>
-  <source src="https://youtu.be/CreU9g302yU?si=uCy34DdnFIR4tccc" type="video/mp4">
+  <source src="https://youtu.be/rEEHdaRo5mE?si=6V0wtUArdbagsR7x" type="video/mp4">
 </video>
 
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 # Mehr zum Thema
 - [THE ROLE OF THE JUSTICE SYSTEM IN DECISION-MAKING FOR
