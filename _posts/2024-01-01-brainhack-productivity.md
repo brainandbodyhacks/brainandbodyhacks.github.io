@@ -5,15 +5,11 @@ summary: Mit dem Brainhack "Produktivitäts-Prio" kannst Du Deine Produktivität
 lang: de
 tags: brainhack
 ---
-
-
-
-
   
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du findest keine Zeit um die wichtigen Dinge zu erlhttps://brainbodyhacks.github.io/2024/01/01/brainhack-productivity/edigen, Du hast zu viele Todos und triviale Aufgaben.
+Du findest keine Zeit um die wichtigen Dinge zu erledigen, Du hast zu viele Todos und triviale Aufgaben.
 
 ## Was ist das Ziel?
 Du möchtest Deine Zeit effizient nutzen und Dinge umsetzen.
@@ -53,6 +49,11 @@ Kosten: 4
 
 Effizienz: 4
 
+# Podcast
+<video width="320" height="240" controls>
+  <source src="https://github.com/brainbodyhacks/brainbodyhacks.github.io/audio/productivity-prio-hack.mp4" type="video/mp4">
+</video>
+
 # Mehr zum Thema
 - [THE ROLE OF THE JUSTICE SYSTEM IN DECISION-MAKING FOR
 CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-april2018.pdf)
@@ -61,9 +62,5 @@ CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-
 
 [^1]: Universität Zürich https://idw-online.de/de/news615325
 
-https://github.com/brainbodyhacks/brainbodyhacks.github.io/audio/productivity-prio-hack.mp4?raw=true
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/brainbodyhacks/brainbodyhacks.github.io/audio/productivity-prio-hack.mp4" type="video/mp4">
-</video>
 
