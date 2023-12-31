@@ -54,6 +54,9 @@ Effizienz: 4
   <source src="https://youtu.be/CreU9g302yU?si=uCy34DdnFIR4tccc" type="video/mp4">
 </video>
 
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
 # Mehr zum Thema
 - [THE ROLE OF THE JUSTICE SYSTEM IN DECISION-MAKING FOR
 CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-april2018.pdf)
