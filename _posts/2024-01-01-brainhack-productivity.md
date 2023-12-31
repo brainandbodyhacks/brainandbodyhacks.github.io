@@ -54,6 +54,7 @@ Effizienz: 4
   <source src="https://youtu.be/rEEHdaRo5mE?si=6V0wtUArdbagsR7x" type="video/mp4">
 </video>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rEEHdaRo5mE?si=6V0wtUArdbagsR7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mehr zum Thema
 - [THE ROLE OF THE JUSTICE SYSTEM IN DECISION-MAKING FOR
