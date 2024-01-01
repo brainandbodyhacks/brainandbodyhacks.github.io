@@ -11,6 +11,8 @@ Ich zeige Dir, welche **wissenschaftlich belegten Techniken** uns helfen, nachal
 
 Entwickle auch Du Dich mit meiner Hilfe Schritt für Schritt und **Hack für Hack zu Deinem besten Selbst**. 
 
+**Kontakt: brainbodyhacks@outlook.com**
+
 
 ## Wer ich bin und was mich auszeichnet 
 Ich bin studierte Informatikerin und habe einen Background in der Softwareentwicklung.
@@ -49,3 +51,5 @@ Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig.
 - Master of Science in Informatik und Multimedia
 - HIIT Fan, On-off Boulderin und Salsa-Tänzerin
 
+
+**Kontakt: brainbodyhacks@outlook.com**
