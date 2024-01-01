@@ -11,7 +11,8 @@ Ich zeige Dir, welche **wissenschaftlich belegten Techniken** uns helfen, nachal
 
 Entwickle auch Du Dich mit meiner Hilfe Schritt für Schritt und **Hack für Hack zu Deinem besten Selbst**. 
 
-**Kontakt: brainbodyhacks@outlook.com**
+**Kontakt:** 
+<brainbodyhacks@outlook.com>
 
 
 ## Wer ich bin und was mich auszeichnet 
@@ -52,4 +53,5 @@ Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig.
 - HIIT Fan, On-off Boulderin und Salsa-Tänzerin
 
 
-**Kontakt: brainbodyhacks@outlook.com**
+**Kontakt:** 
+<brainbodyhacks@outlook.com>
