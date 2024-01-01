@@ -50,7 +50,7 @@ Kosten: 4
 Effizienz: 4
 
 # Podcast
-<iframe width="560" height="315" src="https://github.com/brainbodyhacks/brainbodyhacks.github.io/assets/151754068/41192828-a746-44b1-834b-e6820c050231" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://1drv.ms/v/s!Ark5HZDnlUXwbf6KQJDm_1_klxA?e=RiMQqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Mehr zum Thema
