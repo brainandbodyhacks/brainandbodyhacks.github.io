@@ -9,10 +9,10 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du hast das Gefühl, keine Zeit zum Sport zu haben. Du hast einen vollgepackten Terminplan und den Eindruck, dass Sport dort keinen Platz hat oder Du am Ende des Tages zu kaputt bist, um Dich noch sportlich zu betätigen.
+Du hast eine anstehende Prüfung und musst Dir viele Details und Zusammenhänge merken oder hast Schwierigkeiten Neues zu lernen.
 
 ## Was ist das Ziel?
-Du möchtest gesund bleiben und Dich fit fühlen, indem Du mit minimalem Zeitaufwand regelmäßige körperliche Aktivität in Deinen stressigen Alltag integrierst.
+Du möchtest Dir vielleicht eine neue Sprache oder eine neue Technologie aneignen oder einfach grundsätzlich effizienter lernen und Dein Gedächtnis verbessern.
 
 # Hack
 
@@ -21,6 +21,12 @@ Du möchtest gesund bleiben und Dich fit fühlen, indem Du mit minimalem Zeitauf
 
 Der motorische Kortex ist eine Gehirnregion, die die Aufgabe hat, die willkürlichen Bewegungen des Körpers zu steuern, aber auch bei der Übersetzung von Fremdsprachen in die Muttersprache helfen kann.
 Durch gestenbasierten Trainings wurden Erfolge bei der Übersetzung von fremdsprachigem Vokabular gemessen.
+
+Hier beschreibt Dr. Adam Hantman, PhD wie der motorische Kortex und unterschiedliche Modalitäten uns beim Lernen helfen können:
+
+> "Wenn Sie etwas lernen wollen, versuchen Sie, es in so viele Modalitäten der neuronalen Funktion wie möglich zu stecken. Wenn ich zum Beispiel etwas Neues lernte, schrieb ich immer in die Randnotizen. Auch wenn ich die Notizen nie wieder gelesen habe, hat mir der Akt des Einlegens in mein motorisches System geholfen, mich an die Fakten zu erinnern."
+
+> “Unser Gehirn hat sich entwickelt, um sich durch die Welt zu bewegen, und eines der Dinge, die in den letzten 50 Jahren aus diesem Bereich hervorgegangen sind, ist, dass das motorische System all diese schöne Interaktion mit den sensorischen Stationen im Gehirn hat, diesen eher kognitiven Stationen. Das Einschalten dieser Schaltkreise hat also die Chance, Erinnerungen in Teilen des Gehirns wirklich zu verstärken..” Dr Adam Hantman, Janelia
 
 # Beispiele
 
@@ -50,8 +56,6 @@ Effizienz: 4
 
 [1]: [Learning by doing: How the brain's motor system can support vocabulary learning](https://www.sciencedaily.com/releases/2021/09/210909123911.htm)
 
-4. Use your motor system when learning something new
 
-> "Wenn Sie etwas lernen wollen, versuchen Sie, es in so viele Modalitäten der neuronalen Funktion wie möglich zu stecken. Wenn ich zum Beispiel etwas Neues lernte, schrieb ich immer in die Randnotizen. Auch wenn ich die Notizen nie wieder gelesen habe, hat mir der Akt des Einlegens in mein motorisches System geholfen, mich an die Fakten zu erinnern."
 
-> “Unser Gehirn hat sich entwickelt, um sich durch die Welt zu bewegen, und eines der Dinge, die in den letzten 50 Jahren aus diesem Bereich hervorgegangen sind, ist, dass das motorische System all diese schöne Interaktion mit den sensorischen Stationen im Gehirn hat, diesen eher kognitiven Stationen. Das Einschalten dieser Schaltkreise hat also die Chance, Erinnerungen in Teilen des Gehirns wirklich zu verstärken..” Dr Adam Hantman, Janelia
+
