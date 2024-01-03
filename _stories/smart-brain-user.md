@@ -14,5 +14,7 @@ Wir sollten seine Funktionen kennen, die "Knöpfe" und "Schalthebel", die wir be
 Wir sollten wissen, was welche "Kontrollampen" uns zur Verfügung stehen, welche Hinweise uns unser Gehirn gibt und wie wir darauf zu regaieren haben.
 Ein smarter Gehirnbenutzer ist nachdem jemand, der weiß, wie er sein Gehirn bestmöglichst bedient und pflegt.
 
+<!---
 ## Wie werde ich zum smarten Gehirnbenutzer?
 Ein Nachfüllen mit Öl können wir hier sogar wörtlich nehmen: Gutes Öl ist für das Gehirn eine Wohltat, es hilft dem Gehirn durch Omega 3 Fettsäuren "gut geschmiert" 
+-->
