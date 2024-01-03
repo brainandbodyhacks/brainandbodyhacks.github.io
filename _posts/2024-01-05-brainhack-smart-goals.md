@@ -19,11 +19,11 @@ Du möchtest Dir Ziele setzen, die Dir einen konkreten Nutzen bringen und die Du
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
-Setze Dir nur Ziele, die die folgenden Kriterien erfüllen und formuliere diese auch konkret so.
+Folge den nächsten Schritten um den **Brainhack "S.M.A.R.T. Goals** anzuwenden:
 
-Schreibe dein Ziel grob auf.
+1. Schreibe dein Ziel grob auf.
 
-Nun beantworte die folgenden Fragen dazu:
+2. Nun beantworte die folgenden Fragen dazu:
 
 - Was genau möchte ich erreichen?
 Du solltest ein klares konkretes Ziel für Dich benennen, keine allgemeine Formulierung, wie z.B Weltfrieden. Durch die Beantwortung der Frage siehst Du, ob das Ziel spezifisch ist.
@@ -40,7 +40,7 @@ Unrealistische Ziele sind per Definition kaum erreichbar, daher sollten Ziele im
 - Wann will ich mein Ziel erreichen?
 Setze eine Frist, ein konkretes Datum. Durch die Beantwortung der Frage siehst Du, ob das Ziel terminierbar ist.
 
-Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert.
+3. Gratulation, Du hast Dein Ziel s.m.a.r.t formuliert und damit die Wahrscheinlichkeit, es zu erreichen erheblich gesteigert.
 
 Das Konzept wurde schon 1981 von George Doran, Arthur Miller, and James Cunningham in einem Research Paper veröffentlicht: 
 [Setting Goals](https://cce.bard.edu/files/Setting-Goals.pdf) 
