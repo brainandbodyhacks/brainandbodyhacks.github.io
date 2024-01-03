@@ -3,7 +3,7 @@
 <details>
    <summary>Mehr..</summary>
 Unser Gehirn hat einen eingebauten Schutzmechanismus, der greift, sobald unser System unter zuviel Stress steht:
-Der präfrontale Cortext schaltet quasi ab und überlässt unserem Fight-Flight-Freeze System die Kontrolle.
+Der präfrontale Cortex schaltet quasi ab und überlässt unserem Fight-Flight-Freeze System die Kontrolle.
 
 Das sympathische Nervensystem versetzt den Körper in Alarmbereitschaft durch Erhöhung des Blutdrucks, Verstärkung des Stoffwechsels und der Nutzung von Kohlenhydraten, damit das Gehirn und die Muskeln schnellstmöglich versorgt werden.
 Adrenalin und Noradrenalin werden ausgeschüttet.
