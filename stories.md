@@ -3,5 +3,6 @@ layout: page
 title: Stories
 ---
 
-@@includemy-_stories/smart-brain-user.md
+{% include_relative _stories/smart-brain-user.md %}
+
 
