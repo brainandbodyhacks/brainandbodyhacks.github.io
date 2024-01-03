@@ -1,7 +1,7 @@
 ## Warum werden wir quasi blöd, wenn wir Stress haben und was können wir ganz konkret und effektiv dagegen tun?
 
 <details>
-  <summary>Click me</summary>
+   <summary>Mehr..</summary>
 Unser Gehirn hat einen eingebauten Schutzmechanismus, der greift, sobald unser System unter zuviel Stress steht:
 Der präfrontale Cortext schaltet quasi ab und überlässt unserem Fight-Flight-Freeze System die Kontrolle.
 
