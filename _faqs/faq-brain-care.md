@@ -1,12 +1,17 @@
 
 ## Wie halte ich mein Gehirn in Stand?
-
-## Wie geht gehirngerechte Ernährung?
-
-## Wie komme ich in den sogenannten Flow Zustand?
+<details>
+  <summary>Mehr..</summary>
+</details>
 
 ## Wie geht gehirngerechte Führung?
+<details>
+  <summary>Mehr..</summary>
+</details>
 
 ## Wie kann ich Menschen helfen, ihr Gehirn bestmöglich zu nutzen?
+<details>
+  <summary>Mehr..</summary>
+</details>
 
 ## Wie kann ich möglichst effizient Neues lernen?
