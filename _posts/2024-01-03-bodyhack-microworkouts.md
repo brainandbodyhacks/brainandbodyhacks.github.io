@@ -49,6 +49,37 @@ Mein eigenes Lieblingsintervalltraining umfasst 2 Runden mit:
 je 30 Sekunden Mountain Climbers - 30 Sekunden Erholung - 30 Sekunden Liegestütze - 30 Sekunden Erholung - 30 Sekunden Burpees.
 Ich absolviere das Training täglich nach dem Mittagessen nach entsprechendem Warm-Up und variiere die Übungen nach Belieben mit High Knees, Hampelmännern und Pull-Ups.
 
+## Kombination mit dem Brainhack "S.M.A.R.T. Goals
+Den **Bodyhack "microworkouts"** können wir ganz einfach mit dem [**Brainhack "S.M.A.R.T. Goals"**](2024-01-05-brainhack-smart-goals.md) kombinieren und so eine messbare Routine etablieren.
+
+Hier wurde das unspezifisches Ziel “Ich möchte fit werden” mit den s.m.a.r.t.en Fragen umformuliert:
+
+**Spezifisch**
+Was genau möchte ich erreichen? 
+Jeden Tag absolviere ich mindestens ein 5 minütiges H.I.T. Training oder ich gehe alternativ mindestens eine halbe Stunde spazieren.
+
+**Messbar**
+Wie kann ich es messen? 
+
+Ich trainiere jeden Tag nach dem Mittagessen, mit einer Dauer von mindestens 5 Minuten und einer Herzrate von 140 . Alternativ war ich mindestens eine halbe Stunde spazieren.
+
+**Attraktiv**
+Warum ist es mir wichtig? 
+
+Das Ziel ist mir sehr wichtig:  Mit diesem täglichen Gewohnheit kann ich mich jeden Tag bewegen. Dadurch bleibe ich gesund, kann meine Konzentration und Produktivität steigern und vor allem meinen Stress abzubauen.
+
+**Realistisch**
+Ist es umsetzbar? 
+
+Ja, Es ist umsetzbar: 5 Minuten H.I.T. oder 30 Minuten spazieren gehen kann ich täglich umsetzen, es ist auch an stressigen Tagen oder sogar auf Reisen machbar und durchhaltbar.
+Bei Erkältung oder Muskelkater kann ich immer das Spazierengehen wählen.
+
+**Terminiert**
+Bis wann möchte ich mein Ziel erreichen ? 
+
+Das Training werde ich täglich zur Mitagszeit absolvieren.
+
+
 # Hack Rating
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
 
