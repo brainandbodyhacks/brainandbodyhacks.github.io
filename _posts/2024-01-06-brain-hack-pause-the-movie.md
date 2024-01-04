@@ -18,7 +18,7 @@ Möchtest Du in diesen Situationen gerne gelassener und besonnener reagieren und
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 
-Mit dem **Brainhack "Pause the movie"** kannst Du Dich von der Situation lösen und dissoziiert auf die Situation schauen, Dich also selbst in der Situation von außen betrachten, wie ein unbeteiligter Beobachter. 
+Mit dem **Brainhack "Pause the movie"** kannst Du Dich von der Situation lösen und dissoziiert auf die Szene schauen, Dich also selbst wie ein unbeteiligter Beobachter in der Situation von außen betrachten. 
 Durch den Blick von außen auf die Situation, kann man sich nun von den Emotionen, die in der Situation empfunden werden, dissoziieren.
 
 Du kannst die Situation also wie ein Zuschauer betrachten, der einen Film schaut und sogar auf Pause drücken kann, wenn ihm die Szene zu intensiv wird.
