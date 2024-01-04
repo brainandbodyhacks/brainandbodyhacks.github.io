@@ -19,15 +19,15 @@ Möchtest Du in diesen Situationen gerne gelassener und besonnener reagieren und
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 
 Mit dem **Brainhack "Pause the movie"** kannst Du Dich von der Situation lösen und dissoziiert auf die Szene schauen, Dich also selbst wie ein unbeteiligter Beobachter in der Situation von außen betrachten. 
-Durch den Blick von außen auf die Situation, kann man sich nun von den Emotionen, die in der Situation empfunden werden, dissoziieren.
+Durch den Blick von außen auf die Situation kann man sich nun von den Emotionen, die in der Situation empfunden werden, distanzieren.
 
 Du kannst die Situation also wie ein Zuschauer betrachten, der einen Film schaut und sogar auf Pause drücken kann, wenn ihm die Szene zu intensiv wird.
-Indem wir bildlich auf Pause drücken, können wir uns vorstellen, dass die anderen Schauspieler ihre eigene Background-Geschichte haben und auf Dinge reagieren, die wir eventuell (noch) nicht kennen. Wir können uns den Gegenüber als Charakter vorstellen, der viele Dinge in seinem Leben durchgemacht hat und seine Reaktionen nur der Ausdruck dessen ist, was er schon erlebt hat.
+Indem wir bildlich auf Pause drücken, haben wir Zeit dafür, uns vorstellen, dass die anderen Schauspieler ihre eigene Background-Geschichte haben und auf Dinge reagieren, die wir eventuell (noch) nicht kennen. Wir können uns den Gegenüber als Charakter vorstellen, der viele Dinge in seinem Leben durchgemacht hat und seine Reaktionen nur der Ausdruck dessen ist, was er schon erlebt hat.
 
 # Beispiele
   
 ## 1. "Press Pause" beim Autofahren
-Wenn Dich jemand beim Autofahren schneidet und Du Dich ärgerst, ihm vielleicht Schimpfwörter hinterherrufst und selbst dadurch unaufmerksam wirst, so kannst Du hier den Film ändern, drücke auf Pause und schreibe das Skript um: Der Autofahrer hat vielleicht ein krankes Kind im Auto und ist auf dem Weg zum Krankenhaus.
+Wenn Dich jemand beim Autofahren schneidet und Du Dich ärgerst, ihm vielleicht Schimpfwörter hinterherrufst und selbst dadurch unaufmerksam wirst, so kannst Du hier den Film ändern, drücke auf Pause und schreibe das Skript um: Der Autofahrer muss vielleicht ganz dringend auf die Toilette oder hat vielleicht ein krankes Kind im Auto und ist auf dem Weg zum Krankenhaus.
 
 ## 2. Übung
 Du kannst folgende Übung der [NEURES Akademie](https://neures.de/infothek/assoziation-und-dissoziation-emotionalitaet/) nutzen, um diese Technik einzuüben:
