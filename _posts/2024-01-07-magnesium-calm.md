@@ -29,7 +29,7 @@ Die Aufgaben von Magnesium in unserem Körper sind daher vielfältig, hier sind 
 - Benötig im Herzen, kann sich auf die Herzfrequenz auszuwirken
 - Wird in den Muskeln benötigt, vor allem bei Krämpfen  
 - Wirkt sich positiv auf die Psyche aus, fördert die Ausgeglichenheit und das Wohlbefinden
-- Und wirkt sich vor allem auf den Schlaf aus - daher Magnesium am besten am Abend neben
+- Und wirkt sich vor allem auf den Schlaf aus - daher Magnesium am besten am Abend einnehmen
 
 Der Stoff, der an das Magnesium gebunden ist gibt die Funktion vor, doch welche Magnesiumformen gibt es?
 
