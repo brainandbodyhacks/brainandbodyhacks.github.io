@@ -31,7 +31,7 @@ Die Aufgaben von Magnesium in unserem Körper sind daher vielfältig, hier sind 
 - Wirkt sich positiv auf die Psyche aus, fördert die Ausgeglichenheit und das Wohlbefinden
 - Und wirkt sich vor allem auf den Schlaf aus - daher Magnesium am besten am Abend neben
 
-Der Stoff der an das Magnesiunm gebunden ist gibt die Funktion vor.
+Der Stoff, der an das Magnesiunm gebunden ist gibt die Funktion vor.
 Welche Magnesiumformen gibt es?
 
 - Citrat: Relativ günstig mit hoher Bioverfügbarkeit
@@ -41,18 +41,18 @@ Welche Magnesiumformen gibt es?
 - Thaurat: Für das Herz-Kreislaufsystem
 - Chlorid: unterstüzt Nebenniere und die Leber
 
-Ein niedriger Magnesiumspiegel wurde mit einer Reihe von chronischen Krankheiten wie Alzheimer, Insulinresistenz und Typ-2-Diabetes mellitus, Bluthochdruck, Herz-Kreislauf-Erkrankungen (z. B. Schlaganfall), Migräne und Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) in Verbindung gebracht [^1].
+Ein niedriger Magnesiumspiegel kann mit einer Reihe von chronischen Krankheiten wie zum Beispiel Alzheimer, Insulinresistenz, Bluthochdruck oder Migräne in Verbindung gebracht werden [^1].
 
 # Beispiele
 
 ## 1. Enstpannung und besserer Schlaf
 Magnesium kann uns vor allem dabei unterstützen, abzuschalten und besser zu schlafen.
-Wird Magnesium Abends vor dem Schlafen eingenommen, so kann dies für einen tieferen und damit optimal regenerativen Schlaf sorgen. 
+Wird Magnesium abends vor dem Schlafen eingenommen, so kann dies für einen tieferen und damit optimal regenerativen Schlaf sorgen. 
 Studien bestätigen den Zusammenhang zwischen zwischen Aufnahme von Magnesium in der Nahrung und der Schlafqualität und den Schlafmustern [^2].
 
 ## 2. Magnesium zur Entspannung bei Stress
-Studien belegen, dass Stress  den Magnesiumverlust erhöhen und damit einen Mangel verursachen kann und ein Magnesiummangel die Stressanfälligkeit des Körpers erhöht [^3].
-Müdigkeit, Reizbarkeit, Nervosität, Energiemangel, Muskelverspannungen Muskelkrämpfe, Kopfschmerzen , Traurigkeit und Depression oder leichte Schlafstörungen sind Symptome von Stress und auch Magnesiummangel.
+Studien belegen, dass Stress den Magnesiumverlust erhöhen und damit einen Mangel verursachen kann und ein Magnesiummangel die Stressanfälligkeit des Körpers erhöht [^3].
+Müdigkeit, Reizbarkeit, Nervosität, Energiemangel, Muskelverspannungen und Muskelkrämpfe, Kopfschmerzen, Traurigkeit und Depression oder leichte Schlafstörungen sind Symptome von Stress und auch Magnesiummangel.
 Eine erhöhte Magnesiumzufuhr kann also bei Stress die damit verbundenen Gesundheitsrisiken reduzieren und eine Entspannung erleichtern.
 
 
