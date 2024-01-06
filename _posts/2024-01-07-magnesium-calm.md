@@ -26,8 +26,8 @@ Die Aufgaben von Magnesium in unserem Körper sind daher vielfältig, hier sind 
 - Notwendig für die Funktion vieler Organe
 - wirkt osmotisch und ist daher wichtig für den Flüssigkeitshaushalt 
 - Unterstützt das Skelettsystem
-- Benötig im Herzen, Magnesium kann sich auf die Herzfrequenz auszuwirken
-- Biscyglinat wird in den Muskeln benötigt, vor allem bei Krämpfen  
+- Benötig im Herzen, kann sich auf die Herzfrequenz auszuwirken
+- Wird in den Muskeln benötigt, vor allem bei Krämpfen  
 - Wirkt sich positiv auf die Psyche aus, fördert die Ausgeglichenheit und das Wohlbefinden
 - Und wirkt sich vor allem auf den Schlaf aus - daher Magnesium am besten am Abend neben
 
