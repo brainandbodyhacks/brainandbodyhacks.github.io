@@ -36,7 +36,7 @@ Welche Magnesiumformen gibt es?
 
 - Citrat: Relativ günstig mit hoher Bioverfügbarkeit
 - Malat: für den Energiestoffwechsel, unterstützt die ATP Produktion
-- (Bis)Glycinat: jhat die hächste Bioverfügbarkeit
+- (Bis)Glycinat: hat die höchste Bioverfügbarkeit
 - L-Threonat für die zentralnervöse Entspannung
 - Thaurat: Für das Herz-Kreislaufsystem
 - Chlorid: unterstüzt Nebenniere und die Leber
