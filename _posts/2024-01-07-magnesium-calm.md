@@ -48,10 +48,10 @@ Ein niedriger Magnesiumspiegel kann mit einer Reihe von chronischen Krankheiten 
 ## 1. Enstpannung und besserer Schlaf
 Magnesium kann uns vor allem dabei unterstützen, abzuschalten und besser zu schlafen.
 Wird Magnesium abends vor dem Schlafen eingenommen, so kann dies für einen tieferen und damit optimal regenerativen Schlaf sorgen. 
-Studien bestätigen den Zusammenhang zwischen zwischen Aufnahme von Magnesium in der Nahrung und der Schlafqualität und den Schlafmustern [^2].
+Studien bestätigen den Zusammenhang zwischen der Aufnahme von Magnesium in der Nahrung und der Schlafqualität und den Schlafmustern [^2].
 
 ## 2. Magnesium zur Entspannung bei Stress
-Studien belegen, dass Stress den Magnesiumverlust erhöhen und damit einen Mangel verursachen kann und ein Magnesiummangel die Stressanfälligkeit des Körpers erhöht [^3].
+Studien belegen, dass Stress den Magnesiumverlust erhöhen und damit einen Magnesiummangel verursachen kann und dass dieser Mangel die Stressanfälligkeit des Körpers erhöhen kann [^3].
 Müdigkeit, Reizbarkeit, Nervosität, Energiemangel, Muskelverspannungen und Muskelkrämpfe, Kopfschmerzen, Traurigkeit und Depression oder leichte Schlafstörungen sind Symptome von Stress und auch Magnesiummangel.
 Eine erhöhte Magnesiumzufuhr kann also bei Stress die damit verbundenen Gesundheitsrisiken reduzieren und eine Entspannung erleichtern.
 
@@ -61,7 +61,7 @@ Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1
 
 Zeitaufwand: 5 
 
-Kosten: 3 - Magnesium kann preislich je nach Form variieren
+Kosten: 3 - Magnesium kann preislich je nach Form stark variieren
 
 Effizienz: 5
 
