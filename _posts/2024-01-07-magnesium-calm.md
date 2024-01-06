@@ -21,10 +21,10 @@ Möchtest Du besser entspannen können und vor allem gut und tief schlafen, um D
 Durch moderne Ernteformen und unseren modernen Lifestyle sind wir heutzutage trotz oft erhöhter Kalorienaufnahme mit Mikronährstoffen unterversorgt. Dies kann zu einer Reihe von Problemen führen. Im Fall einer mangelnder Magnesium-Versorgung ist die Unterversorgung besonders problematisch, denn Magnesium ist an enorm vielen Vorgängen in unserem Körper beteiligt.
 
 Die Aufgaben von Magnesium in unserem Körper sind daher vielfältig, hier sind nur die Wichtigsten aufgeführt:
-- Bestandteil von über 300 Enzymen als Cofaktor
-- Benötigt für den Energiestoffwechsel und die ATP-Bildung
+- Bestandteil von über 300 Enzymen
+- Benötigt für den Energiestoffwechsel
 - Notwendig für die Funktion vieler Organe
-- wirkt osmotisch und ist daher wichtig für den Flüssigkeitshaushalt 
+- Wichtig für den Flüssigkeitshaushalt 
 - Unterstützt das Skelettsystem
 - Benötig im Herzen, kann sich auf die Herzfrequenz auszuwirken
 - Wird in den Muskeln benötigt, vor allem bei Krämpfen  
@@ -35,11 +35,13 @@ Der Stoff, der an das Magnesiunm gebunden ist gibt die Funktion vor.
 Welche Magnesiumformen gibt es?
 
 - Citrat: Relativ günstig mit hoher Bioverfügbarkeit
-- Malat: für den Energiestoffwechsel, unterstützt die ATP Produktion
-- (Bis)Glycinat: hat die höchste Bioverfügbarkeit
-- L-Threonat: für die zentralnervöse Entspannung
-- Thaurat: Für das Herz-Kreislaufsystem
-- Chlorid: unterstüzt Nebenniere und die Leber
+- Malat: für den Energiestoffwechsel, Nervensystem, Knochen, Zähne und Haut
+- (Bis)Glycinat: hat die höchste Bioverfügbarkeit und eignet sich zur Verringerung von Ermüdung
+- L-Threonat: für die zentralnervöse Entspannung, zur Unterstützung des Gedächtnisses und zur Aufrechterhaltung der kognitiven Funktion
+- Thaurat: Für das Herz-Kreislaufsystem, gegen Arterienverkalkung oder Bluthochdruck, kann das Risiko für Bluthochdruck senken
+- Chlorid: unterstüzt die Nebenniere und die Leber und kann den Verdauungsprozess normalisieren
+
+Je nach Funktion wird also eine andere Form benötigt und durch ein Kombipräparat kann eine gute Magnesiumversorgung des Körpers erreicht werden. 
 
 Ein niedriger Magnesiumspiegel kann mit einer Reihe von chronischen Krankheiten wie zum Beispiel Alzheimer, Insulinresistenz, Bluthochdruck oder Migräne in Verbindung gebracht werden [^1].
 
