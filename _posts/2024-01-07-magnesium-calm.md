@@ -31,8 +31,7 @@ Die Aufgaben von Magnesium in unserem Körper sind daher vielfältig, hier sind 
 - Wirkt sich positiv auf die Psyche aus, fördert die Ausgeglichenheit und das Wohlbefinden
 - Und wirkt sich vor allem auf den Schlaf aus - daher Magnesium am besten am Abend neben
 
-Der Stoff, der an das Magnesiunm gebunden ist gibt die Funktion vor.
-Welche Magnesiumformen gibt es?
+Der Stoff, der an das Magnesiunm gebunden ist gibt die Funktion vor, doch welche Magnesiumformen gibt es?
 
 - Citrat: Relativ günstig mit hoher Bioverfügbarkeit
 - Malat: für den Energiestoffwechsel, Nervensystem, Knochen, Zähne und Haut
@@ -56,17 +55,17 @@ Studien bestätigen den Zusammenhang zwischen der Aufnahme von Magnesium in der 
 ## 2. Magnesium zur Entspannung bei Stress
 Studien belegen, dass Stress den Magnesiumverlust erhöhen und damit einen Magnesiummangel verursachen kann und dass dieser Mangel die Stressanfälligkeit des Körpers erhöhen kann [^3].
 Müdigkeit, Reizbarkeit, Nervosität, Energiemangel, Muskelverspannungen und Muskelkrämpfe, Kopfschmerzen, Traurigkeit und Depression oder leichte Schlafstörungen sind Symptome von Stress und auch Magnesiummangel.
-Eine erhöhte Magnesiumzufuhr kann also bei Stress die damit verbundenen Gesundheitsrisiken reduzieren und eine Entspannung erleichtern.
+Eine erhöhte Magnesiumzufuhr kann also bei Stress die damit verbundenen Gesundheitsrisiken reduzieren und die Entspannung fördern.
 
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, moderat, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
-Zeitaufwand: 5 
+Zeitaufwand: minimal
 
-Kosten: 3 - Magnesium kann preislich je nach Form stark variieren
+Kosten: moderat - Magnesium kann preislich je nach Form stark variieren
 
-Effizienz: 5
+Effizienz: sehr hoch
 
 # Mehr zum Thema
 
