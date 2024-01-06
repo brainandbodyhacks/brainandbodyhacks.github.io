@@ -44,6 +44,7 @@ Welche Magnesiumformen gibt es?
 Je nach Funktion wird also eine andere Form benötigt und durch ein Kombipräparat kann eine gute Magnesiumversorgung des Körpers erreicht werden. 
 
 Ein niedriger Magnesiumspiegel kann mit einer Reihe von chronischen Krankheiten wie zum Beispiel Alzheimer, Insulinresistenz, Bluthochdruck oder Migräne in Verbindung gebracht werden [^1].
+Der Magnesiumspiegel wird am besten durch eine Blutprobe im Vollblut bestimmt.
 
 # Beispiele
 
