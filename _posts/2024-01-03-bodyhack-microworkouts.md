@@ -81,13 +81,13 @@ Das Training werde ich täglich zur Mitagszeit absolvieren.
 
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
-Zeitaufwand: 5
+Zeitaufwand: gering
 
-Kosten: 5
+Kosten: minimal
 
-Effizienz: 4
+Effizienz: hoch
 
 # Mehr zum Thema
 - [No time to get fit? Think again](https://www.sciencedaily.com/releases/2016/04/160427095204.htm)
