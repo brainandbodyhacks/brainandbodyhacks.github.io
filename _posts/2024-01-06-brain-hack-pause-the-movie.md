@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brainhack "Pause the movie"
-summary: Mit dem Hack kannst Du Deinen präfrontalen Cortex in schwierigen Situationen wieder aktivieren und somit eine bessere Reaktion wählen.  
+summary: Mit dem Hack kannst Du in schwierigen Situationen auf Pause drücken, Deinen präfrontalen Cortex aktivieren und somit eine bessere Reaktion wählen.  
 lang: de
 tags: brainhack
 ---
