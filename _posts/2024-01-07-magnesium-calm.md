@@ -59,11 +59,11 @@ Eine erhöhte Magnesiumzufuhr kann also bei Stress die damit verbundenen Gesundh
 
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, moderat, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
 Zeitaufwand: minimal
 
-Kosten: moderat - Magnesium kann preislich je nach Form stark variieren
+Kosten: mittel - Magnesium kann preislich je nach Form stark variieren
 
 Effizienz: sehr hoch
 
