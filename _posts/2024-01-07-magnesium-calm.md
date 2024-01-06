@@ -18,9 +18,9 @@ Möchtest Du besser entspannen können und vor allem gut und tief schlafen, um D
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 **Bodyhack "Magnesium Calm"**: Wir können Magnesium supplementieren, um unseren Körper in seiner optimalen Funktion zu unterstützen.
-Durch moderne Ernteformen und unseren modernen Lifestyle sind wir heutzutage trotz oft erhöhter Kcal-Aufnahme mit Mikronährstoffen unterversorgt. Dies kann zu einer Reihe von Problemen führen, in Fall von einer mangelnder Magnesium-Versorgung ist die Unterversorgung besonders problematisch, denn Magnesium ist an enorm vielen Vorgängen in unserem Körper beteiligt.
+Durch moderne Ernteformen und unseren modernen Lifestyle sind wir heutzutage trotz oft erhöhter Kalorienaufnahme mit Mikronährstoffen unterversorgt. Dies kann zu einer Reihe von Problemen führen, in Fall von einer mangelnder Magnesium-Versorgung ist die Unterversorgung besonders problematisch, denn Magnesium ist an enorm vielen Vorgängen in unserem Körper beteiligt.
 
-Die Aufgaben von Magnesium in unserem Körper sind daher vielfältig, hier sind die Wichtigsten aufgeführt:
+Die Aufgaben von Magnesium in unserem Körper sind daher vielfältig, hier sind nur die Wichtigsten aufgeführt:
 - Bestandteil von über 300 Enzymen als Cofaktor
 - Benötigt für den Energiestoffwechsel und die ATP-Bildung
 - Notwendig für die Funktion vieler Organe
