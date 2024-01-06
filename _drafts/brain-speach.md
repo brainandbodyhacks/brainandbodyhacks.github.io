@@ -24,8 +24,8 @@ Neurosciences Role in Confidence and Resilience
   - Z.B.: "Verliere nicht die Beherrschung" bis hin zu "Sei ruhig!"
  
 ## Beschriftung beeinflussen
-  - Rufe jedes Gefühl hervor, wenn du es hast
-  - Sagen Sie laut "Ich bin ängstlich", wenn Sie sich ängstlich fühlen
+  - Benenne jedes Gefühl, wenn du es hast
+  - Sage laut "Ich bin ängstlich", wenn Du Dich ängstlich fühlst
 
 ## Pumpen Sie sich auf:
   - "Maria, du wirst das vernichten!" -> sprich mit dir selbst in der zweiten oder dritten Person -> Dissoziation
