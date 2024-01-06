@@ -35,8 +35,19 @@ Small things can help when you feel stressed out:
 - eating better
 - listening to music
 
-Tell yourself and your team that you can change your brain even if you cannot change the situation. Your brain can always change for trhe better 
+Tell yourself and your team that you can change your brain even if you cannot change the situation. Your brain can always change for the better 
 and this will help you perform better at work.
+
+How to utilize this at work:
+- Change your Training Design
+    - add more learning that impacts the unconscous brain
+    - Decision Making, creativity are highly unconscious
+- Deepen understanding of soft skills
+- Debunk old coaching practices
+    - reserch indicates that constantly tracking goals overactivates the release of adrenalin in the brain, people become anxious and that slows them down
+    - Even negative feedback can be helpful if it is carefully delivered
+    - soft skills training backed up with neuro-education 
+- add nuances that make a big difference
 
 
 Gartner predicts:
