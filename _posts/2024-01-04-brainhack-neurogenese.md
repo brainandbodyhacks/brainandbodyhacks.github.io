@@ -38,15 +38,15 @@ Das Lesen von Büchern oder Hören von Hörbüchern ähnelt dem Download von neu
 Schöne Musik kann Dich beruhigen und Dein BDNF erhöhen, sowie Deine Konzentration steigern. Vor allem Binaurale Beats sind Frequenzen, die sich positiv aufs Gehirn auswirken können [^2].
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. 
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
 Hier mein persönliches Rating für die heutigen Hacks:
 
-Zeitaufwand: 3 
+Zeitaufwand: mittel
 
-Kosten: 3 
+Kosten: mittel
 
-Effizienz: 4
+Effizienz: hoch
   
 # Mehr zum Thema
 - [BDNF erhöhen und Intelligenz steigern – So geht’s!](https://schnelleinfachgesund.de/bdnf-erhoehen/)
