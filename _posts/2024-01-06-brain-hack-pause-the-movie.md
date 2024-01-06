@@ -36,15 +36,15 @@ Du kannst folgende Übung der [NEURES Akademie](https://neures.de/infothek/assoz
 Erinnere dich an sie und finde heraus, ob du sie assoziiert oder dissoziiert erinnerst. Wenn du sie assoziiert erinnerst, schwebe aus deinem Körper heraus, entferne dich von dir selbst und schaue mit einigem Abstand auf die Situation. Lasse alle Gefühle und Empfindungen bei dem Ich, das die Situation erlebt, so dass du auch hier ein unbeteiligter Beobachter bist. Experimentiere mit dem Abstand, von dem aus du dich in der Situation betrachtest. Probiere auch eine doppelte oder dreifache Dissoziation. Schwebe also aus dem Beobachter heraus, entferne dich von ihm und betrachte den Beobachter, wie er die Situation sieht. Wie verändert sich dein Erleben jetzt?" [^1]. 
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
 Je nach Übungsaufwand ist der Zeitaufwand gering bis mittel. Wenn Du täglich übst, erzielst Du einen stärkeren Effekt und kannst in den entsprechenden Situationen die Technik besser abrufen. Kosten tut Dich dieser Hack nichts. 
 
-Zeitaufwand: 3
+Zeitaufwand: mittel
 
-Kosten: 5
+Kosten: minimal
 
-Effizienz: 3
+Effizienz: mittel
 
 # Mehr zum Thema
 
