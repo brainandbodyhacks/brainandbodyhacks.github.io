@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brainhack "Produktivitäts-Prio"
-summary: Mit dem Brainhack "Produktivitäts-Prio" kannst Du Deine Produktivität steigern und Deine Zeit effizient und gehirngerecht nutzen
+summary: Mit dem Brainhack "Produktivitäts-Prio" kannst Du Deine Produktivität steigern und Deine Zeit effizient und gehirngerecht nutzen.
 lang: de
 tags: brainhack
 ---
