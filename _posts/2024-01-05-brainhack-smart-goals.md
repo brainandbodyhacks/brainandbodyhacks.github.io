@@ -137,13 +137,13 @@ Wann will ich mein Ziel erreichen?
 In 2 Monaten habe ich mein großes Ziel erreicht, jede Woche setze ich ein Zwischenziel mit Veröffentlichungen von 2 Hacks.
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein Rating für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
-Zeitaufwand: 3
+Zeitaufwand: mittel
 
-Kosten: 4
+Kosten: minimal
 
-Effizienz: 4
+Effizienz: hoch
 
 # Mehr zum Thema
 - Ein entscheidende Komponente zur Zielerreichung ist die individuelle Motivation. Hier erfährst Du die neurowissenschaftlichen Hintergründe zur effektiven Zielsetzung, Motivationssteigerung und den beteiligten Neurotransmittern: [The Neuroscience of Motivation: The Brain’s Role in Achieving Goals](https://www.modernmindmasters.com/the-neuroscience-of-motivation/)
