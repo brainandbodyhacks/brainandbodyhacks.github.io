@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodyhack "Magnesium Calm"
-summary: Mit dem hack kannst Du vor allem für eine bessere zentralnervöse Entspannung und tieferen Schlaf sorgen.
+summary: Mit dem Bodyhack "Magnesium Calm" kannst Du vor allem für eine bessere zentralnervöse Entspannung und tieferen Schlaf sorgen.
 lang: de
 tags: bodyhack
 ---
