@@ -52,13 +52,13 @@ Sie verbessern die Sehkraft und die Gesundheit der Augen.
 Sie unterstützen den Gewichtsverlust und den Muskelaufbau, indem sie den Stoffwechsel anregen und die Fettverbrennung erhöhen.
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
-Zeitaufwand: 5
+Zeitaufwand: minimal
 
-Kosten: 2
+Kosten: hoch - ein gutes Omega-3 Produkt ist seinen Preis wert
 
-Effizienz: 4
+Effizienz: hoch
 
 
 # Mehr zum Thema
