@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodyhack "Omega 3 Booster"
-summary: Mit dem Bodyhack "Omega 3 Booster" kannst Du Entzündungen bekämpfen, die Gehirngesundheit stärken und das Immunsystems stärken
+summary: Mit dem Bodyhack "Omega 3 Booster" kannst Du Entzündungen bekämpfen, die Gehirngesundheit stärken und das Immunsystems stärken.
 lang: de
 tags: bodyhack
 ---
