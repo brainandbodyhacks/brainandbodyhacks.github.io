@@ -48,4 +48,4 @@ Effizienz: mittel
 
 # Mehr zum Thema
 
-[^1]: https://neures.de/infothek/assoziation-und-dissoziation-emotionalitaet/
+[^1]: [NEURES Akademie](https://neures.de/infothek/assoziation-und-dissoziation-emotionalitaet/)
