@@ -22,7 +22,7 @@ tags: brainhack
 ## 2.
 
 # Hack Rating
-Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet. 1 ist dabei der schlechteste Wert, 5 das Optimum. Hier mein persönliches Rating für den heutigen Hack:
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
 Zeitaufwand: 
 
