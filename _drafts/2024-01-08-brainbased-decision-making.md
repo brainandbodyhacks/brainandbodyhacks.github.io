@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Brainhack "Kluge Entscheidung"**
+title: Brainhack "Kluge Entscheidung"
 summary: Mit dem Brainhack kannst Du große und wichtige Entscheidung klug und gehirngerecht angehen.
 lang: de
 tags: brainhack
