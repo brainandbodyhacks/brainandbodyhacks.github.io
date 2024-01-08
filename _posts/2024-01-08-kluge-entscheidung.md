@@ -12,7 +12,7 @@ tags: brainhack
 Du musst eine große und wichtige Entscheidung treffen und bist Dir unsicher, wie Du die beste Wahl triffst.
 
 ## Was ist das Ziel?
-Du die Alternativen gut durchdenken, Dich aber auch wohl fühlen mit der Entscheidung und Dein Bauchgefühl nicht ignorieren. Kurz, Du möchtest die Wahl klug und sowohl bauch- als auch gehirngerecht angehen.
+Du möchtest die Alternativen gut durchdenken, Dich aber auch wohl fühlen mit der Entscheidung und Dein Bauchgefühl nicht ignorieren. Kurz, Du möchtest die Wahl klug und sowohl bauch- als auch gehirngerecht angehen.
 
 # Hack
 
