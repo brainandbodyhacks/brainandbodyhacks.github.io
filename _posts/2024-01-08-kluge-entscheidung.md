@@ -66,5 +66,4 @@ Effizienz: hoch
 # Mehr zum Thema
 - [Klug entscheiden – mit Gefühl und Kalkül](https://www.haufe-akademie.de/downloadserver/FB/Klug_entscheiden_mit_Gefuehl_und_Kalkuel.pdf)
 
-[^1]: [Gerhard Roth / Klaus-Jürgen Grün / Michel Friedman (Hg.) - Kopf oder Bauch?
-Zur Biologie der Entscheidung](https://download.e-bookshelf.de/download/0003/8992/06/L-G-0003899206-0006660816.pdf)
+[^1]: [Gerhard Roth / Klaus-Jürgen Grün / Michel Friedman (Hg.) - Kopf oder Bauch? Zur Biologie der Entscheidung](https://download.e-bookshelf.de/download/0003/8992/06/L-G-0003899206-0006660816.pdf)
