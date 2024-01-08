@@ -40,13 +40,13 @@ Bei der Anschaffung eines neuen Autos kann man den oben beschriebenen Ablauf
 Wir können parallel kreativ werden, um unserer Intuition auf die Sprünge zu helfen und unsere Erfahrungen zu aktivieren, um sie in den Entscheidungsprozess zu integrieren.
 5. Nachdem wir genug Informationen eingeholt haben, eine Bewertung vorgenommen und eine Nacht darüber geschlafen haben, sollten wir uns einen Termin setzen, an dem wir eine mehr oder weniger spontane Entscheidung treffen, diese kann nun der analytischen Entscheidung oder aber auch - aus dem Erfahrungsgedächtnis integriert - einer anderen Bauchentscheidung entsprechen.
 
-Ein guter zusätzlicher Check ist es, die zwei besten Modelle  aus der Entscheidungsmatrix in die engere Auswahl zu ziehen über einen Münzwurf zu entscheiden. Freut man sich nun über das Ergebnis, dann ist die Entscheidung gut im Sinne von Kopf- UND Bauchgefühl. Ist man dagegen enttäuscht, so wäre die zweite Wahl vorzuziehen, da diese sowohl nach logischen Aspekten, als auch eher der Bewertung des Erfahrungsgedächtnisses entspricht.
+Ein guter zusätzlicher Check ist es, die zwei besten Modelle aus der Entscheidungsmatrix in die engere Auswahl zu ziehen und über einen Münzwurf zu entscheiden. Freut man sich nun über das Ergebnis, dann ist die Entscheidung gut im Sinne von Kopf- UND Bauchgefühl. Ist man dagegen enttäuscht, so wäre die zweite Wahl vorzuziehen, da diese sowohl nach logischen Aspekten als auch eher der Bewertung des Erfahrungsgedächtnisses entspricht.
 
 ## 2. Jobwechsel
 1. Welche Gefühle kommen hoch, wenn wir uns vorstellen, unseren Job zu wechseln und welche, wenn wir uns vorstellen, wir bleiben in dem aktuellen Beruf?
 2. Welche Faktoren spielen eine Rolle? Hier können wir zum Besipiel Vergütung, Flexibilität, Status, Entwicklungsmöglichkeiten als Kriterien in unserer Matrix eintragen und auf die jeweils zur Verfügung stehenden Varianten - im Job bleiben und jede weitere Jobalternative - mappen. 
 3. Nach Bewerten der Alternativen dürfen wir nun wieder eine Pause machen bzw. parallel kreativ werden
-5. Nun entscheiden wir an einem von uns gewählten Termin, zum Beispiel spontan Morgens nach dem Aufstehen.
+5. Nun entscheiden wir an einem von uns gewählten Termin, zum Beispiel spontan morgens nach dem Aufstehen.
 
 Auch hier kann man den Münzwurf als "Integrationscheck" anwenden.
 
