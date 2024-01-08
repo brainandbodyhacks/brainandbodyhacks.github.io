@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deine Expertin für Weiterentwicklung durch smarte Gehirnnutzung
+title: Dein Brain-Body-Coach für Weiterentwicklung und Gesundheit durch smarte Gehirnnutzung
 ---
                                                                                 
 
@@ -31,8 +31,9 @@ Ich strebe danach, effiziente Lösungen für die Probleme der heutigen hektische
 # Aus- und Weiterbildungen
 
 ## TÜV zertifizierter Medletics Health Coach
-In der Ausbildung der [Medletics Academy](https://medletics-academy.de) wurden medizinische Basics, Trainings- und Ernährungswissenschaften, Psychologie, Regeneration, biochemische Prozesse und Blutwerte abgedeckt. 
-Vor allem haben mich aber die neurobiologischen Aspekte gepackt: Wie funktioniert das Gehirn, wie werde ich zum smarten Gehirnbenutzer, welche Prozesse laufen im Gehirn ab und wie äußert sich das im Körper? Warum werden wir quasi blöd, wenn wir Stress haben und was können wir ganz konkret und effektiv dagegen tun?
+In der ganzheitliche Ausbildung der [Medletics Academy](https://medletics-academy.de) wurde tiefes, fundiertes Wissen von gleich mehreren ganzheitlich denkenden Ärzten und Coaches zu medizinischen Basics, Trainings- und Ernährungswissenschaften, Psychologie, Regeneration, biochemischen Prozessen und Blutwerten abgedeckt.
+Vor allem haben mich die Zusammenhänge von Gehirn und Körper und die neurobiologischen Aspekte gepackt: Wie funktioniert das Gehirn, wie werde ich zum smarten Gehirnbenutzer, welche Prozesse laufen im Gehirn ab und wie äußert sich das im Körper? Warum werden wir quasi blöd, wenn wir Stress haben, wie äußert sich das im Körper und was können wir ganz konkret und effektiv dagegen tun?
+Ich habe durch die Anwedung der gelehrten Inhalte nicht nur mir selbst, sondern auch meiner Umgebung helfen können, einen gesunden, produktiven und gehirngerechten Lifestyle zu leben!
 
 ## Agiler Coach
 Ich habe mehrere Jahre Erfahrung im Einzelcoaching und Coaching für Teams im agilen Umfeld. Gerade agile Transformationen profitieren von gehirngerechter Gestaltung oder können furchtbar schiefgehen, wenn die neurologischen Basics nicht verstanden sind.
