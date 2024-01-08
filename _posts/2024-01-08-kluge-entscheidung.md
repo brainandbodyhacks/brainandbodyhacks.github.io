@@ -18,7 +18,7 @@ Du möchtest die Alternativen gut durchdenken, Dich aber auch wohl fühlen mit d
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 **Brainhack "Kluge Entscheidung"**: Neurologisch gesehen gibt es einen optimalen Ablauf, den wir einhalten können, um kluge Entscheidungen zu treffen.
-Wie sieht dieser Ablauf aus? Folgende Schritte können wir in der beschriebenen Reihenfolge ausführen:
+Wie sieht dieser Ablauf aus? Folgende Schritte können wir nach Roth [^1] in der beschriebenen Reihenfolge ausführen:
 
 1. Zunächst sollten wir herausfinden, welche Gefühle bei einer anstehenden Entscheidung in uns hochkommen, sie geben einen guten Hinweis auf die im Unterbewusstsein gespeicherten Informationen aus unseren Erfahrungen. 
 2. Danach können wir logisch vorgehen und die für die Entscheidung relevanten Hauptfaktoren erheben und analysieren, hier eignen sich Tools wie zum Beispiel eine Entscheidungsmatrix. 
@@ -32,7 +32,7 @@ Dieses schrittweise Vorgehen ist sehr gut für folgenschwere Entscheidungen geei
 Hier zwei Besipiele für eine solche wichtige Entscheidungsfindung.
 
 ## 1. Anschaffung eines neuen Autos
-Bei der Anschaffung eines neuen Autos kann man den oben beschriebenen Ablauf
+Bei der Anschaffung eines neuen Autos könnte man den oben beschriebenen Ablauf wie folgt anwenden:
 
 1. Welche Gefühle kommen bei der anstehenden Entscheidung in uns hoch, welche Erfahrungen sind damit eventuell verbunden?  
 2. Welche Faktoren spielen eine Rolle? Wählen wir zum Beispiel Preis, Motorleistung, Verbrauch und Zuverlässigkeit, so können wir diese Kriterien als Zeilen unserer Matrix eintragen und die jeweils zur Verfügung stehenden Modelle in die Spalten eintragen und nach den Kriterien bewerten. Das Modell, das die meisten der Kriterien erfüllt, gewinnt. Wir sammeln und dokumentieren damit die relevanten Faktoren und sprechen die benötigten Hirnareale an.
@@ -64,3 +64,7 @@ Kosten: gering
 Effizienz: hoch
 
 # Mehr zum Thema
+- [Klug entscheiden – mit Gefühl und Kalkül](https://www.haufe-akademie.de/downloadserver/FB/Klug_entscheiden_mit_Gefuehl_und_Kalkuel.pdf)
+
+[^1]: [Gerhard Roth / Klaus-Jürgen Grün / Michel Friedman (Hg.) - Kopf oder Bauch?
+Zur Biologie der Entscheidung](https://download.e-bookshelf.de/download/0003/8992/06/L-G-0003899206-0006660816.pdf)
