@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dein Brain-Body-Coach für Weiterentwicklung und Gesundheit durch smarte Gehirnnutzung
+title: Dein Brain-Body-Coach für Weiterentwicklung durch smarte Gehirnnutzung
 ---
                                                                                 
 
