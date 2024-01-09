@@ -20,7 +20,7 @@ Du willst kleine aber effektive Bewegungseinheiten in Deinen Alttag integrieren 
 **Bodyhack "Exercise-Snacking"**
 
 Bewegung ist ohne Zweifel eines der Bestem Mittel um gesund zu bleiben und Alterungsprozesse zu bekämpfen.
-Im Bodyhack "Microworkouts" kannst Du die Effekte nochmal nachlesen. Übrigens eignen sich "Microworkouts" auch bestens in der Kombination mit dem hier vorgestelleten Bodyhack "Exercixe-Snacking.
+Im [Bodyhack "Microworkouts"](../_posts/2024-01-03-bodyhack-microworkouts.md)kannst Du die Effekte nochmal nachlesen. Übrigens eignen sich "Microworkouts" auch bestens in der Kombination mit dem hier vorgestelleten Bodyhack "Exercixe-Snacking.
 
 Doch viele von uns haben einen vollgepackten Terminplan und den Eindruck, dass Sport dort keinen Platz hat. 
 Wir gehen davon aus, dass wir mehr Zeit investieren müssen, als wir haben, damit das Training wirksam sein kann.
