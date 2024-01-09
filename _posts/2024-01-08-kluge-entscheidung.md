@@ -9,10 +9,10 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du musst eine große und wichtige Entscheidung treffen und bist Dir unsicher, wie Du die beste Wahl triffst.
+Du musst eine große und wichtige Entscheidung treffen und bist Dir unsicher, was die beste Wahl ist.
 
 ## Was ist das Ziel?
-Du möchtest die Alternativen gut durchdenken, Dich aber auch wohl fühlen mit der Entscheidung und Dein Bauchgefühl nicht ignorieren. Kurz, Du möchtest die Wahl klug und sowohl bauch- als auch gehirngerecht angehen.
+Du möchtest die Alternativen gut durchdenken, Dich aber auch wohl fühlen mit der Entscheidung und Dein Bauchgefühl nicht ignorieren. Kurz, Du möchtest die Wahl sowohl bauch- als auch gehirngerecht angehen.
 
 # Hack
 
@@ -20,13 +20,13 @@ Du möchtest die Alternativen gut durchdenken, Dich aber auch wohl fühlen mit d
 **Brainhack "Kluge Entscheidung"**: Neurologisch gesehen gibt es einen optimalen Ablauf, den wir einhalten können, um kluge Entscheidungen zu treffen.
 Wie sieht dieser Ablauf aus? Folgende Schritte können wir nach Roth [^1] in der beschriebenen Reihenfolge ausführen:
 
-1. Zunächst sollten wir herausfinden, welche Gefühle bei einer anstehenden Entscheidung in uns hochkommen, sie geben einen guten Hinweis auf die im Unterbewusstsein gespeicherten Informationen aus unseren Erfahrungen. 
-2. Danach können wir logisch vorgehen und die für die Entscheidung relevanten Hauptfaktoren erheben und analysieren, hier eignen sich Tools wie zum Beispiel eine Entscheidungsmatrix. 
+1. Zunächst sollten wir herausfinden, welche Gefühle bei einer anstehenden Entscheidung in uns hochkommen, sie geben einen guten Hinweis auf die **im Unterbewusstsein gespeicherten Informationen** aus unseren Erfahrungen. 
+2. Danach können wir logisch vorgehen und die für die Entscheidung **relevanten Hauptfaktoren erheben** und analysieren, hier eignen sich Tools wie zum Beispiel eine **Entscheidungsmatrix**. 
 Sie hilft uns dabei, alle relevanten und bekannten Faktoren in Erinnerung zu rufen, dabei die entsprechend vernetzten Hirnareale und Netzwerke zu aktivieren und die Entscheidungskriterien nachvollziehbar zu dokumentieren.
-3. Nach diesem analytischen Schritt sollten wir eine Pause machen und nicht mehr bewusst über die Entscheidung nachdenken. "Einmal drüber schlafen" hilft uns die Informationen zu verarbeiten.
-Wir können uns aber auch analoger Methoden bedienen, die den Zugang zu unserem Erfahrungsgedächtnis aktivieren. Hier eignen sich kreative Methoden mit Buntstiften, Papier, Geschichten, Metaphern oder auch Rollenspiele. So werden unsere Phantasie, Intuition und Imagination aktiv angeregt. Diese Methoden helfen unserem Gehirn nach wirkungsvollen Erfahrungen zu suchen, um sie in den Entscheidungsprozess zu integrieren.
-5. Nach der Pause sollte man anschließend mehr oder weniger spontan entscheiden, damit hat man alle dem System zur Verfügung stehenden Prozesse mit einbezogen.
-Dieses schrittweise Vorgehen ist sehr gut für folgenschwere Entscheidungen geeignet, bei der im Grunde nur zwei Alternativen offenstehen.
+3. Nach diesem analytischen Schritt sollten wir **eine Pause machen und nicht mehr bewusst über die Entscheidung nachdenken**. "Einmal drüber schlafen" hilft uns die Informationen zu verarbeiten.
+Wir können uns aber auch analoger Methoden bedienen, die den Zugang zu unserem Erfahrungsgedächtnis aktivieren. Hier eignen sich kreative Methoden mit Buntstiften, Papier, Geschichten, Metaphern oder auch Rollenspiele. So werden unsere Phantasie, Intuition und Imagination aktiv angeregt. Diese Methoden **helfen unserem Gehirn nach wirkungsvollen Erfahrungen zu suchen, um sie in den Entscheidungsprozess zu integrieren**.
+5. Nach der Pause sollte man **anschließend mehr oder weniger spontan entscheiden**, damit hat man alle dem System zur Verfügung stehenden Prozesse mit einbezogen.
+Dieses schrittweise Vorgehen ist sehr gut für folgenschwere Entscheidungen geeignet, bei der im Grunde nur wenige Alternativen offenstehen.
 
 # Beispiele
 Hier zwei Besipiele für eine solche wichtige Entscheidungsfindung.
