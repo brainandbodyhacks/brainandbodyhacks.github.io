@@ -38,19 +38,19 @@ Bei der Anschaffung eines neuen Autos könnte man den oben beschriebenen Ablauf 
 2. Welche Faktoren spielen eine Rolle? Wählen wir zum Beispiel Preis, Motorleistung, Verbrauch und Zuverlässigkeit, so können wir diese Kriterien als Zeilen unserer Matrix eintragen und die jeweils zur Verfügung stehenden Modelle in die Spalten eintragen und nach den Kriterien bewerten. Das Modell, das die meisten der Kriterien erfüllt, gewinnt. Wir sammeln und dokumentieren damit die relevanten Faktoren und sprechen die benötigten Hirnareale an.
 3. Nun da wir alle Informationen eingeholt und nach Kriterien bewertet haben können wir eine Pause machen und unser Gehirn unterbewusst arbeiten lassen.
 Wir können parallel kreativ werden, um unserer Intuition auf die Sprünge zu helfen und unsere Erfahrungen zu aktivieren, um sie in den Entscheidungsprozess zu integrieren.
-5. Nachdem wir genug Informationen eingeholt haben, eine Bewertung vorgenommen und eine Nacht darüber geschlafen haben, sollten wir uns einen Termin setzen, an dem wir eine mehr oder weniger spontane Entscheidung treffen, diese kann nun der analytischen Entscheidung oder aber auch - aus dem Erfahrungsgedächtnis integriert - einer anderen Bauchentscheidung entsprechen.
+5. Nachdem wir genug Informationen eingeholt haben, eine Bewertung vorgenommen und eine Nacht - oder mehrere - darüber geschlafen haben, sollten wir uns einen Termin setzen, an dem wir eine mehr oder weniger spontane Entscheidung treffen, diese kann nun der analytischen Entscheidung oder aber auch - aus dem Erfahrungsgedächtnis integriert - einer anderen Bauchentscheidung entsprechen.
 
-Ein guter zusätzlicher Check ist es, die zwei besten Modelle aus der Entscheidungsmatrix in die engere Auswahl zu ziehen und über einen Münzwurf zu entscheiden. Freut man sich nun über das Ergebnis, dann ist die Entscheidung gut im Sinne von Kopf- UND Bauchgefühl. Ist man dagegen enttäuscht, so wäre die zweite Wahl vorzuziehen, da diese sowohl nach logischen Aspekten als auch eher der Bewertung des Erfahrungsgedächtnisses entspricht.
+Ein guter zusätzlicher Check ist es, die zwei besten Modelle aus der Entscheidungsmatrix in die engere Auswahl zu ziehen und über einen Münzwurf zu entscheiden. Freut man sich nun über das Ergebnis, dann ist die Entscheidung gut im Sinne von Kopf- UND Bauchgefühl. Ist man dagegen enttäuscht, so wäre die zweite Wahl vorzuziehen, da diese sowohl nach logischen Aspekten als auch nach unbewusster Bewertung des Erfahrungsgedächtnisses als kluge Entscheidung wahrgenommen wird.
 
 ## 2. Jobwechsel
 1. Welche Gefühle kommen hoch, wenn wir uns vorstellen, unseren Job zu wechseln und welche, wenn wir uns vorstellen, wir bleiben in dem aktuellen Beruf?
 2. Welche Faktoren spielen eine Rolle? Hier können wir zum Besipiel Vergütung, Flexibilität, Status, Entwicklungsmöglichkeiten als Kriterien in unserer Matrix eintragen und auf die jeweils zur Verfügung stehenden Varianten - im Job bleiben und jede weitere Jobalternative - mappen. 
-3. Nach Bewerten der Alternativen dürfen wir nun wieder eine Pause machen bzw. parallel kreativ werden
+3. Nach Bewerten der Alternativen dürfen wir nun wieder eine Pause machen bzw. parallel kreativ werden.
 5. Nun entscheiden wir an einem von uns gewählten Termin, zum Beispiel spontan morgens nach dem Aufstehen.
 
 Auch hier kann man den Münzwurf als "Integrationscheck" anwenden.
 
-Müssen wir eine Entscheidung in einem Team treffen, so kann dieses Vorgehen ebenso helfen: Hier kann jeder EInzelne die entsprechenden Kriterien bewerten, danach am Besten durchsprechen und zusammmen bewerten. Nach einer enstprechenden Überdenkzeit, kann nun jeder die Alternativen "aus dem Bauch heraus" priorisieren und die Teamentscheidung ergibt sich aus dem Gesamtvoting. 
+Müssen wir eine Entscheidung in einem Team treffen, so kann dieses Vorgehen ebenso helfen: Hier kann jeder Einzelne die entsprechenden Kriterien bewerten, danach empfiehlt es sich, die outcomes durchzusprechen und gemeinsam zu bewerten. Nach einer enstprechenden Überdenkzeit, kann nun jeder die Alternativen "aus dem Bauch heraus" priorisieren und die Teamentscheidung ergibt sich aus dem Gesamtvoting. 
 
 Durch diesen Ablauf können wir bauch- und gehirngerechte Entscheidungen treffen, die alle wichtigen Entscheidungssysteme berücksichtigen.  
 
@@ -65,5 +65,6 @@ Effizienz: hoch
 
 # Mehr zum Thema
 - [Klug entscheiden – mit Gefühl und Kalkül](https://www.haufe-akademie.de/downloadserver/FB/Klug_entscheiden_mit_Gefuehl_und_Kalkuel.pdf)
+- [Die Entscheidungsmatrix](https://link.springer.com/chapter/10.1007/978-3-662-62375-6_3)
 
 [^1]: [Gerhard Roth / Klaus-Jürgen Grün / Michel Friedman (Hg.) - Kopf oder Bauch? Zur Biologie der Entscheidung](https://download.e-bookshelf.de/download/0003/8992/06/L-G-0003899206-0006660816.pdf)
