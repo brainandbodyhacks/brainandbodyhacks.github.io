@@ -20,64 +20,30 @@ Du willst kleine aber effektive Bewegungseinheiten in Deinen Alttag integrieren 
 **Bodyhack "Exercise-Snacking"**
 
 Bewegung ist ohne Zweifel eines der Bestem Mittel um gesund zu bleiben und Alterungsprozesse zu bekämpfen.
-Im [Bodyhack "Microworkouts"](../_posts/2024-01-03-bodyhack-microworkouts.md)kannst Du die Effekte nochmal nachlesen. Übrigens eignen sich "Microworkouts" auch bestens in der Kombination mit dem hier vorgestelleten Bodyhack "Exercixe-Snacking.
+Im [Bodyhack "Microworkouts"](../_posts/2024-01-03-bodyhack-microworkouts.md) kannst Du die Effekte nochmal nachlesen. Übrigens eignen sich "Microworkouts" auch bestens in der Kombination mit dem hier vorgestelleten Bodyhack "Exercixe-Snacking.
 
-Doch viele von uns haben einen vollgepackten Terminplan und den Eindruck, dass Sport dort keinen Platz hat. 
-Wir gehen davon aus, dass wir mehr Zeit investieren müssen, als wir haben, damit das Training wirksam sein kann.
+Doch viele von uns glauben, dass sie keine Zeit für kontinuierliche sportliche Betätigung haben.
+Hier kann "Exervise-Snacking" helfen:
+Denn alles, was unsere Herzfrequenz in die Höhe bringt bzw. unsere Muskulatur in einer kurzen Zeitspanne intensiv beansprucht, hilft uns, gesund zu bleiben.
 
-Doch Im letzten Jahrzehnt gab es viele neue Erkenntnisse aus der Wissenschaft zum Effekt des hochintensiven Intervalltrainings, besser bekannt als **HIIT, ausgesprochen „Hit“**. 
-Wir haben gelernt, dass HIIT große gesundheitliche Vorteile bieten und die Zeit eines Trainings erheblich verkürzen kann. 
-
-Was ist Intervalltraining? Im Grunde handelt es sich dabei um kurze, sehr intensive Trainingsintervalle, gefolgt von Erholungsphasen im schnellen Wechsel:
-
-**Volle Power, entspannen, volle Power, entspannen, volle Power..., entspannen**
-
-Die Technik kann auf praktisch jede Workout Art angewendet werden, Radfahren, Schwimmen oder Training mit dem eigenen Körpergewicht wie Burpees, Liegestütze oder Klimmzüge.
-
-Wenn Zeit unsere wertvollste Ressource ist und wir in kürzester Zeit den größtmöglichen Nutzen aus dem Training ziehen wollen, dann sind Intervalltrainingstechniken eine effiziente Lösung.
+Ob Treppensteigen, Kniebeugen, Hampelmänner oder auch ein kurzer Sprint zum Besipiel beim Rennen zum Bus beanspruchen Deine Muskeln und bringen Dein Herz-Kreislauf system in Schwung.
+Du kannst die Snacks einfach über den Tag verteilt immer wieder einbauen. On Morgens ein paar Kniebeuge am Schreibtisch, der Hampelmann nach dem Mittagessen und Abends eine Plank oder ein kurzer Sprint zum Supermarkt, die Kombinationen sind endlos.
+Hier ein paar Beispiele für passende Snacks und ihre Wirkung:
 
 # Beispiele
 Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! Nicht geeignet bei Krankheit!
 
-## 1. 20 Sekunden Rad-Sprint
-Das Training umfasst drei 20-sekündige „All-Out“-Zyklussprints, dauert insgesamt 10 Minuten, einschließlich 2 Minuten Warm-Up und 3 Minuten Cool-Down, sowie 2 Minuten lockeres Radfahren zur Entspannung zwischen den Sprints.
+## 1. Kniebeuge
+Kniebeugen sind sehr effektiv für den Aufbau Deiner Bein- und Gesäßmuskulatur. Mache einfach ein paar Kniebeugen direkt an Deinem Schreibtisch und fördere damit nicht nur die Muskulatur sondern auch die Durchblutung.
 
-Verglichen mit einer Gruppe, die einen fünfmal höheren Trainingsaufwand investierte - nämlich 45 Minuten ununterbrochen Radfahren in mäßigem Tempo, plus das gleiche Aufwärmen und Abkühlen - waren die Ergebnisse nach 12 Wochen Training bemerkenswert ähnlich.
+## 2. Hempelmann
+Wenn Du eine Minute lang aus voller Kraft Hampelmänner ausführst, dann stimulierst Du Dein Herz-Kreislauf-System zu stimulieren und Kalorien zu verbrennen. Jumping Jacks sind eineund kannst auf einfache und spaßige Weise Deinen ganzen Körper trainieren. 
 
-## 2. Mountain Climbers, Liegestütze, Burpees
-Mein eigenes Lieblingsintervalltraining umfasst 2 Runden mit: 
-je 30 Sekunden Mountain Climbers - 30 Sekunden Erholung - 30 Sekunden Liegestütze - 30 Sekunden Erholung - 30 Sekunden Burpees.
-Ich absolviere das Training täglich nach dem Mittagessen nach entsprechendem Warm-Up und variiere die Übungen nach Belieben mit High Knees, Hampelmännern und Pull-Ups.
+# Plank
+Die Plank-Position ist eine gute Übung um die gesamte Rumpfmuskulatur zu stärken. Halte die  Position für 30-60 Sekunden und achte auf einen geraden .
 
-## Kombination mit dem Brainhack "S.M.A.R.T. Goals
-Den **Bodyhack "microworkouts"** können wir ganz einfach mit dem [**Brainhack "S.M.A.R.T. Goals"**](2024-01-05-brainhack-smart-goals.md) kombinieren und so eine messbare Routine etablieren.
-
-Hier wurde das unspezifisches Ziel “Ich möchte fit werden” mit den s.m.a.r.t.en Fragen umformuliert:
-
-**Spezifisch**
-Was genau möchte ich erreichen? 
-Jeden Tag absolviere ich mindestens ein 5 minütiges H.I.T. Training oder ich gehe alternativ mindestens eine halbe Stunde spazieren.
-
-**Messbar**
-Wie kann ich es messen? 
-
-Ich trainiere jeden Tag nach dem Mittagessen, mit einer Dauer von mindestens 5 Minuten und einer Herzrate von 140 . Alternativ war ich mindestens eine halbe Stunde spazieren.
-
-**Attraktiv**
-Warum ist es mir wichtig? 
-
-Das Ziel ist mir sehr wichtig:  Mit diesem täglichen Gewohnheit kann ich mich jeden Tag bewegen. Dadurch bleibe ich gesund, kann meine Konzentration und Produktivität steigern und vor allem meinen Stress abzubauen.
-
-**Realistisch**
-Ist es umsetzbar? 
-
-Ja, Es ist umsetzbar: 5 Minuten H.I.T. oder 30 Minuten spazieren gehen kann ich täglich umsetzen, es ist auch an stressigen Tagen oder sogar auf Reisen machbar und durchhaltbar.
-Bei Erkältung oder Muskelkater kann ich immer das Spazierengehen wählen.
-
-**Terminiert**
-Bis wann möchte ich mein Ziel erreichen ? 
-
-Das Training werde ich täglich zur Mitagszeit absolvieren.
+## Mögliche Hack Kombination
+Den **Bodyhack "microworkouts"** können wir ganz einfach mit dem [Bodyhack "Microworkouts"](../_posts/2024-01-03-bodyhack-microworkouts.md) und dem [**Brainhack "S.M.A.R.T. Goals"**](2024-01-05-brainhack-smart-goals.md) kombinieren und so eine messbare und sehr efffiziente Routine etablieren.
 
 
 # Hack Rating
