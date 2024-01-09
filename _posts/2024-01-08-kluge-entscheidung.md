@@ -25,7 +25,7 @@ Wie sieht dieser Ablauf aus? Folgende Schritte können wir nach Roth [^1] in der
 Sie hilft uns dabei, alle relevanten und bekannten Faktoren in Erinnerung zu rufen, dabei die entsprechend vernetzten Hirnareale und Netzwerke zu aktivieren und die Entscheidungskriterien nachvollziehbar zu dokumentieren.
 3. Nach diesem analytischen Schritt sollten wir **eine Pause machen und nicht mehr bewusst über die Entscheidung nachdenken**. "Einmal drüber schlafen" hilft uns die Informationen zu verarbeiten.
 Wir können uns aber auch analoger Methoden bedienen, die den Zugang zu unserem Erfahrungsgedächtnis aktivieren. Hier eignen sich kreative Methoden mit Buntstiften, Papier, Geschichten, Metaphern oder auch Rollenspiele. So werden unsere Phantasie, Intuition und Imagination aktiv angeregt. Diese Methoden **helfen unserem Gehirn nach wirkungsvollen Erfahrungen zu suchen, um sie in den Entscheidungsprozess zu integrieren**.
-5. Nach der Pause sollte man **anschließend mehr oder weniger spontan entscheiden**, damit hat man alle dem System zur Verfügung stehenden Prozesse mit einbezogen.
+4. Nach der Pause sollte man **anschließend mehr oder weniger spontan entscheiden**, damit hat man alle dem System zur Verfügung stehenden Prozesse mit einbezogen.
 Dieses schrittweise Vorgehen ist sehr gut für folgenschwere Entscheidungen geeignet, bei der im Grunde nur wenige Alternativen offenstehen.
 
 # Beispiele
@@ -46,7 +46,7 @@ Ein guter zusätzlicher Check ist es, die zwei besten Modelle aus der Entscheidu
 1. Welche Gefühle kommen hoch, wenn wir uns vorstellen, unseren Job zu wechseln und welche, wenn wir uns vorstellen, wir bleiben in dem aktuellen Beruf?
 2. Welche Faktoren spielen eine Rolle? Hier können wir zum Besipiel Vergütung, Flexibilität, Status, Entwicklungsmöglichkeiten als Kriterien in unserer Matrix eintragen und auf die jeweils zur Verfügung stehenden Varianten - im Job bleiben und jede weitere Jobalternative - mappen. 
 3. Nach Bewerten der Alternativen dürfen wir nun wieder eine Pause machen bzw. parallel kreativ werden.
-5. Nun entscheiden wir an einem von uns gewählten Termin, zum Beispiel spontan morgens nach dem Aufstehen.
+4. Nun entscheiden wir an einem von uns gewählten Termin, zum Beispiel spontan morgens nach dem Aufstehen.
 
 Auch hier kann man den Münzwurf als "Integrationscheck" anwenden.
 
