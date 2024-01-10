@@ -41,7 +41,7 @@ Kniebeugen sind sehr effektiv für den Aufbau Deiner Bein- und Gesäßmuskulatur
 ## 2. Hampelmann
 Wenn Du eine Minute lang aus voller Kraft Hampelmänner ausführst, dann stimulierst Du Dein Herz-Kreislauf-System und kannst auf einfache und spaßige Weise Deinen ganzen Körper trainieren.
 
-# Plank
+## 3. Plank
 Die Plank-Position ist eine gute Übung, um die gesamte Rumpfmuskulatur zu stärken. Halte die Position für 30-60 Sekunden und achte auf einen geraden Rücken.
 
 ## Mögliche Hack Kombination
