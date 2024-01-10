@@ -33,12 +33,12 @@ Du kannst die Snacks einfach über den Tag verteilt immer wieder einzeln oder ko
 Hier ein paar Beispiele für passende Snacks und ihre Wirkung:
 
 # Beispiele
-Hinweis: Allen Übungen sollte ein angemessenes Warm-Up vorausgehen! Nicht geeignet bei Krankheit!
+Hinweis: Nicht geeignet bei Krankheit!
 
 ## 1. Kniebeuge
 Kniebeugen sind sehr effektiv für den Aufbau Deiner Bein- und Gesäßmuskulatur. Mache einfach ein paar Kniebeugen direkt an Deinem Schreibtisch und fördere damit nicht nur die Muskulatur, sondern auch die Durchblutung.
 
-## 2. Hempelmann
+## 2. Hampelmann
 Wenn Du eine Minute lang aus voller Kraft Hampelmänner ausführst, dann stimulierst Du Dein Herz-Kreislauf-System und kannst auf einfache und spaßige Weise Deinen ganzen Körper trainieren.
 
 # Plank
