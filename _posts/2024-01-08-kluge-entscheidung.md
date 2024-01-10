@@ -34,7 +34,7 @@ Hier zwei Besipiele für eine solche wichtige Entscheidungsfindung.
 ## 1. Anschaffung eines neuen Autos
 Bei der Anschaffung eines neuen Autos könnte man den oben beschriebenen Ablauf wie folgt anwenden:
 
-1. Welche Gefühle kommen bei der anstehenden Entscheidung in uns hoch, welche Erfahrungen sind damit eventuell verbunden?  
+1. Welche Gefühle kommen bei der anstehenden Entscheidung in uns hoch, welche Erfahrungen sind damit eventuell verbunden? Welche Punkte können wir hier schon erahnen?
 2. Welche Faktoren spielen eine Rolle? Wählen wir zum Beispiel Preis, Motorleistung, Verbrauch und Zuverlässigkeit, so können wir diese Kriterien als Zeilen unserer Matrix eintragen und die jeweils zur Verfügung stehenden Modelle in die Spalten eintragen und nach den Kriterien bewerten. Das Modell, das die meisten der Kriterien erfüllt, gewinnt. Wir sammeln und dokumentieren damit die relevanten Faktoren und sprechen die benötigten Hirnareale an.
 3. Nun da wir alle Informationen eingeholt und nach Kriterien bewertet haben können wir eine Pause machen und unser Gehirn unterbewusst arbeiten lassen.
 Wir können parallel kreativ werden, um unserer Intuition auf die Sprünge zu helfen und unsere Erfahrungen zu aktivieren, um sie in den Entscheidungsprozess zu integrieren.
