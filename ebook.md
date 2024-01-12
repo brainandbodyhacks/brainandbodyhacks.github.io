@@ -13,6 +13,19 @@ title: ebook
 <div id='id-section2'/>
 {% include_relative _faqs/faq-dumb-under-stress.md %}
 
+<div class="posts">
+  {% for post in site.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+      {{ post.content }}
+    <hr>
+  </div>
+  {% endfor %}
+</div>
 
 <!---
 {% include_relative _posts/2024-01-01-brainhack-productivity.md %}
