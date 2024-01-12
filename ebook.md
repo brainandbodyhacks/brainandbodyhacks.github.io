@@ -15,7 +15,6 @@ title: ebook
 
 <div class="posts">
   {% for post in site.posts %}
-  <div id='id-section' + "post+title" />
   <div class="post">
     <h1 class="post-title">
       {{ post.title }}
