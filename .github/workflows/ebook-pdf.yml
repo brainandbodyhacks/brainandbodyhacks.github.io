@@ -1,16 +1,18 @@
-on:
-  push:
-    paths:
-      - 'ebook.md'
-
-name: ebook-pdf
+on: push
 
 jobs:
-  makepdfs:
-    runs-on: ubuntu-latest
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
     steps:
-    - uses: lothindir/pandoc-markdown-action@v0.1
-      with:
-        markdown: "ebook.md"
-        pdf: "ebook.pdf"
-        template: "kate,monochrome"
+      - uses: actions/checkout@v3
+      - name: create file list
+        id: files_list
+        run: |
+          mkdir output  # create output dir
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=output/ebbok.pdf ebook.md
+      - uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: output
