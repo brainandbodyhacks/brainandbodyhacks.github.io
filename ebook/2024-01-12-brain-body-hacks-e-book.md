@@ -3,10 +3,11 @@ layout: page
 title: BRAIN BODY HACKS
 ---
 
-{% include_relative _faqs/faq-what-is-smart-brain-user.md %}
+{% include_relative ../_faqs/faq-what-is-smart-brain-user.md %}
 
-{% include_relative _faqs/faq-dumb-under-stress.md %}
+{% include_relative ../_faqs/faq-dumb-under-stress.md %}
 
+<!---
 {% include_relative _posts/2024-01-01-brainhack-productivity.md %}
 
 {% include_relative _posts/2024-01-02-bodyhack-omega3.md %}
@@ -24,3 +25,4 @@ title: BRAIN BODY HACKS
 {% include_relative _posts/2024-01-08-kluge-entscheidung.md %}
 
 {% include_relative _posts/2024-01-09-bodyhack-exercise-snacking.md %}
+-->
