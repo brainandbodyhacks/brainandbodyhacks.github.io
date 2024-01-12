@@ -3,9 +3,14 @@ layout: page
 title: ebook
 ---
 
+# Inhaltsverzeichnis
+- [Section 1](#id-section1)
+- [Section 2](#id-section2)
 
+<div id='id-section1'/>
 {% include_relative _faqs/faq-what-is-smart-brain-user.md %}
 
+<div id='id-section2'/>
 {% include_relative _faqs/faq-dumb-under-stress.md %}
 
 
