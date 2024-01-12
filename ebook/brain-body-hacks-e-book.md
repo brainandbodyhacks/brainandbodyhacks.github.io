@@ -10,7 +10,7 @@ title: BRAIN BODY HACKS
 
 {% for post in site.posts %}
 
-{% include_relative post.url %}
+    {{ % include_relative post.url % }}
 
 [Title](../_posts/2024-01-01-brainhack-productivity.md)
 
