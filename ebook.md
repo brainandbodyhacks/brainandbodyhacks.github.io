@@ -5,7 +5,7 @@ title: ebook
 
 # Inhaltsverzeichnis
  {% for post in site.posts %}
-   - [post.title](post.url)
+      {{ post.title }}
 
 <div id='id-section1'/>
 {% include_relative _faqs/faq-what-is-smart-brain-user.md %}
