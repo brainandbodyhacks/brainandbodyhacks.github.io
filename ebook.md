@@ -12,6 +12,8 @@ title: ebook
 <!---
 {% include_relative _posts/2024-01-01-brainhack-productivity.md %}
 
+-->
+
 {% include_relative _posts/2024-01-02-bodyhack-omega3.md %}
 
 {% include_relative _posts/2024-01-03-bodyhack-microworkouts.md %}
@@ -27,5 +29,5 @@ title: ebook
 {% include_relative _posts/2024-01-08-kluge-entscheidung.md %}
 
 {% include_relative _posts/2024-01-09-bodyhack-exercise-snacking.md %}
--->
+
 
