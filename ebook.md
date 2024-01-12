@@ -4,7 +4,7 @@ title: ebook
 ---
 <div id="banner" style="overflow: hidden; display: inline-block;">
    <div class="image" style="max-width: 100%; max-height: 100%;">
-       <img src ="assets/images/ebook-title-page.üdf" align="center">
+       <img src ="assets/images/ebook-title-page.pdf" align="center">
    </div>
 </div>
     
