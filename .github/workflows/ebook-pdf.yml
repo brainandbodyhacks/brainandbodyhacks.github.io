@@ -1,0 +1,16 @@
+on:
+  push:
+    paths:
+      - 'ebook.md'
+
+name: ebook-pdf
+
+jobs:
+  makepdfs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lothindir/pandoc-markdown-action@v0.1
+      with:
+        markdown: "ebook.md"
+        pdf: "ebook.pdf"
+        template: "kate,monochrome"
