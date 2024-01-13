@@ -17,11 +17,13 @@ Ziel: Muster benennen und brechen
 Welche Hacks kann FLorian nutzen?
 
 {% for post in site.posts %}
-  {% if post.tag == "brainhack"}
-    {{ post.content }}
-  {% else %}
-    {{ post.title }}
-  {% endif %}
+  {% for tag in site.tags %}
+    {% if tag == "brainhack"}
+      {{ post.content }}
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 
