@@ -20,7 +20,7 @@ Welche Hacks kann FLorian nutzen?
   {% if post.tag == "brainhack"}
     {{ post.title }}
     {{ post.content }}
-  {% endif}
+  {% endif %}
 {% endfor %}
 
 ### Scenario 2
