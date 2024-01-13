@@ -16,6 +16,10 @@ Ziel: Muster benennen und brechen
 
 Welche Hacks kann FLorian nutzen?
 
+{% for post in site.posts %}
+  {{ post.title }}
+{{ post.content }}
+
 
 ### Scenario 2
 
