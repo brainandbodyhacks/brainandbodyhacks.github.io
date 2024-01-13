@@ -14,16 +14,14 @@ Florian berät ein großes Unternehmen und erkennt folgende Muster:
 
 Ziel: Muster benennen und brechen
 
-Welche Hacks kann FLorian nutzen?
+Welche Hacks kann Florian nutzen?
 
 {% for post in site.posts %}
-  {% for tag in site.tags %}
-    {% if tag == "brainhack"}
-      {{ post.content }}
-    {% else %}
-      {{ post.title }}
-    {% endif %}
-  {% endfor %}
+  {% if post.tags contains "brainhack" %}
+    {{ post.content }}
+  {% else %}
+    {{ post.title }}
+  {% endif %}
 {% endfor %}
 
 
