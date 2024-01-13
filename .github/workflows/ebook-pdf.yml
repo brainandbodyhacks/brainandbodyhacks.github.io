@@ -19,8 +19,12 @@ jobs:
     - uses: docker://pandoc/latex:2.9
       with:
         args: --output=ebook/output/ebook.pdf ebook/title.txt \ ebook/de/01-introduction.md \
-                                              \ ebook/de/02-chapter2.md #${{ steps.files_list.outputs.files }}
-    
+                                              ebook/de/02-chapter2.md #${{ steps.files_list.outputs.files }}
+    - uses: docker://pandoc/latex:2.9
+      with:
+        args: --output=ebook/output/ebook.epub ebook/title.txt \ ebook/de/01-introduction.md \
+                                              ebook/de/02-chapter2.md
+                                              
     - name: commit files
       run: |
         git config --local user.email "action@github.com"
