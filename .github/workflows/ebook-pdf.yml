@@ -9,14 +9,17 @@ jobs:
     steps:
     - name: checkout repo content
       uses: actions/checkout@v2 # checkout the repository content to github runner
-        
-    - name: create output dir
-      id: output_dir
+
+    - name: create file list
+      id: files_list
       run: |
         mkdir output  # create output dir
+        # this will also include README.md
+        echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
+
     - uses: docker://pandoc/latex:2.9
       with:
-        args: --output=output/ebook.pdf ebook.md
+        args: --output=output/ebook.pdf ${{ steps.files_list.outputs.files }}
     
     - name: commit files
       run: |
