@@ -85,7 +85,7 @@ Hier wurde das unspezifisches Ziel “Ich möchte ein ebook schreiben” mit den
 **Spezifisch**
 Was genau möchte ich erreichen ? 
 
-Ich möchte bis Ende März erst einmal ein mind. 5 seitiges pdf erstellen, das beschreibt, wie brain hacks uns helfen unser Gehirn smart zu benutzen und somit unsere Ziele zu erreichen.
+Ich möchte bis Ende März erst einmal ein mind. 5 seitiges pdf erstellen, das beschreibt, wie Brainhacks uns helfen unser Gehirn smart zu benutzen und somit unsere Ziele zu erreichen.
 
 **Messbar**
 Wie kann ich es messen? 
@@ -124,7 +124,7 @@ Der Blog enthält beim Start 6 Blogartikel mit Brain Hacks die jeweils mindesten
 **Attraktiv**
 Ist es mir wichtig?
 
-Ja, das Ziel ist mir wichtig. Das Thema Brain Hacks begeistert mich, ich lerne selbst dazu und kann meine learnings teilen und damit anderen helfen, deutlich bewusster mit ihrem Gehirn zu arbeiten und dadurch mehr zu erreichen.
+Ja, das Ziel ist mir wichtig. Das Thema Brainhacks begeistert mich, ich lerne selbst dazu und kann meine learnings teilen und damit anderen helfen, deutlich bewusster mit ihrem Gehirn zu arbeiten und dadurch mehr zu erreichen.
 
 **Realistisch**
 Kann ich mein Ziel erreichen?
