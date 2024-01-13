@@ -1,6 +1,3 @@
-
-![My PDF file inserted](../cover.svg)
-
 ## Was ist ein smarter Gehirnbenutzer?
 
 Ein smarter Gehirnbenutzer muss nicht unbedingt wissen, wie das Gehirn in seinen Einzelteilen aufgebaut ist, er muss kein Experte in Neurologie oder Neuroanatomie sein. Wählen wir den Vergleich mit einem Auto:
