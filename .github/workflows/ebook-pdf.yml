@@ -1,18 +1,32 @@
-on: [push,  workflow_dispatch]
+name: ebook-pdf
 
+on:
+  workflow_dispatch:
+  
 jobs:
-  convert_via_pandoc:
-    runs-on: ubuntu-22.04
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: create file list
-        id: files_list
-        run: |
-          mkdir output  # create output dir
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: --output=output/ebbok.pdf ebook.md
-      - uses: actions/upload-artifact@v3
-        with:
-          name: output
-          path: output
+    - name: checkout repo content
+      uses: actions/checkout@v2 # checkout the repository content to github runner
+        
+    - name: create output dir
+      id: output_dir
+      run: |
+        mkdir output  # create output dir
+    - uses: docker://pandoc/latex:2.9
+      with:
+        args: --output=output/ebook.pdf ebook.md
+    
+    - name: commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff-index --quiet HEAD || (git commit -a -m "text-to-speach" --allow-empty)
+        
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main 
