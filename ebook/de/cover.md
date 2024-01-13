@@ -1,3 +1,3 @@
 
 
-![my caption](./cover.png)
+![my caption](../cover.png)
