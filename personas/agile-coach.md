@@ -21,6 +21,7 @@ Welche Hacks kann FLorian nutzen?
     {{ post.title }}
     {{ post.content }}
   {% endif}
+{% endfor %}
 
 ### Scenario 2
 
