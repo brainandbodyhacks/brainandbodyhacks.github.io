@@ -1,5 +1,5 @@
 
-![My PDF file inserted](../cover.pdf)
+![My PDF file inserted](../cover.svg)
 
 ## Was ist ein smarter Gehirnbenutzer?
 
