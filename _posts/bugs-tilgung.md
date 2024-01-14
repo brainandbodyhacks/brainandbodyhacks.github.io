@@ -35,7 +35,7 @@ Daher ist es notwendig, diese verloren gegangenen Informationen wieder zurückzu
 
 
 # Beispiele
-Hinweis: Nicht geeignet bei Krankheit!
+Hinweis: !
 
 ## 1. Generalisierung
 Generalisierung
@@ -49,14 +49,30 @@ Wiederholen Sie den Prozess bei Bedarf
 
 
 Mit NLP (Neurolinguistisches Programmieren) kann man Informationen einer Generalisierung zurückgewinnen, indem man gezielte Fragen stellt, die den Sprecher dazu bringen, seine Erfahrungen genauer zu beschreiben. 
-Dies wird als Meta-Modell bezeichnet und soll die Verzerrungen, Tilgungen und Verallgemeinerungen aufdecken, die in der Sprache auftreten12.
+
 Ein Beispiel für eine Generalisierung ist: “Alle Hunde sind freundlich.” 
 Um diese Aussage zu hinterfragen, könnte man folgende Meta-Modell-Fragen stellen:
 Wie viele Hunde haben Sie kennengelernt, die freundlich waren?
 Gibt es Hunde, die nicht freundlich sind oder die Sie nicht kennen?
 Was bedeutet für Sie freundlich?
-Durch diese Fragen kann man mehr Informationen über die persönliche Erfahrung, die Meinung und die Kriterien des Sprechers erhalten, die zu seiner Generalisierung geführt haben. So kann man ein besseres Verständnis für seine Sichtweise erlangen und mögliche Konflikte oder Missverständnisse vermeiden34.
 
+Durch diese Fragen kann man mehr Informationen über die persönliche Erfahrung, die Meinung und die Kriterien des Sprechers erhalten, die zu seiner Generalisierung geführt haben. 
+So kann man ein besseres Verständnis für seine Sichtweise erlangen und mögliche Konflikte oder Missverständnisse vermeiden34.
+
+Wenn X, dann Y : 
+wenn x dann immer y?
+wenn nicht x, dann was?
+
+Ich muss mich um andere Menschen kümmern,
+sonst werde ich nicht geliebt.
+
+Wenn Du Dich um andere Menschen kümmerst,
+wirst Du immer geliebt?
+
+Beeile dich endlich
+Sonst passiert was?
+   
+Die generalisierte Oder-Beziehung hinterfragen.
 
 ## 2. Tilgung
 Tilgung
@@ -109,13 +125,19 @@ Diese Fragen sollten darauf abzielen, die zugrunde liegenden Annahmen oder Gedan
 Wiederholen Sie den Prozess bei Bedarf:
 
 Beispiel
+Angenommen, jemand sagt: 
 
+“Mein Chef mag mich nicht, weil er mich heute Morgen nicht gegrüßt hat.”
+In dieser Aussage gibt es eine Verzerrung, da die Person eine 
 
-Angenommen, jemand sagt: “Mein Chef mag mich nicht, weil er mich heute Morgen nicht gegrüßt hat.”
-In dieser Aussage gibt es eine Verzerrung, da die Person eine Schlussfolgerung zieht (“Mein Chef mag mich nicht”) basierend auf einer einzigen Beobachtung (“er hat mich heute Morgen nicht gegrüßt”). 
+Schlussfolgerung (“Mein Chef mag mich nicht”) 
+aus einer einzigen Beobachtung (“er hat mich heute Morgen nicht gegrüßt”). 
+
 Es gibt viele mögliche Gründe, warum der Chef die Person nicht gegrüßt haben könnte, die nichts mit seiner Meinung über die Person zu tun haben.
-Um Informationen aus dieser verzerrten Aussage zurückzugewinnen, könnten Sie Fragen stellen wie: “Gibt es andere Gründe, 
-warum Ihr Chef Sie heute Morgen vielleicht nicht gegrüßt hat?” oder “Hat Ihr Chef Sie in der Vergangenheit immer gegrüßt?” Diese Fragen könnten dazu beitragen, ein vollständigeres Bild der Situation zu erhalten und die Verzerrung zu klären.
+Um Informationen aus dieser verzerrten Aussage zurückzugewinnen, könnten Sie Fragen stellen wie: “Gibt es andere Gründe, warum Ihr Chef Sie heute Morgen vielleicht nicht gegrüßt hat?” 
+“Hat Ihr Chef Sie in der Vergangenheit immer gegrüßt?” 
+
+Diese Fragen könnten dazu beitragen, ein vollständigeres Bild der Situation zu erhalten und die Verzerrung zu klären.
 
 ## Mögliche Hack Kombination
 Den **Brainhack "microworkouts"** können wir ganz einfach mit dem [Bodyhack "Microworkouts"](../_posts/2024-01-03-bodyhack-microworkouts.md) und dem [**Brainhack "S.M.A.R.T. Goals"**](2024-01-05-brainhack-smart-goals.md) kombinieren und so eine messbare und sehr efffiziente Routine etablieren.
