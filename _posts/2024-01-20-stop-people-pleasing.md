@@ -74,7 +74,7 @@ Du arbeitest in einem Team und es geht um eine wichtige Entscheidung für die Zu
 Wir können zu diesem Fall nun wieder unsere Fragen formulieren:
 
 - Möchte ich vorgeben, dass ich derselben Meinung bin, weil es andere von mir erwarten? Oder möchte ich Menschen um mich haben, die wissen, wo meine Prioritäten und Werte liegen und mich dafür oder trotzdem wertschätzen?
-- Wenn ich selbst meine Meinung nicht ernst nehme, warum sollten meine Mitmenschen dann meine Sichtweise dann berücksichtigen und ernst nehmen?
+- Wenn ich selbst meine Meinung nicht ernst genug nehme, um sie mit anderen zu teilen, warum sollten meine Mitmenschen meine Sichtweisen dann berücksichtigen und ernst nehmen?
 - Was ist das Schlimmste, was passieren kann, wenn ich meine Meinung verschweige, damit ich es anderen recht mache?
 - Was ist das Beste, das passieren kann, wenn ich meine Meinung klar und wertschätzend äußere?
 
