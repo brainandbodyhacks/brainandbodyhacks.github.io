@@ -7,13 +7,8 @@ Als smarter Autobenutzer muss ich nicht wissen, wie das Auto in seinen Einzeltei
 Diese Analogie beschreibt sehr gut die smarte Nutzung unseres Gehirns: Wir sollten seine Funktionen kennen, die "Knöpfe" und "Schalthebel", die wir bedienen können und welche Auswirkungen die jeweilige Bedienung hat. Wir sollten wissen, welche "Kontrolllampen" uns zur Verfügung stehen, welche Hinweise uns unser Gehirn gibt und wie wir darauf zu reagieren haben. Ein smarter Gehirnbenutzer ist also jemand, der weiß, wie er sein Gehirn bestmöglich bedient und pflegt.
 
 
----
-layout: post
-title: Brainhack "Produktivitäts-Prio"
-summary: Mit dem Brainhack "Produktivitäts-Prio" kannst Du Deine Produktivität steigern und Deine Zeit effizient und gehirngerecht nutzen.
-lang: de
-tags: brainhack
----
+## Brainhack "Produktivitäts-Prio"
+Mit dem Brainhack "Produktivitäts-Prio" kannst Du Deine Produktivität steigern und Deine Zeit effizient und gehirngerecht nutzen.
   
 # Problem und Zielsetzung
 
@@ -66,13 +61,9 @@ CHILDREN](https://www.judiciary.uk/wp-content/uploads/2018/04/spt-ryder-bapscan-
 
 [^1]: Universität Zürich https://idw-online.de/de/news615325
 
----
-layout: post
-title: Bodyhack "Omega 3 Booster"
-summary: Mit dem Bodyhack "Omega 3 Booster" kannst Du Entzündungen bekämpfen, die Gehirngesundheit stärken und das Immunsystems stärken.
-lang: de
-tags: bodyhack
----
+
+## Bodyhack "Omega 3 Booster"
+Mit dem Bodyhack "Omega 3 Booster" kannst Du Entzündungen bekämpfen, die Gehirngesundheit stärken und das Immunsystems stärken.
 
 # Problem und Zielsetzung
 
@@ -128,19 +119,13 @@ Kosten: hoch - ein gutes Omega-3 Produkt ist seinen Preis wert
 
 Effizienz: hoch
 
-
 # Mehr zum Thema
 - [Omega 3 – das essenzielle Supplement](https://medletics-academy.de/omega-3-das-essenzielle-supplement/)
 - [DAS Supplement: Omega 3 Detailvideo](https://www.youtube.com/watch?v=4Q-61UWQwuQ)
 - [Gesunde Fettsäure: Omega-3 - AOK](https://www.aok.de/pk/magazin/ernaehrung/vitamine/gesunde-fettsaeure-omega-3/)
   
----
-layout: post
-title: Bodyhack "Microworkouts"
-summary: Mit dem Bodyhack "microworkouts" kannst Du mit wenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
-lang: de
-tags: bodyhack
----
+## Bodyhack "Microworkouts"
+Mit dem Bodyhack "microworkouts" kannst Du mit wenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
 
 # Problem und Zielsetzung
 
