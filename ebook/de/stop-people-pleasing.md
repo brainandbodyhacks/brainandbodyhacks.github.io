@@ -22,13 +22,14 @@ Du willst Dich selbst mehr akzeptieren, Dich nicht so sehr davon lenken lassen, 
 
 **Brainhack "Stop People Pleasing"**:
 
-Es ist vollkommen menschlich und auch funktional, dass wir uns darum kümmern, was andere über uns denken, denn nur so können wir in einer Gesellschaft zusammenleben.
+**Brainhack "Stop People Pleasing"**:
 
-Es ist aber für dieses Zusammenleben auch genauso wichtig zu lernen, wie man sich davon distanziert, den anderen immer gefallen zu wollen. 
+Es ist vollkommen menschlich und auch funktional, dass wir uns darum kümmern, was andere über uns denken, denn nur so können wir in einer Gesellschaft zusammenleben.
+Es ist für dieses Zusammenleben jedoch auch genauso wichtig zu lernen, wie man sich davon distanziert, den anderen immer gefallen zu wollen. 
 
 Doch wie fängt man das an?
 
-Zunächst einmal ist es wichtig anzuerkennen, dass unser Verhalten eine Funktion erfüllt. Wir haben unser Verhalten - dass wir anderen gefallen wollen - erlernt und es hat für uns einen Zweck erfüllt. Wir können uns also fragen: **_"Wofür ist mein Verhalten die Lösung?"_**
+Zunächst einmal ist es wichtig anzuerkennen, dass unser Verhalten eine Funktion erfüllt. Wir haben unser Verhalten erlernt und es hat für uns einen Zweck erfüllt. Wir können uns also fragen: **_"Wofür ist mein Verhalten die Lösung?"_**
 
 Wie oben beschrieben kann es in bestimmten Situationen sehr zweckmäßig sein, die Bedürfnisse anderer Menschen zu erfüllen, um gut mit ihnen zusammen zu leben. Als Kinder haben wir unter Umständen in den unterschiedlichsten Situationen gelernt, dass wir eher umsorgt und verwöhnt werden, wenn wir unseren Eltern "gefallen" und wir es ihnen recht machen.
 
@@ -36,17 +37,15 @@ Gerade auch im Teenageralter wollen wir dazugehören und versuchen von unserer U
 
 Unser Verhalten dafür zu sorgen, dass wir es anderen recht machen, ist also eine Lösung für Sicherheit, Bindung, Zugehörigkeit zu und Akzeptanz von anderen.
 
-Als Erwachsener ist diese Strategie jedoch nicht mehr in allen Fällen notwendig oder auch hilfreich. Wir können uns nun um uns selbst sorgen und sind nicht mehr auf den Schutz unserer Eltern angewiesen. Auch kennen wir uns selbst und unsere Bedürfnisse besser, unserer Prioritäten sind oft klarer und wir sind nicht mehr auf die reine Akzeptanz von anderen angewiesen um respektiert und akzeptiert zu werden.
+Als Erwachsener ist diese Strategie jedoch nicht mehr in allen Fällen notwendig oder auch hilfreich. Wir können uns nun um uns selbst sorgen und sind nicht mehr auf den Schutz unserer Eltern angewiesen. Auch kennen wir uns selbst und unsere Bedürfnisse oft besser, unserer Prioritäten sind klarer und wir sind nicht mehr nur auf die Gunst von anderen angewiesen um unsere Ziele zu erreichen. **Ganz sicher müssen wir nicht immer jedem gefallen**.
 
-Wir können mit anderen Mitteln wirken, je nachdem welche Situation gerade vorliegt, **vor allem müssen wir nicht immer jedem gefallen**.
-
+Wir können mit anderen Mitteln wirken, je nachdem welche Situation gerade vorliegt.
 Wir können andere Strategien wählen und unser Bedürfnis für Sicherheit, Bindung, Zugehörigkeit und Akzeptanz auch anders erfüllen.
 
 Sogenannte "People Pleaser" haben dies nicht gelernt. Ein "People Pleaser" ist mit seiner Aufmerksamkeit vorwiegend bei den anderen, hat Angst davor, nicht gemocht zu werden oder es den anderen nicht recht zu machen und kann schlecht "Nein" sagen. Oft führt dies dazu, dass die eigenen Bedürfnisse entweder gar nicht erst wahrgenommen oder schlicht vernachlässigt werden. Ein "People Pleaser" ist also nicht mehr im gesunden Einklang mit den eigenen Bedürfnissen [^1].
-
 Weitere wichtige Merkmale sind auch, sich für die Gefühle der anderen verantwortlich zu fühlen, sich oft zu entschuldigen und viel dafür zu tun, um Konflikte möglichst zu vermeiden [^2].
 
-Aber wie können wir diese Überfokussierung auf andere auflösen und konstruktivere Verhaltensweisen erlernen? 
+Aber wie können wir diese Überfokussierung auf andere auflösen und konstruktivere Verhaltensweisen erlernen?
 
 ### Impulse
 
@@ -68,11 +67,10 @@ Zunächst sollten wir folgende Punkte beachten.
 Basierend auf diesem Wissen, können wir uns selbst ein paar **entscheidende Fragen** stellen und diese ehrlich beantworten:
 
 - **Möchten wir so sein, wie andere uns haben wollen oder wollen wir Menschen anziehen, die uns für unsere individuelle Persönlichkeit schätzen und respektieren?**
-- **Wenn wir uns selbst und unsere Bedürfnisse nicht ernst nehmen, warum sollten es dann die anderen tun?**
-- **Wenn wir uns selbst immer hintenanstellen und andere an erste Stelle setzen, warum sollten es die anderen dann nicht genauso tun?**
+- **Wenn wir uns selbst und unsere Bedürfnisse nicht ernst nehmen, warum sollten es die anderen dann tun?**
 - **Was ist das Schlimmste, was passieren kann, wenn wir es anderen immer nur recht machen?**
-- **Was ist das Beste, das passieren kann, wenn wir es uns öfter recht machen?**
-
+- **Was ist das Beste, das passieren kann, wenn wir es uns selbst öfter recht machen?**
+  
 # Beispiele
 
 ## 1. Zeit für Dich 
