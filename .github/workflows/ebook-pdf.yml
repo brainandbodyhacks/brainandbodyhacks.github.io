@@ -17,10 +17,10 @@ jobs:
 
     - uses: docker://pandoc/latex:2.9
       with:
-        args: --output=ebook/output/ebook.pdf ebook/title.txt ebook/ebook/de/full-book.md    
+        args: --output=ebook/output/ebook.pdf ebook/title.txt ebook/de/full-book.md    
     - uses: docker://pandoc/latex:2.9
       with:
-        args: --output=ebook/output/ebook.epub ebook/title.txt ebook/ebook/de/full-book.md
+        args: --output=ebook/output/ebook.epub ebook/title.txt ebook/de/full-book.md
    
                                               
     - name: commit files
