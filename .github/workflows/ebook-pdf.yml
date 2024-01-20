@@ -13,12 +13,11 @@ jobs:
     - name: create file list
       id: files_list
       run: |
-        # this will also include README.md
         echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
 
     - uses: docker://pandoc/latex:2.9
       with:
-        args: --output=ebook/output/ebook.pdf ebook/de/cover.md ebook/title.txt ebook/de/
+        args: --output=ebook/output/ebook.pdf ${{ steps.files_list.outputs.files }}
     
     - uses: docker://pandoc/latex:2.9
       with:
