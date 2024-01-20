@@ -1,8 +1,8 @@
+---
 layout: post
 title: Brainhack "Stop People Pleasing"
 summary: Mit dem Brainhack "Stop People Pleasing" kannst Du lernen, wie es Dir Du weniger darüber nachdenkst, was andere über Dich denken und öfter Deine eigenen Bedürfnisse erfüllst.
 lang: de
-
 tags: brainhack
 ---
 
