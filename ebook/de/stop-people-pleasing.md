@@ -87,14 +87,14 @@ Die oben genannten Fragen können wir in diesem konkreten Fall so formulieren:
 - Was ist das Schlimmste, das passieren kann, wenn ich mein Bedürfnis für Ruhe und Erholung immer hintenanstelle, damit ich es anderen recht machen?
 - Was ist das Beste, das passieren kann, wenn ich es mir selbst recht mache und mein Bedürfnis nach Ruhe und Erholung ernst nehme?
 
-##  2. Konfliktscheue 
+##  2. Sag Deine Meinung 
 
 Du arbeitest in einem Team und es geht um eine wichtige Entscheidung für die Zukunft. Du bist eher konfliktscheu und hast Angst, die anderen zu verärgern, wenn Du Deine Meinung äußerst, die nicht der Meinung der anderen entspricht.
 
 Wir können zu diesem Fall nun wieder unsere Fragen formulieren:
 
 - Möchte ich vorgeben, dass ich derselben Meinung bin, weil es andere von mir erwarten? Oder möchte ich Menschen um mich haben, die wissen, wo meine Prioritäten und Werte liegen und mich dafür oder trotzdem wertschätzen?
-- Wenn ich selbst meine Meinung nicht ernst nehme, warum sollten meine Mitmenschen dann meine Sichtweise dann berücksichtigen und ernst nehmen?
+- Wenn ich selbst meine Meinung nicht ernst genug nehme, um sie mit anderen zu teilen, warum sollten meine Mitmenschen meine Sichtweisen dann berücksichtigen und ernst nehmen?
 - Was ist das Schlimmste, was passieren kann, wenn ich meine Meinung verschweige, damit ich es anderen recht mache?
 - Was ist das Beste, das passieren kann, wenn ich meine Meinung klar und wertschätzend äußere?
 
