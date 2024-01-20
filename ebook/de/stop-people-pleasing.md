@@ -86,7 +86,6 @@ Die oben genannten Fragen können wir in diesem konkreten Fall so formulieren:
 
 - Möchte ich vorgeben, dass es mir gut geht und funktionieren, weil es andere von mir erwarten? Oder möchte ich Menschen in meinem Leben haben, die verstehen, dass ich Ruhe und Erholung brauche und dies auch akzeptieren und unterstützen?
 - Wenn ich selbst mein Bedürfnis nach Ruhe und Erholung nicht ernst nehme, warum sollten meine Mitmenschen dann mein Bedürfnis für Ruhe und Erholung ernst nehmen?
-- Wenn ich mich selbst und mein Bedürfnis für Ruhe und Erholung hintenanstelle, warum sollten meine Mitmenschen mein Bedürfnis für Ruhe und Erholung dann nicht auch hinten anstellen?
 - Was ist das Schlimmste, das passieren kann, wenn ich mein Bedürfnis für Ruhe und Erholung immer hintenanstelle, damit ich es anderen recht machen?
 - Was ist das Beste, das passieren kann, wenn ich es mir selbst recht mache und mein Bedürfnis nach Ruhe und Erholung ernst nehme?
 
@@ -94,19 +93,16 @@ Die oben genannten Fragen können wir in diesem konkreten Fall so formulieren:
 
 Du arbeitest in einem Team und es geht um eine wichtige Entscheidung für die Zukunft. Du bist eher konfliktscheu und hast Angst, die anderen zu verärgern, wenn Du Deine Meinung äußerst, die nicht der Meinung der anderen entspricht.
 
-Die Fragen können wir in diesem konkreten Fall so formulieren:
+Wir können zu diesem Fall nun wieder unsere Fragen formulieren:
 
 - Möchte ich vorgeben, dass ich derselben Meinung bin, weil es andere von mir erwarten? Oder möchte ich Menschen um mich haben, die wissen, wo meine Prioritäten und Werte liegen und mich dafür oder trotzdem wertschätzen?
-- Wenn ich selbst meine Meinung nicht ernst nehme, warum sollten meine Mitmenschen dann meine Sichtweise hören und ernst nehmen?
-- Wenn ich mich selbst und meine Meinung hintenanstelle, warum sollten meine Mitmenschen meine Meinung dann berücksichtigen und nicht hinten anstellen?
+- Wenn ich selbst meine Meinung nicht ernst nehme, warum sollten meine Mitmenschen dann meine Sichtweise dann berücksichtigen und ernst nehmen?
 - Was ist das Schlimmste, was passieren kann, wenn ich meine Meinung verschweige, damit ich es anderen recht mache?
 - Was ist das Beste, das passieren kann, wenn ich meine Meinung klar und wertschätzend äußere?
 
-
-
 ## Mögliche Hack Kombination
 
-Den **Brainhack "Stop People Pleasing"** können wir gut auch durch den [**Brainhack "Kluge Entscheidung"**](2024-01-05-brainhack-smart-goals.md) unterstützen und so herausfinden, welche Kriterien dafür sprechen, es anderen immer recht zu machen, welche dagegen sprechen und was unser Gefühl damit zu tun hat.
+Den **Brainhack "Stop People Pleasing"** können wir gut auch durch den [**Brainhack "Kluge Entscheidung"**](2024-01-08-brainhack-smart-goals.md) unterstützen und so herausfinden, welche Kriterien dafür sprechen, es anderen immer recht zu machen, welche dagegen sprechen und was unser Gefühl damit zu tun hat.
 
 
 # Hack Rating
@@ -120,6 +116,11 @@ Kosten: minimal
 Effizienz: hoch - _sobald man die Fragen verinnerlicht und konsequent anwendet._
 
 # Mehr zum Thema
+
+- [People Pleaser: Alles für die Harmonie - Spektrum der Wissenschaft](https://www.spektrum.de/news/people-pleaser-alles-fuer-die-harmonie/2201292)
+
+[^1]: [People pleaser - Gefallen um jeden Preis - BARMER](https://www.barmer.de/gesundheit-verstehen/psyche/psychische-gesundheit/people-pleaser-1159850)
+[^2]: [People Pleaser. Online Lexikon für Psychologie & Pädagogik (stangl.eu)](https://lexikon.stangl.eu/34050/people-pleaser)
 
 - [People Pleaser: Alles für die Harmonie - Spektrum der Wissenschaft](https://www.spektrum.de/news/people-pleaser-alles-fuer-die-harmonie/2201292)
 
