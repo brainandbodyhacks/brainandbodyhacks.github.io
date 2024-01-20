@@ -38,7 +38,7 @@ Unser Verhalten dafür zu sorgen, dass wir es anderen recht machen, ist also ein
 
 Als Erwachsener ist diese Strategie jedoch nicht mehr in allen Fällen notwendig oder auch hilfreich. Wir können uns nun um uns selbst sorgen und sind nicht mehr auf den Schutz unserer Eltern angewiesen. Auch kennen wir uns selbst und unsere Bedürfnisse besser, unserer Prioritäten sind oft klarer und wir sind nicht mehr auf die reine Akzeptanz von anderen angewiesen um respektiert und akzeptiert zu werden.
 
-Wir können mit anderen Mitteln wirken, je nachdem welche Situation gerade vorliegt, vor allem müssen wir nicht **immer jedem gefallen**.
+Wir können mit anderen Mitteln wirken, je nachdem welche Situation gerade vorliegt, **vor allem müssen wir nicht immer jedem gefallen**.
 
 Wir können andere Strategien wählen und unser Bedürfnis für Sicherheit, Bindung, Zugehörigkeit und Akzeptanz auch anders erfüllen.
 
