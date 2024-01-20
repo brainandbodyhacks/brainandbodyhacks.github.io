@@ -123,6 +123,6 @@ Effizienz: hoch - _sobald man die Fragen verinnerlicht und konsequent anwendet._
 
 - [People Pleaser: Alles für die Harmonie - Spektrum der Wissenschaft](https://www.spektrum.de/news/people-pleaser-alles-fuer-die-harmonie/2201292)
 
-[^1]: [People pleaser: Gefallen um jeden Preis | BARMER](https://www.barmer.de/gesundheit-verstehen/psyche/psychische-gesundheit/people-pleaser-1159850)
+[^1]: [People pleaser - Gefallen um jeden Preis - BARMER](https://www.barmer.de/gesundheit-verstehen/psyche/psychische-gesundheit/people-pleaser-1159850)
 [^2]: [People Pleaser. Online Lexikon für Psychologie & Pädagogik (stangl.eu)](https://lexikon.stangl.eu/34050/people-pleaser)
 
