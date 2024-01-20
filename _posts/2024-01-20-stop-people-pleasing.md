@@ -42,7 +42,7 @@ Wir können mit anderen Mitteln wirken, je nachdem welche Situation gerade vorli
 
 Wir können andere Strategien wählen und unser Bedürfnis für Sicherheit, Bindung, Zugehörigkeit und Akzeptanz auch anders erfüllen.
 
-Sogenannte "People Pleaser" haben dies nicht gelernt. Ein People Pleaser ist mit seiner Aufmerksamkeit vorwiegend bei den anderen, hat Angst davor, nicht gemocht zu werden oder es den anderen nicht recht zu machen und können schlecht "Nein" sagen. Oft führt dies dazu, dass die eigenen Bedürfnisse entweder nicht wahrgenommen oder vernachlässigt werden. Sie sind also nicht mehr im gesunden Einklang mit den eigenen Bedürfnissen [^1].
+Sogenannte "People Pleaser" haben dies nicht gelernt. Ein "People Pleaser" ist mit seiner Aufmerksamkeit vorwiegend bei den anderen, hat Angst davor, nicht gemocht zu werden oder es den anderen nicht recht zu machen und kann schlecht "Nein" sagen. Oft führt dies dazu, dass die eigenen Bedürfnisse entweder gar nicht erst wahrgenommen oder schlicht vernachlässigt werden. Ein "People Pleaser" ist also nicht mehr im gesunden Einklang mit den eigenen Bedürfnissen [^1].
 
 Ein wichtiges Merkmal ist auch das Gefühl für die Gefühle der anderen verantwortlich zu sein [^2].
 
