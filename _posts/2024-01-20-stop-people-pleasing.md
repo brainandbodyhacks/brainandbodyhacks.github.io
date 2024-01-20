@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brainhack "Stop People Pleasing"
-summary: Mit dem Brainhack "Stop People Pleasing" kannst Du lernen, wie Du weniger darüber nachdenkst, was andere über Dich denken und wie Du öfter Deine eigenen Bedürfnisse erfüllst.
+summary: Mit dem Brainhack "Stop People Pleasing" kannst Du lernen, wie Du weniger darüber grübelst, was andere über Dich denken und wie Du öfter Deine eigenen Bedürfnisse erfüllst.
 lang: de
 tags: brainhack
 ---
@@ -48,24 +48,7 @@ Weitere wichtige Merkmale sind auch, sich für die Gefühle der anderen verantwo
 
 Aber wie können wir diese Überfokussierung auf andere auflösen und konstruktivere Verhaltensweisen erlernen? 
 
-### Impulse
-
-Zunächst sollten wir folgende Punkte beachten.
-
-1. **Wir dürfen anerkennen, dass die meisten Menschen sich mehr für sich selbst als für uns interessieren**. Damit folgt, dass das, was wir tun oder sagen auch nur für einen Moment wichtig ist und die meisten Menschen sich danach wieder ihren Gedanken und Problemen zuwenden. Diese Erkenntnis befreit doch ungemein vom Erwartungsdruck.
-2. **Wir dürfen uns selbst wertschätzen**: Wenn wir unsere Stärken kennen, wissen wozu wir fähig sind, aber auch dass wir Schwächen haben, wie jeder andere Mensch, so können wir uns mehr selbst vertrauen und damit weniger darum kümmern, was andere denken.
-3. **Wenn wir anderen helfen, so dürfen wir das zu unseren Bedingungen tun.** Wenn andere unsere Hilfe zu diesen Bedingungen nicht wollen, dann ist dies ihre Entscheidung.
-4. **Wir dürfen also “Nein” zu sagen**: Wir können lernen “Nein” zu sagen, wenn wir etwas nicht tun möchten. Wir müssen nicht immer die Erwartungen anderer erfüllen.
-5. **Damit akzeptieren wir den Fakt, dass wir nicht jedem gefallen können**: Denn es ist schlicht unmöglich, die Zustimmung aller zu gewinnen. Wir können akzeptieren, dass es immer Leute geben wird, die einen nicht mögen, das ist normal und in Ordnung.
-6. **Wir können uns mit positiven Menschen umgeben**: Menschen, die uns schätzen und unterstützen, können uns helfen, ein gesundes Selbstbild aufzubauen.
-7. **Wir können aber auch lernen, dass Kritik nicht immer schlecht ist**: Nicht alle Meinungen, die nicht unserer eigenen gleichen, sind dadurch automatisch negativ. Andere Meinungen und Kritik von anderen kann uns helfen, uns mit Alternativen auseinanderzusetzen und damit auch zu lernen und zu wachsen. 
-8. **Wir müssen Kritik nicht annehmen**: Kritik kann stark von den eigenen Erfahrungen und Meinungen anderer Menschen abhängen. Wir müssen uns jedoch nicht jede Meinung zu eigen machen, Meinungen unterscheiden sich stark und sind subjektiv. Wir dürfen prüfen, ob eine Kritik eine subjektive Sichtweise darstellt oder ob sie uns auch objektiv helfen kann, weiterzukommen.
-9. **Wir dürfen Generalisierungen und andere Denkfehler entlarven**: Wenn jemand sagt: _"Das macht man eben so!"_ Dann dürfen wir dies hinterfragen. Wer ist _man_? Wie viele Menschen kennen wir, die es anders machen, welche Alternative zu _das_ gibt es noch?
-10. **Wir dürfen es uns selbst recht machen, uns selbst gefallen**: Wenn wir immer darauf schauen, dass wir es anderen recht machen und dass wir anderen gefallen, vergessen wir oft, uns selbst zu gefallen. So wie es andere verdient haben, dass man sich um sie kümmert, haben wir es auch selbst verdient. 
-
-### Fragen an uns selbst
-
-Basierend auf diesem Wissen, können wir uns selbst ein paar **entscheidende Fragen** stellen und diese ehrlich beantworten:
+Wir können uns selbst ein paar **entscheidende Fragen** stellen und diese ehrlich beantworten:
 
 - **Möchten wir so sein, wie andere uns haben wollen oder wollen wir Menschen anziehen, die uns für unsere individuelle Persönlichkeit schätzen und respektieren?**
 - **Wenn wir uns selbst und unsere Bedürfnisse nicht ernst nehmen, warum sollten es dann die anderen tun?**
@@ -101,8 +84,6 @@ Die Fragen können wir in diesem konkreten Fall so formulieren:
 - Wenn ich mich selbst und meine Meinung hintenanstelle, warum sollten meine Mitmenschen meine Meinung dann berücksichtigen und nicht hinten anstellen?
 - Was ist das Schlimmste, was passieren kann, wenn ich meine Meinung verschweige, damit ich es anderen recht mache?
 - Was ist das Beste, das passieren kann, wenn ich meine Meinung klar und wertschätzend äußere?
-
-
 
 ## Mögliche Hack Kombination
 
