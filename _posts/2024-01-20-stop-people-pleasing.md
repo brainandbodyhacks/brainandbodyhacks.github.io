@@ -44,7 +44,7 @@ Wir können andere Strategien wählen und unser Bedürfnis für Sicherheit, Bind
 
 Sogenannte "People Pleaser" haben dies nicht gelernt. Ein "People Pleaser" ist mit seiner Aufmerksamkeit vorwiegend bei den anderen, hat Angst davor, nicht gemocht zu werden oder es den anderen nicht recht zu machen und kann schlecht "Nein" sagen. Oft führt dies dazu, dass die eigenen Bedürfnisse entweder gar nicht erst wahrgenommen oder schlicht vernachlässigt werden. Ein "People Pleaser" ist also nicht mehr im gesunden Einklang mit den eigenen Bedürfnissen [^1].
 
-Weitere wichtigee Merkmale sind auch, sich für die Gefühle der anderen verantwortlich zu fühlen, sich oft zu entschuldigen und viel dafür zu tun, um Konflikte möglichst zu vermeiden [^2].
+Weitere wichtige Merkmale sind auch, sich für die Gefühle der anderen verantwortlich zu fühlen, sich oft zu entschuldigen und viel dafür zu tun, um Konflikte möglichst zu vermeiden [^2].
 
 Aber wie können wir diese Überfokussierung auf andere auflösen und konstruktivere Verhaltensweisen erlernen? 
 
