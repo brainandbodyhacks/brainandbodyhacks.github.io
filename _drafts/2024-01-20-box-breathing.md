@@ -28,6 +28,9 @@ Durch tiefes und rhythmisches Atmen können wir unser autonomes Nervensystem reg
 
 Wir können die Technik nutzen um insgesamt gelassener zu werden. WIr können sie aber auch zu unserem Vorteil einsetzn, wenn wir gestresst oder nervös sind und uns damit in der akuten Situation selbst beruhigen.
 
+Hier ein Auszug einer Studie, die die Auswrikungen von Box-Breathing zusammen mit anderen Atemtechniken untersuchte:
+"Both mindfulness meditation and breathwork groups showed significant reductions in state anxiety and negative affect and increases in positive affect." [^1]
+
 # Beispiele
 
 Wir können die **Box-Breathing** Technik entweder pur anwenden oder auch leicht abwandeln:
@@ -92,5 +95,7 @@ Effizienz: sehr hoch - _Die Atmung hilft mir selbst enorm vor oder auch in stres
 # Mehr zum Thema
 
 - [Box Breathing: How to Do It And Why It’s Amazing For Stress (scienceofpeople.com)](https://www.scienceofpeople.com/how-box-breathing/)
+
+  [^1]: [Brief structured respiration practices enhance mood and reduce physiological arousal](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00474-8)
 
   
