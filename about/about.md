@@ -5,7 +5,7 @@ title: Dein Coach für Weiterentwicklung durch smarte Gehirnnutzung
                                                                                 
 
 ## Wie ich Dir helfen kann
-Das Wissen um **gehirngerechte Lebensgestaltung** kann enorme Erleichterung im Alltag und auch in herausfordernden Situationen bringen.
+Gesundheit beginnt im Gehirn! Das Wissen um **gehirngerechte Lebensgestaltung** kann enorme Erleichterung im Alltag und auch in herausfordernden Situationen bringen.
 
 Ich zeige Dir, welche **wissenschaftlich belegten Techniken** uns helfen, nachaltige Veränderung anzustoßen und gesunde Routinen zu entwickeln um zum smarten Gehirnbenutzer zu werden. Dadurch können wir unsere **Produktivität steigern, unser Wohlbefinden und unsere Gesundheit verbessern und große Ziele durch kleine Schritte erreichen**. 
 
