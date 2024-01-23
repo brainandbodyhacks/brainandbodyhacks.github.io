@@ -76,7 +76,7 @@ Dies kann man bis Runde 8 +, 9 oder 10 wiederholen.
 
 ## Mögliche Hack Kombination
 
-Den **Brainhack "Box-Breathing"** können wir gerne auch mit dem [**Brainhack "Pause the movie"**](_posts/2024-01-06-brain-hack-pause-the-movie.md) kombinieren und so nach in der "Pause" gezielt die Stressreaktion durch unsere Atmung verringern, bevor wir den Film weiterlaufen lassen.
+Den **Brainhack "Box-Breathing"** können wir gerne auch mit dem [**Brainhack "Pause the movie"**](_posts/2024-01-06-brain-hack-pause-the-movie.md) kombinieren und so in der "Pause" gezielt die Stressreaktion durch unsere Atmung verringern, bevor wir den Film weiterlaufen lassen.
 
 # Hack Rating
 
