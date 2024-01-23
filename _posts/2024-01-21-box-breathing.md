@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodyhack "Box-Breathing"
-summary: Mit dem Bodyhack "Box-Breathing" kannst Du Deine Konzentration zu verbessern, besser mit Stress umzugehen und durch diese kleine Übung Deine Gesundheit zu optimieren.
+summary: Mit dem Bodyhack "Box-Breathing" kannst Du lernen, Deine Konzentration zu verbessern, besser mit Stress umzugehen und durch diese kleine Übung Deine Gesundheit zu optimieren.
 lang: de
 tags: bodyhack
 ---
