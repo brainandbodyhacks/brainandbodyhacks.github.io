@@ -96,5 +96,5 @@ Effizienz: hoch - _sobald man diese Methode wertschätzend anwendet, so kann man
 # Mehr zum Thema
 
 - [Sprachmodell der Linguistik](https://www.spektrum.de/lexikon/psychologie/sprachmodell-der-linguistik/14693)
-- [Methoden aus dem lösungsfokussierten Coaching | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-658-13405-1_5)
+- [Methoden aus dem lösungsfokussierten Coaching - SpringerLink](https://link.springer.com/chapter/10.1007/978-3-658-13405-1_5)
 
