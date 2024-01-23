@@ -49,7 +49,7 @@ Unsere Fragen können so formuliert werden, dass wir die spezifischen Details od
 ## 1. Alle, Jeder, Niemals - Universalquantoren
 
 Ein Beispiel für eine Generalisierung sind Aussagen, die mit "Alle, Jeder, niemals, niemand" etc formuliert werden.
-Ein Besipiel dafür ist der Satz: “Alle Hunde sind freundlich.” 
+Ein Beidpiel dafür ist der Satz: “Alle Hunde sind freundlich.” 
 
 Um diese Aussage zu hinterfragen, könnte man folgende Meta-Modell-Fragen stellen:
 
