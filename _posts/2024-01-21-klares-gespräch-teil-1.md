@@ -49,7 +49,7 @@ Unsere Fragen können so formuliert werden, dass wir die spezifischen Details od
 ## 1. Alle, Jeder, Niemals - Universalquantoren
 
 Ein Beispiel für eine Generalisierung sind Aussagen, die mit "Alle, Jeder, niemals, niemand" etc formuliert werden.
-Ein Beidpiel dafür ist der Satz: “Alle Hunde sind freundlich.” 
+In folgendem Satz finden wir eine Generalisierung: “Alle Hunde sind freundlich.” 
 
 Um diese Aussage zu hinterfragen, könnte man folgende Meta-Modell-Fragen stellen:
 
@@ -61,7 +61,7 @@ Diese Fragen decken die zugrundeliegenden persönlichen Erfahrungen, Meinungen u
 
 Ein weiteres Beispiel für eine Generalisierung wäre: “Nie hört mir jemand zu!” 
 
-Auch hier önnen wir klärende Meta-Modell-Fragen stellen, die das Absolute hinterfragen:
+Auch hier können wir klärende Meta-Modell-Fragen stellen, die das Absolute hinterfragen:
 
 - Willst Du damit sagen, dass es noch nie jemanden gab, der Dir zugehört hat?
 - Hast Du gerade das Gefühl, dass ich Dir nicht zuhöre?
