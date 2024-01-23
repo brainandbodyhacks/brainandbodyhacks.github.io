@@ -29,26 +29,27 @@ Dies führt dazu, dass die durch unsere Sprache gesendete Nachricht vielleicht n
 Denn jeder Gesprächsteilnehmer geht von seinem eigenen Erlebnishintergrund aus und verwendet unbewusst Sprachmuster, die Information verzerren, tilgen oder verallgemeinern. Dadurch kann es zu vielerlei unterschiedlichen Interpretationen und in Folge auch Missverständnissen kommen 
 
 Das sogenannte **Meta-Modell der Sprache** hilft dabei, diese Muster der Sprache zu erkennen. 
-Es ist nicht nur die Grundlage für klare Kommunikation, sondern auch für schnelle und gezielte Veränderungen.
+Es ist nicht nur die Grundlage für klare Kommunikation, sondern kann auch für schnelle und gezielte Veränderungen sorgen.
 
 Es gibt uns Werkzeuge an die Hand, mit denen wir Unklarheiten im Gespräch hinterfragen können. 
-Wir können eine Reihe von Fragen nutzen, die uns die zugrundeliegende Struktur einer Aussage erkennen lässt. So können wir dann verloren gegangene Informationen wieder zurückzugewinnen und die Hintergründe, Zusammenhänge und damit die eigentliche Nachricht besser verstehen.
+Wir können eine Reihe von Fragen nutzen, die uns die zugrundeliegende Struktur einer Aussage erkennen lässt. 
+So werden verloren gegangene Informationen wieder zurückzugewonnen und die Hintergründe, Zusammenhänge und damit die eigentliche Nachricht transparent gemacht.
 
-Wir können über diese Fragen mehr Information beschaffen und auch in Gruppen alle Teilnehmer einbeziehen und das Wissen von allen Beteiligten einbeziehen.
+Wir können über diese Fragen auch in Gruppen alle Teilnehmer und ihr Wissen mit einbeziehen.
 Wichtig dabei ist, die Fragen wertschätzend zu stellen und nicht in der Absicht, den anderen bloßzustellen oder zu korrigieren. 
 Werden die Fragen angewandt, um den anderen besser zu verstehen oder die Kommunikation insgesamt zu verbessern, können sie einen großen Unterschied machen.
-
 Vor allem können dieses Wissen auch selbst nutzen, um unsere eigenen Muster aufzudecken und unsere Botschaften klarer zu senden.
-1. Generalisierung
 
-Das erste Muster, das wir erkennen können ist die Generalisierung.
-Eine Generalisierung liegt vor, wenn wir Teile eines Satzes identifizieren können, in denen Aussagen verallgemeinert werden, obwohl die Tatsache nur auf bestimmte Personen oder Situationen zutreffen. Wir können nun diese Verallgemeinerung hinterfragen und die fehlende Detaillierung wieder herstellen. Unsere Fragen können so formuliert werden, dass wir die spezifischen Details oder Ausnahmen aufdecken, die in der Generalisierung fehlen. Wir können gezielte Fragen stellen, die unseren Gegenüber dazu bringen, seine Erfahrungen genauer zu beschreiben. 
+Das erste Muster, das wir erkennen können ist die **Generalisierung**.
+Eine Generalisierung liegt vor, wenn wir Teile eines Satzes identifizieren können, in denen Aussagen verallgemeinert werden, obwohl die Tatsache nur auf bestimmte Personen oder Situationen zutreffen. Wir können nun diese Verallgemeinerung hinterfragen und die fehlende Detaillierung wieder herstellen. 
+Unsere Fragen können so formuliert werden, dass wir die spezifischen Details oder Ausnahmen aufdecken, die in der Generalisierung fehlen. Wir können gezielte Fragen stellen, die unseren Gegenüber dazu bringen, seine Erfahrungen genauer zu beschreiben. 
 
 # Beispiele
 
-## 1. Alle, Jeder, Niemals
+## 1. Alle, Jeder, Niemals - Universalquantoren
 
-Ein Beispiel für eine Generalisierung ist die Aussage: “Alle Hunde sind freundlich.” 
+Ein Beispiel für eine Generalisierung sind Aussagen, die mit "Alle, Jeder, niemals, niemand" etc formuliert werden.
+Ein Besipiel dafür ist der Satz: “Alle Hunde sind freundlich.” 
 
 Um diese Aussage zu hinterfragen, könnte man folgende Meta-Modell-Fragen stellen:
 
@@ -58,12 +59,25 @@ Um diese Aussage zu hinterfragen, könnte man folgende Meta-Modell-Fragen stelle
 
 Diese Fragen decken die zugrundeliegenden persönlichen Erfahrungen, Meinungen und Filter unseres Gegenübers auf, die zu der jeweiligen Generalisierung geführt haben. 
 
+Ein weiteres Beispiel für eine Generalisierung wäre: “Nie hört mir jemand zu!” 
+
+Auch hier önnen wir klärende Meta-Modell-Fragen stellen, die das Absolute hinterfragen:
+
+- Willst Du damit sagen, dass es noch nie jemanden gab, der Dir zugehört hat?
+- Hast Du gerade das Gefühl, dass ich Dir nicht zuhöre?
+- Kannst Du Dir eine Situation vorstellen, in der Dir zugehört wird?
+
 ## 2. Wenn-Dann
-Weitere Beispiele, sind Aussagen die eine "Wenn-Dann"-Logik aufweisen 
+Weitere Beispiele, sind Aussagen die eine "Wenn-Dann"-Logik aufweisen. 
 "Wenn X, dann Y": Diese generalisierte Oder-Beziehung kann man aufdecken, indem man die vorweggenommene Folge y genauer hinterfragt:   
 "Wenn X dann immer Y?" oder "Wenn nicht X, dann was?"
 
-Den Satz _"Ich muss etwas leisten, sonst werde ich nicht geliebt."_ kann man hinterfragen mit _"Wenn Du etwas leistest, wirst Du dann immer geliebt?"_ Damit lässt sich die generalisierte Oder-Beziehung hinterfragen.
+Den Satz "Ich muss etwas leisten, sonst werde ich nicht geliebt." kann man hinterfragen mit
+
+- "Wenn Du etwas leistest, wirst Du dann immer geliebt?" 
+- "Wenn Du nichts leistest, was genau passiert dann?" 
+
+Damit lässt sich die generalisierte Oder-Beziehung hinterfragen.
 
 ## Mögliche Hack Kombination
 
