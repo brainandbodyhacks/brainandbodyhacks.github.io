@@ -36,7 +36,7 @@ Wir können eine Reihe von Fragen nutzen, die uns die zugrundeliegende Struktur 
 
 Wir können über diese Fragen mehr Information beschaffen und auch in Gruppen alle Teilnehmer einbeziehen und das Wissen von allen Beteiligten einbeziehen.
 Wichtig dabei ist, die Fragen wertschätzend zu stellen und nicht in der Absicht, den anderen bloßzustellen oder zu korrigieren. 
-Werde die Fragem angewandt, um den anderen besser zu verstehen oder die Kommunikation insgesamt zu verbessern, können sie einen großen Unterschied machen.
+Werden die Fragen angewandt, um den anderen besser zu verstehen oder die Kommunikation insgesamt zu verbessern, können sie einen großen Unterschied machen.
 
 Vor allem können dieses Wissen auch selbst nutzen, um unsere eigenen Muster aufzudecken und unsere Botschaften klarer zu senden.
 1. Generalisierung
