@@ -38,7 +38,7 @@ So werden verloren gegangene Informationen wieder zurückzugewonnen und die Hint
 Wir können über diese Fragen auch in Gruppen alle Teilnehmer und ihr Wissen mit einbeziehen.
 Wichtig dabei ist, die Fragen wertschätzend zu stellen und nicht in der Absicht, den anderen bloßzustellen oder zu korrigieren. 
 Werden die Fragen angewandt, um den anderen besser zu verstehen oder die Kommunikation insgesamt zu verbessern, können sie einen großen Unterschied machen.
-Vor allem können dieses Wissen auch selbst nutzen, um unsere eigenen Muster aufzudecken und unsere Botschaften klarer zu senden.
+Vor allem können wir dieses Wissen auch selbst nutzen, um unsere eigenen Muster aufzudecken und unsere Botschaften klarer zu senden.
 
 Das erste Muster, das wir erkennen können ist die **Generalisierung**.
 Eine Generalisierung liegt vor, wenn wir Teile eines Satzes identifizieren können, in denen Aussagen verallgemeinert werden, obwohl die Tatsache nur auf bestimmte Personen oder Situationen zutreffen. Wir können nun diese Verallgemeinerung hinterfragen und die fehlende Detaillierung wieder herstellen. 
