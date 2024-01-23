@@ -24,18 +24,12 @@ Du willst Deine Botschaften klar kommunizieren, Deine Mitmenschen besser versteh
 **Brainhack "Klares Gespräch - Teil 3"**:
 
 Wir haben in Teil 1 und 2 zwei typische Ursache für Missverständnisse in der Kommunikation kennengelernt: Die Verallgemeinerung und die Tilgung. 
-Ein weiteres Muster ist die **Verzerrung**. 
 
-Informationen aus einer Verzerrung zurückzugewinnen, können wir das **Meta-Modell der Sprache** verwenden, indem wir identifizieren, 
-welche Teile der Aussage verzerrt wurden. 
-Dies kann sich in Form von fehlenden Details oder unvollständigen Informationen zeigen. 
-Wir können gezielt Fragen stellen, um diese Verzerrungen aufzulösen.
+Das dritte Muster ist die **Verzerrung**. Verzerrungen zeigen sich oft in Form von Annahmen, Interpretationen oder Schlussfolgerungen, die in der Aussage nicht direkt durch die Fakten unterstützt werden. 
+
+Um Informationen aus einer verzerrten Aussage zurückzugewinnen, können wir das **Meta-Modell der Sprache** verwenden indem wir aufmerksam zuhören und die Teile der Aussage, die möglicherweise verzerrt sind, identifizieren. Wir können dann Fragen stellen, die die zugrunde liegenden Annahmen oder Gedankenprozesse aufdecken, die zu der Verzerrung geführt haben.
+
 Wichtig dabei ist, die Fragen wertschätzend zu stellen und nicht in der Absicht, den anderen bloßzustellen oder zu korrigieren. 
-
-
-Das dritte Muster ist die Verzerrung. Um Informationen aus einer verzerrten Aussage zurückzugewinnen, können wir aufmerksam zuhören und die Teile der Aussage, die möglicherweise verzerrt sind identifizieren.
-
-Verzerrungen zeigen sich oft in Form von Annahmen, Interpretationen oder Schlussfolgerungen, die in der Aussage nicht direkt durch die Fakten unterstützt werden. Wir können Fragen stellen, die die zugrunde liegenden Annahmen oder Gedankenprozesse aufdecken, die zu der Verzerrung geführt haben.
 
 ## Schlussfolgerung
 Zum Beispiel handelt es sich um eine Verzerrung, wenn Du sagst:
@@ -47,9 +41,17 @@ Es gibt jedoch viele mögliche Gründe, warum Dein Chef Dich heute nicht gegrü�
 Um diese verzerrte Aussage wieder zu entzerren, kannst Du Dir selbst Fragen stellen wie: “Hat mein Chef mich in der Vergangenheit immer gegrüßt?” 
 “Gibt es noch andere denkbare Möglichkeiten, warum mein Chef mich heute Morgen vielleicht nicht gegrüßt hat?”
 
-## Gedankenlesen
-“Mein Mann schenkt mir nie Blumen, er liebt mich nicht.” 
+## Ursache-Wirkung
+Eine verzerrte Ursache-Woirkung Beziehung, die auch noch eine Generalisierung enthält. kann hinterfragt werden, indemman die Aussage mit "wollen" und "müssen" verstärkt.
+“Ich will ja nicht laut werden, aber er provoziert mich immer.” 
+In dieser Aussage steckt die Interpretation der nicht vorhanden Aktion “Blumen schenken” gleichzusetzen mit der Interpretation “er liebt mich nicht”.
 
+Hie rkönnen wir zum Besipiel zunächst fragen:
+- "Wirst Du immer laut, wenn Du provoziert wirst?
+- "Wie genau bewirkt die Provokation, dass Du laut werden musst?"
+- "Wenn er nicht provozieren würde, müsstest Du dann nicht laut werden?"
+- "Willst Du damit sagen, dass Du notwendigerweise laut werden musst, wenn Du Dich provoziert fühlst?"
+  
 ## Mögliche Hack Kombination
 
 Den **Brainhack "Klare Kommunikation - Teil 3"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 1"**](2024-01-23-klares-gespräch-teil-1.md) kombinieren.
