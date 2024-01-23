@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brainhack "Klares Gespräch - Teil 1"
-summary: Mit dem Brainhack "Klares Gespräch - Teil 1" kannst Du selbst klarer kommunizieren und Deine Mitmenschen besser verstehen, indem Du Generalisierungen erkennst und hinterfragst.
+title: Brainhack "Klares Gespräch - Teil 2"
+summary: Mit dem Brainhack "Klares Gespräch - Teil 2" kannst Du selbst klarer kommunizieren und Deine Mitmenschen besser verstehen, indem Du das Muster der Tilgung erkennst und hinterfragst.
 lang: de
 
 tags: brainhack
