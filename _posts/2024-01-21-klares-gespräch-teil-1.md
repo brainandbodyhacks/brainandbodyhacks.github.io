@@ -41,7 +41,7 @@ Werden die Fragen angewandt, um den anderen besser zu verstehen oder die Kommuni
 Vor allem können wir dieses Wissen auch selbst nutzen, um unsere eigenen Muster aufzudecken und unsere Botschaften klarer zu senden.
 
 Das erste Muster, das wir erkennen können ist die **Generalisierung**.
-Eine Generalisierung liegt vor, wenn wir Teile eines Satzes identifizieren können, in denen Aussagen verallgemeinert werden, obwohl die Tatsache nur auf bestimmte Personen oder Situationen zutreffen. Wir können nun diese Verallgemeinerung hinterfragen und die fehlende Detaillierung wieder herstellen. 
+Eine Generalisierung liegt vor, wenn wir Teile eines Satzes identifizieren können, in denen Aussagen verallgemeinert werden, obwohl die Tatsachen nur auf bestimmte Personen oder Situationen zutreffen. Wir können nun diese Verallgemeinerung hinterfragen und die fehlende Detaillierung wieder herstellen. 
 Unsere Fragen können so formuliert werden, dass wir die spezifischen Details oder Ausnahmen aufdecken, die in der Generalisierung fehlen. Wir können gezielte Fragen stellen, die unseren Gegenüber dazu bringen, seine Erfahrungen genauer zu beschreiben. 
 
 # Beispiele
