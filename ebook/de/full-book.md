@@ -182,6 +182,7 @@ Effizienz: hoch
 - [Gesunde Fettsäure: Omega-3 - AOK](https://www.aok.de/pk/magazin/ernaehrung/vitamine/gesunde-fettsaeure-omega-3/)
 
 ---
+
 ## Bodyhack "Microworkouts"
 Mit dem Bodyhack "microworkouts" kannst Du mit wenigen Minuten Training pro Tag Deine Durchblutung steigern, langfristig Muskeln aufbauen und den Gefahren des langen Sitzens vorbeugen.
 
@@ -267,6 +268,7 @@ Effizienz: hoch
 - [The One-Minute Workout](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi92pbv0qqDAxUMSPEDHbhsAIMQFnoECFQQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCYphNKuwLq3AM78cmA0DZ6g&usg=AOvVaw2vl-duq4QlHAIkHtQMWmBT&opi=89978449)
 
 ---
+
 ## Brainhack "BDNF-Neurogenese"
 Mit dem Brainhack kannst Du über Neurogenese neue Gehirnzellen wachsen lassen und somit Deine Gehirnleistung verbessern.
 
@@ -459,7 +461,5 @@ Effizienz: hoch
 - Ein entscheidende Komponente zur Zielerreichung ist die individuelle Motivation. Hier erfährst Du die neurowissenschaftlichen Hintergründe zur effektiven Zielsetzung, Motivationssteigerung und den beteiligten Neurotransmittern: [The Neuroscience of Motivation: The Brain’s Role in Achieving Goals](https://www.modernmindmasters.com/the-neuroscience-of-motivation/)
 
 - Dieser Artikel beleuchtet das aktuelle Verständnis von Zielerreichung und Verhaltensänderungen aus der Hirnforschung: [The Neuroscience of Goals and Behavior Change](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854216/)
-
-**_#staysharp_**
 
 ---
