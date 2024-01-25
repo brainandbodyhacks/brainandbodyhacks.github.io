@@ -23,17 +23,16 @@ Du willst Deine Botschaften klar kommunizieren, Deine Mitmenschen besser versteh
 
 **Brainhack "Klares Gespräch - Teil 2"**:
 
-Wir haben in Teil eine Ursache für Missverständnisse in der Kommunikation kennengelernt: Die Verallgemeinerung. 
-Wir haben gelernt, wie das sogenannte **Meta-Modell der Sprache** uns dabei hilft , Verallgemeinerungen in der Sprache zu erkennen und zu hinterfragen. 
+Wir haben im [**Brainhack "Klares Gespräch - Teil 1"**](2024-01-21-klares-gespräch-teil-1.md) eine Ursache für Missverständnisse in der Kommunikation kennengelernt: Die Verallgemeinerung. 
+Wir haben gesehen, wie das sogenannte **Meta-Modell der Sprache** uns dabei helfen kann, Verallgemeinerungen in der Sprache zu erkennen und zu hinterfragen. 
 
-Ein weiteres Muster ist die Tilgung. 
+Ein weiteres Muster in der ungenauen Sprache ist die Tilgung. 
 Bei der Kommunikation lassen wir oft wichtige Informationen weg, was dazu führen kann, dass die durch unsere Sprache gesendete Nachricht vielleicht nicht mehr wirklich der eigentlich gemeinten Botschaft entspricht.
-Denn jeder Gesprächsteilnehmer geht von seinem eigenen Erlebnishintergrund aus und verwendet unbewusst Sprachmuster.
+Denn jeder Gesprächsteilnehmer geht von seinem eigenen Erlebnishintergrund aus und verwendet unbewusste Sprachmuster, wie die Tilgung.
 
-Wir können jedoch eine Reihe von Fragen nutzen, die uns verloren gegangene Informationen wieder zurückzugewinnen lassen und die Hintergründe, Zusammenhänge und damit die eigentliche Nachricht besser verstehen.
+Um Informationen aus einer Tilgung zurückzugewinnen, können wir das Meta-Modell der Sprache verwenden, indem wir identifizieren, welche Teile der Aussage möglicherweise weggelassen wurden. Dies kann sich in Form von fehlenden Details oder unvollständigen Informationen zeigen. Wir können gezielt Fragen stellen, um diese fehlenden Details oder Informationen wiederherzustellen.
+
 Wichtig dabei ist, die Fragen wertschätzend zu stellen und nicht in der Absicht, den anderen bloßzustellen oder zu korrigieren. 
-
-Auch um Informationen aus einer Tilgung zurückzugewinnen, können wir das Meta-Modell der Sprache verwenden, indem wir identifizieren, welche Teile der Aussage möglicherweise weggelassen wurden. Dies kann sich in Form von fehlenden Details oder unvollständigen Informationen zeigen. Wir können gezielt Fragen stellen, um diese fehlenden Details oder Informationen wiederherzustellen.
 
 # Beispiele
 
@@ -42,19 +41,24 @@ Wir können fragen: “Was ist passiert, dass Du den Tag als schrecklich empfund
 
 Es gibt verschiedene Arten von Tilgungen. Hier ein paar Beispiele, auf die wir mit ganz unterschiedlichen Fragen antworten können:
 
+## Einfache Tilgung
 - “Ich freue mich.” Hier handelt es sich um eine einfache Tilgung: Es fehlen schlicht Informationen in der Aussage.
 - "Worüber freust du dich?"
 
+## Vage Formulierung
 - “Ich leide.” Hier ist das Verb ist zu vage oder allgemein.
 - "Wie genau leidest du?"
 
+## Vergleichstilgung
 - “Das Produkt ist zu teuer.” Hier fehlt die Information, womit verglichen wird, es handelt sich um eine Vergleichstilgung.
 - "Im Vergleich wozu ist das Produkt zu teuer?"
 
-- “Das kann doch nicht sein.” Hier fehlt die Information, auf was oder wen sich das Gesagte bezieht, eine fehlende Referenz.
+## Fehlende Referenz
+- “Das kann doch nicht sein.” Hier fehlt die Information, auf was oder wen sich das Gesagte bezieht, es handelt sich um eine fehlende Referenz.
 - "Was genau kann nicht sein?"
 
-- “Ich habe eine Depression.” Ein Verb oder Adjektiv , hier depressiv sein, wird zu einem Substantiv gemacht, das nicht greifbar ist.
+## Nominalisierung
+- “Ich habe eine Depression.” Ein Verb oder Adjektiv, wie depressiv sein, wird zu einem Substantiv gemacht, das nicht greifbar ist.
 - "Woran erkennst du deine Depression?"
 
 
@@ -70,9 +74,9 @@ Zeitaufwand: mittel - hoch - _das Erkennen der Strukturen erfordert etwas Übung
 
 Kosten: minimal
 
-Effizienz: hoch - _sobald man diese Methode wertschätzend anwendet, so kann man ganz erstaunliche Unterschiede in der Kommunikation wahrnehmen._
+Effizienz: hoch - _sobald man diese Methode wertschätzend anwendet, kann man ganz erstaunliche Unterschiede in der Kommunikation wahrnehmen._
 
 # Mehr zum Thema
 
 - [Sprachmodell der Linguistik](https://www.spektrum.de/lexikon/psychologie/sprachmodell-der-linguistik/14693)
-- [Methoden aus dem lösungsfokussierten Coaching | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-658-13405-1_5))
+- [Methoden aus dem lösungsfokussierten Coaching - SpringerLink](https://link.springer.com/chapter/10.1007/978-3-658-13405-1_5))
