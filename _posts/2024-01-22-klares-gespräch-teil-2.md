@@ -23,7 +23,7 @@ Du willst Deine Botschaften klar kommunizieren, Deine Mitmenschen besser versteh
 
 **Brainhack "Klares Gespräch - Teil 2"**:
 
-Wir haben im [**Brainhack "Klares Gespräch - Teil 1"**](2024-01-21-klares-gespräch-teil-1.md) eine Ursache für Missverständnisse in der Kommunikation kennengelernt: Die Verallgemeinerung. 
+Wir haben im [**Brainhack "Klares Gespräch - Teil 1"**](2024-01-20-klares-gespräch-teil-1.md) eine Ursache für Missverständnisse in der Kommunikation kennengelernt: Die Verallgemeinerung. 
 Wir haben gesehen, wie das sogenannte **Meta-Modell der Sprache** uns dabei helfen kann, Verallgemeinerungen in der Sprache zu erkennen und zu hinterfragen. 
 
 Ein weiteres Muster in der ungenauen Sprache ist die Tilgung. 
