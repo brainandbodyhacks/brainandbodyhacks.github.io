@@ -14,7 +14,7 @@ Du hast Probleme abzuschalten oder kannst Dich vor allem in oder nach stressigen
 
 ## Was ist das Ziel?
 
-Du in wichtigen Momenten eine Strategie zur Beruhigung haben, Dich besser entspannen und den negativen Auswirkungen von Stress entgegenwirken. 
+Du willst in wichtigen Momenten eine Strategie zur Beruhigung haben, Dich besser entspannen und den negativen Auswirkungen von Stress entgegenwirken. 
 
 # Hack
 
@@ -36,7 +36,7 @@ Hier ein Auszug einer Studie, die die Auswirkungen von Box-Breathing zusammen mi
 # Beispiele
 
 Wir können die **Box-Breathing** Technik entweder pur anwenden oder auch leicht abwandeln.
-Box-Breathing ist in seiner Reinform absichtlich einfach gehalten, es folgt den dem Rhythmus Einatmen - Luft Halten - Ausatmen - Luft halten, wie im nächsten Beispiel beschrieben: 
+Box-Breathing ist in seiner Reinform absichtlich einfach gehalten, es folgt den dem Rhythmus Einatmen - Luft halten - Ausatmen - Luft halten, wie im nächsten Beispiel beschrieben: 
 
 ## 1. Box-Breathing
 
@@ -48,7 +48,7 @@ Box-Breathing ist in seiner Reinform absichtlich einfach gehalten, es folgt den 
 
 ## 2. Modifiziertes Box-Breathing
 
-Das modifizierte Box-Breathing bringt etwa Abwechslung in die Technik, es folgt den Schritten des normalen Box-Breathings, jedoch addieren wir nach jeder Runde eine Sekunde dazu:
+Das modifizierte Box-Breathing bringt etwas Abwechslung in die Technik, es folgt den Schritten des normalen Box-Breathings, jedoch addieren wir nach jeder Runde eine Sekunde dazu:
 
 **Runde 1: 2 Sekunden**
 
