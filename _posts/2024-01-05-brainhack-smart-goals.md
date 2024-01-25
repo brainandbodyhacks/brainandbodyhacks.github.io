@@ -150,6 +150,4 @@ Effizienz: hoch
 
 - Dieser Artikel beleuchtet das aktuelle Verständnis von Zielerreichung und Verhaltensänderungen aus der Hirnforschung: [The Neuroscience of Goals and Behavior Change](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5854216/)
 
-**_#staysharp_**
-
 
