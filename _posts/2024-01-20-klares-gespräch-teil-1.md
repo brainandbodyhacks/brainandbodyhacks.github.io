@@ -26,7 +26,7 @@ Du willst Deine Botschaften klar kommunizieren, Deine Mitmenschen besser versteh
 Missverständnisse in der Kommunikation sind häufig und entstehen oft durch die Grundannahme, dass wir uns über einen bestimmten Sachverhalt doch korrekt verständigt haben. Allerdings lassen wir bei der Kommunikation oft wichtige Informationen weg, wir verallgemeinern Dinge oder verzerren die Tatsachen durch unseren Blick auf die Welt. 
 Dies führt dazu, dass die durch unsere Sprache gesendete Nachricht vielleicht nicht mehr wirklich der eigentlich gemeinten Botschaft entspricht.
 
-Denn jeder Gesprächsteilnehmer geht von seinem eigenen Erlebnishintergrund aus und verwendet unbewusst Sprachmuster, die Information verzerren, tilgen oder verallgemeinern. Dadurch kann es zu vielerlei unterschiedlichen Interpretationen und in Folge auch Missverständnissen kommen 
+Denn jeder Gesprächsteilnehmer geht von seinem eigenen Erlebnishintergrund aus und verwendet unbewusst Sprachmuster, die Information verzerren, tilgen oder verallgemeinern. Dadurch kann es zu vielerlei unterschiedlichen Interpretationen und in Folge auch Missverständnissen kommen. 
 
 Das sogenannte **Meta-Modell der Sprache** hilft dabei, diese Muster der Sprache zu erkennen. 
 Es ist nicht nur die Grundlage für klare Kommunikation, sondern kann auch für schnelle und gezielte Veränderungen sorgen.
@@ -48,7 +48,7 @@ Unsere Fragen können so formuliert werden, dass wir die spezifischen Details od
 
 ## 1. Alle, Jeder, Niemals - Universalquantoren
 
-Ein Beispiel für eine Generalisierung sind Aussagen, die mit "Alle, Jeder, niemals, niemand" etc formuliert werden.
+Ein Beispiel für eine Generalisierung sind Aussagen, die mit "Alle, Jeder, niemals, niemand" etc. formuliert werden.
 In folgendem Satz finden wir eine Generalisierung: “Alle Hunde sind freundlich.” 
 
 Um diese Aussage zu hinterfragen, könnte man folgende Meta-Modell-Fragen stellen:
