@@ -59,7 +59,7 @@ Wenn wir diese Filter erkennen, kann uns das helfen, uns klarer auszudrücken un
   
 ## Mögliche Hack Kombination
 
-Den **Brainhack "Klare Kommunikation - Teil 3"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 1"**]({% post_url 2024-01-20-klares-gespräch-teil-1.md %}) kombinieren.
+Den **Brainhack "Klare Kommunikation - Teil 3"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 1"**]({% post_url posts/2024-01-20-klares-gespräch-teil-1.md %}) kombinieren.
 # Hack Rating
 
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
