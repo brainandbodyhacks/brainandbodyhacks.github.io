@@ -59,8 +59,7 @@ Wenn wir diese Filter erkennen, kann uns das helfen, uns klarer auszudrücken un
   
 ## Mögliche Hack Kombination
 
-Den **Brainhack "Klare Kommunikation - Teil 3"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 1"**](2024-01-20-klares-gespräch-teil-1.md) kombinieren.
-
+Den **Brainhack "Klare Kommunikation - Teil 3"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 1"**]({% 2024-01-20-klares-gespräch-teil-1.md 2024-01-20-klares-gespräch-teil-1.md %}) kombinieren.
 # Hack Rating
 
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
@@ -74,4 +73,4 @@ Effizienz: hoch - _sobald man diese Methode wertschätzend anwendet, so kann man
 # Mehr zum Thema
 
 - [Sprachmodell der Linguistik](https://www.spektrum.de/lexikon/psychologie/sprachmodell-der-linguistik/14693)
-- [Methoden aus dem lösungsfokussierten Coaching | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-658-13405-1_5))
+- [Methoden aus dem lösungsfokussierten Coaching - SpringerLink](https://link.springer.com/chapter/10.1007/978-3-658-13405-1_5))
