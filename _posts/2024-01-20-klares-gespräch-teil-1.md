@@ -81,7 +81,7 @@ Damit lässt sich die generalisierte Oder-Beziehung hinterfragen.
 
 ## Mögliche Hack Kombination
 
-Den **Brainhack "Klare Kommunikation"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 2"**](2024-01-22-klares-gespräch-teil-2.md) kombinieren.
+Den **Brainhack "Klare Kommunikation"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 2"**](../posts/2024-01-22-klares-gespräch-teil-2.md) kombinieren.
 
 # Hack Rating
 
