@@ -58,9 +58,6 @@ Diese Interpretation der Realität können wir zum Beispiel hinterfragen mit:
 Verzerrungen können wir als Filter verstehen, durch die wir unsere Erfahrungen betrachten. Diese Filter beeinflussen, wie wir Informationen interpretieren und darauf reagieren, sie können durch unsere Kultur, unsere Erziehung, unsere persönlichen Erfahrungen und unsere Glaubenssätze geformt werden.
 Wenn wir diese Filter erkennen, kann uns das helfen, uns klarer auszudrücken und ein besseres Verständnis für unsere eigene Kommunikation und die der anderen zu entwickeln.
   
-## Mögliche Hack Kombination
-
-Den **Brainhack "Klare Kommunikation - Teil 3"** können wir bestens auch mit dem **Brainhack "Klares Gespräch - Teil 1"** kombinieren.
 # Hack Rating
 
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
