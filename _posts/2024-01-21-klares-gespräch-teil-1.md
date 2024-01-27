@@ -69,7 +69,7 @@ Auch hier können wir klärende Meta-Modell-Fragen stellen, die das Absolute hin
 
 ## 2. Wenn-Dann
 Weitere Beispiele, sind Aussagen die eine "Wenn-Dann"-Logik aufweisen. 
-"Wenn X, dann Y": Diese generalisierte Oder-Beziehung kann man aufdecken, indem man die vorweggenommene Folge y genauer hinterfragt:   
+"Wenn X, dann Y": Diese generalisierte Oder-Beziehung kann man aufdecken, indem man die vorweggenommene Folge Y genauer hinterfragt:   
 "Wenn X dann immer Y?" oder "Wenn nicht X, dann was?"
 
 Den Satz "Ich muss etwas leisten, sonst werde ich nicht geliebt." kann man hinterfragen mit
