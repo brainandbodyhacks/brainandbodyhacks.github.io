@@ -15,9 +15,12 @@
 
 # Hacks
 ## Gehirngerechtes Führen
-- Was brauche ich um gehirngerecht zu führe 
+- Was brauche ich um gehirngerecht zu führen
+Energiemanagement, Pausen, Statemanagement
 - Was brauchen meine Mitarbeiter von mir
-
+- Hack Kluge Entscheidung
+- Klares Gespräch
+  
 ## Gehirngerechtes Lernen
 Wie lernt das Gehirn am Besten ?
 - Flow
@@ -25,5 +28,5 @@ Wie lernt das Gehirn am Besten ?
 - ...
 ## Gehirngerechtes Leben
 - Schlaf, Regeneration
-- 
+- Hack RedLight, Magnesium, Blutzucker stabil
 
