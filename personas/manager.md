@@ -20,6 +20,7 @@ Energiemanagement, Pausen, Statemanagement
 - Was brauchen meine Mitarbeiter von mir
 - Hack Kluge Entscheidung
 - Klares Gespräch
+- Build your own Leader
   
 ## Gehirngerechtes Lernen
 Wie lernt das Gehirn am Besten ?
