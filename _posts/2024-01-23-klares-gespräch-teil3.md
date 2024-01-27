@@ -31,7 +31,8 @@ Um Informationen aus einer verzerrten Aussage zurückzugewinnen, können wir das
 
 Wichtig dabei ist, die Fragen wertschätzend zu stellen und nicht in der Absicht, den anderen bloßzustellen oder zu korrigieren. 
 
-#Besipiele
+# Beispiele
+
 ## Schlussfolgerung
 Zum Beispiel handelt es sich um eine Verzerrung, wenn Du sagst:
 
