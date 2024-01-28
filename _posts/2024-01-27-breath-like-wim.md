@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brainhack "Breath Like Wim"
-summary: Mit dem Brainhack "Breath Like Wim"" kannst Dich besser entspannen und Stress entgegenwirken, indem Du Deinen Parasympathikus aktivierst.
+title: Bodyhack "Breath Like Wim"
+summary: Mit dem Bodyhack "Breath Like Wim"" kannst Dich besser entspannen und Stress entgegenwirken, indem Du Deinen Parasympathikus aktivierst.
 lang: de
 tags: bodyhack
 ---
@@ -17,7 +17,7 @@ Du willst Dich besser entspannen und den negativen Auswirkungen von Stress entge
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
-**Brainhack "Breath Like Wim"**:
+**Bodyhack "Breath Like Wim"**:
 
 Die Wim-Hof-Methode, die nach dem gleichnamigen Extremsportler benannt ist, ist eine **wissenschaftlich anerkannte Atemtechnik**. Sie basiert auf **kontrollierter Hyperventilation** und vereint bewusstes Atmen, Kältetraining und Konzentration. 
 
@@ -73,7 +73,7 @@ Danach sorgst Du am Besten für etwas Bewegung und frische Luft.
 
 
 ## Mögliche Hack Kombination
-Den **Brainhack "Breath Like Wim"** können wir gerne auch mit den anderen Hacks zum Thema Atmung kombinieren und so mit ganz einfachen Mitteln gegen Stress vorgehen und unsere Leistungsfähigkeit optimieren.
+Den **Bodyhack "Breath Like Wim"** können wir gerne auch mit den anderen Hacks zum Thema Atmung kombinieren und so mit ganz einfachen Mitteln gegen Stress vorgehen und unsere Leistungsfähigkeit optimieren.
 
 
 # Hack Rating
