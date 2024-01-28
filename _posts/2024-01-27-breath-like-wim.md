@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brainhack "Breath Like Wim"
-summary: Mit dem Brainhack "Breath Like Wim"" kannst Du Deinen *Parasympathikus* aktivieren, Dich dadurch besser entspannen und somit Stress entgegenwirken.
+summary: Mit dem Brainhack "Breath Like Wim"" kannst Dich besser entspannen und Stress entgegenwirken, indem Du Deinen Parasympathikus aktivierst.
 lang: de
 tags: bodyhack
 ---
