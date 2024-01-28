@@ -86,7 +86,7 @@ Kosten: gering - _Die Technik kostet nichts_
 Effizienz: hoch - _Die Steigerung meiner Resilienz ist bei mir durch diese tägliche Atemübung deutlich spürbar_ 
 
 # Mehr zum Thema
-- [German Guided Wim Hof Method Breathing Exercise](https://www.youtube.com/watch?v=BckqffhrF1M))
+- [German Guided Wim Hof Method Breathing Exercise](https://www.youtube.com/watch?v=BckqffhrF1M)
 
 - [Get your toolkit for breathing better with James Nestor](https://www.youtube.com/watch?v=grxIfNWkfDo)
 
