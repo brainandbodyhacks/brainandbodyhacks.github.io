@@ -17,7 +17,7 @@ Du willst Dich besser entspannen und den negativen Auswirkungen von Stress entge
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
-**Brainhack "Breath like Wim""**:
+**Brainhack "Breath Like Wim"**:
 
 Die Wim-Hof-Methode, die nach dem gleichnamigen Extremsportler benannt ist, ist eine **wissenschaftlich anerkannte Atemtechnik**. Sie basiert auf **kontrollierter Hyperventilation** und vereint bewusstes Atmen, Kältetraining und Konzentration. 
 
@@ -27,7 +27,7 @@ Denn die spezielle Atemtechnik sorgt dafür, dass unser Körper vermehrt mit Sau
 
 Die Folge: Wir sind danach konzentrierter, können uns besser fokussieren und fühlen uns energetischer. Langfristig kann die Methode, wenn sie kontinuierlich durchgeführt wird, uns auch stressresistenter machen.
 
-Die **Wirkungen der Atmung** im Körper sind wissenschaftlichen gut belegt.
+Die **Wirkungen der Atmung** im Körper sind wissenschaftlichen gut belegt [1] [2].
 
 # Beispiele
 Hinweis: **Führe die Übungen an einem sicheren Ort durch, an dem Du Dich entspannen und voll und Deine Atmung konzentrieren kannst.**
@@ -73,7 +73,7 @@ Danach sorgst Du am Besten für etwas Bewegung und frische Luft.
 
 
 ## Mögliche Hack Kombination
-Den **Brainhack "Breath like Wim"** können wir gerne auch mit den anderen Hacks zum Thema Atmung kombinieren und so mit ganz einfachen Mitteln gegen Stress vorgehen und unsere Leistungsfähigkeit optimieren.
+Den **Brainhack "Breath Like Wim"** können wir gerne auch mit den anderen Hacks zum Thema Atmung kombinieren und so mit ganz einfachen Mitteln gegen Stress vorgehen und unsere Leistungsfähigkeit optimieren.
 
 
 # Hack Rating
@@ -86,10 +86,10 @@ Kosten: gering - _Die Technik kostet nichts_
 Effizienz: hoch - _Die Steigerung meiner Resilienz ist bei mir durch diese tägliche Atemübung deutlich spürbar_ 
 
 # Mehr zum Thema
-- [German Guided Wim Hof Method Breathing Exercise]([Wenn eine andere Person Dich wirklich liebt, dann würde diese Person alles tun, um Dich... (youtube.com)](https://www.youtube.com/watch?v=BckqffhrF1M))
+- [German Guided Wim Hof Method Breathing Exercise](https://www.youtube.com/watch?v=BckqffhrF1M))
 
 - [Get your toolkit for breathing better with James Nestor](https://www.youtube.com/watch?v=grxIfNWkfDo)
 
 [^1]: [Breathing matters]([Breathing matters - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/29740175/)
 
-[[Acute Effects of the Wim Hof Breathing Method on Repeated Sprint Ability: A Pilot Study - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424088/)]
+[^2]: [Acute Effects of the Wim Hof Breathing Method on Repeated Sprint Ability: A Pilot Study - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424088/)]
