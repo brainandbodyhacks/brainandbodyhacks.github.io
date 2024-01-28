@@ -90,6 +90,8 @@ Effizienz: hoch - _Die Steigerung meiner Resilienz ist bei mir durch diese tägl
 
 - [Get your toolkit for breathing better with James Nestor](https://www.youtube.com/watch?v=grxIfNWkfDo)
 
+  
+
 [^1]: Breathing matters - PubMed (nih.gov) https://pubmed.ncbi.nlm.nih.gov/29740175/
 
 [^2]: Acute Effects of the Wim Hof Breathing Method on Repeated Sprint Ability: A Pilot Study - PMC (nih.gov) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424088/
