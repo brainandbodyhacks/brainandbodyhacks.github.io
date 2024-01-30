@@ -10,7 +10,7 @@ tags: bodyhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du hast entzündlich Prozesse im Körper und bzw. oder Dein Immunsystem ist nicht das beste.
+Du hast entzündlich Prozesse im Körper und bzw. oder Dein Immunsystem ist nicht das Beste.
 
 ## Was ist das Ziel?
 Du möchtest Entzündungen reduzieren oder Dein Immunsystem aktivieren. 
@@ -30,37 +30,37 @@ Hier ein paar Fakten aus der Wissenschaft:
 ## Kälteschockproteine (CSPs)
 Was sind Kälteschockproteine oder kurz CSPs?
 CSPs sind RNA/DNA bindende Proteine mit sogenannten "cold shock domains".
-Sie sind verantwrotlich für die Reparatur fehlgefalteter Proteine und RNA. Es gibt verschiedene Typen von CSPs, so wird zum Beispiel die Y-box Familie als potentielles Ziel in der Krebstherapie gesehen. Andere CSPs sind Lin28, CARHSP1 oder PIPPiin.
+Sie sind verantwortlich für die Reparatur fehlgefalteter Proteine und RNA. Es gibt verschiedene Typen von CSPs, so wird zum Beispiel die Y-box Familie als potentielles Ziel in der Krebstherapie gesehen. Andere CSPs sind Lin28, CARHSP1 oder PIPPiin.
 
 ## Effekte der Kälte
 Durch Kälte werden diverse Effekte im Körper ausgelöst.
-Zunächst kommt es zu den **insulative Effekten**: 
-Diese bewirken eine Redirektion des Blutflusses nach zentral, der Blutfluss wird also numgeleitet zu den Organen an denen das Blut am dringtendsten gebraucht wird, wie Herz, Leber und Nieren. Es kommt zu Gänsehaut, wir suchen die Wärme und haben einen verminderter Blutfluss.
+Zunächst kommt es zu den **insulativen Effekten**: 
+Diese bewirken eine Redirektion des Blutflusses nach zentral, der Blutfluss wird also umgeleitet zu den Organen, an denen das Blut am dringendsten gebraucht wird, wie Herz, Leber und Nieren. Es kommt zu Gänsehaut, wir suchen die Wärme und haben einen verminderten Blutfluss.
 
-Wenn dieser Mechanismus erschöpft ist kommt es zu den sogennanten **metabolic Changes **.
+Wenn dieser Mechanismus erschöpft ist, kommt es zu den sogenannten **metabolic Changes **.
 Dies sind metabolische Veränderungen durch eine vermehrte Hitzeproduktion durch Zittern und der "non-shivering adaptive Thermogenesis", kurz NST: 
-Die Mitochondrien haben einen Prozess der sich "Uncoupling" nennt, beim Uncoupling werden Nährstoffe "verschwendet" um Wärme produzieren zu können.
+Die Mitochondrien haben einen Prozess, der sich "Uncoupling" nennt, beim Uncoupling werden Nährstoffe "verschwendet", um Wärme produzieren zu können.
 Es kommt zur Energieproduktion im Skelettmuskel und starkes Zittern verbrennt Fettsäuren und Glykogen.
 
 ## Vorteile
 Was sind nun die Vorteile dieser Prozesse? 
 Gut untersucht sind die Folgen auf das Norepinephrin: 
 - Es steigt und fördert Fokus, Vigilanz, Aufmerksamkeit und die Stimmung.
-- Langfristig können wir weniger Angst und Depression verspüren, Entzündungen wie Rheuma und Artritis können sich verringern.
-- Auch verspricht die Kätetheraphie Hilfe bei neurodegenerativen Erkrankungen.
+- Langfristig können wir weniger Angst und Depression verspüren, Entzündungen wie Rheuma und Arthritis können sich verringern.
+- Auch verspricht die Kältetheraphie Hilfe bei neurodegenerativen Erkrankungen.
 - Sie erhöht Adiponektin, das wichtig für die Blutzuckerregulation ist.
 - Es kommt zur Aktivierung von braunem Fettgewebe und die Dichte der Mitochondrien erhöht sich.
-- In Folge kommt es zu verbessertertem Schlaf, vor allem der Tiefschlafphase.
+- In Folge kommt es zu verbessertem Schlaf, vor allem der Tiefschlafphase.
 - Harnsäure kann reduziert werden und Glutathion erhöht werden, so können Entzündungen verringern und das Immunsystem aktiviert werden.
-- In der Kombination von Hitze können wir die Effekte sogar potenzieren, so zum Besipiel durch Wechselbäder.
+- In der Kombination von Hitze können wir die Effekte sogar potenzieren, so zum Beispiel durch Wechselbäder.
 
 ## Risiken
-Bei all den Vorteilen, sollten wir auch die Risiken beleuchten. 
-So können zum Beispiel nach dem Training Entzündungensprozesse auch erwünscht sein, um das Muskelwachstum zu aktivieren. 
+Bei all den Vorteilen sollten wir auch die Risiken beleuchten. 
+So können zum Beispiel nach dem Training Entzündungsprozesse auch erwünscht sein, um das Muskelwachstum zu aktivieren. 
 Die Kälte unterdrückt jedoch Entzündungen und kann dadurch eventuell das Muskelwachstum verlangsamen.
 Kälte kann außerdem zu mehr Hunger führen, da der Körper nach Energie sucht.
-10Im sogennaten Open WIndow 10-20 Minuten nach der Behandlung steigt das Risiko für virale Infekte ersteinmal an, bevor es sich verringert. 
-In dieser Zeit sollte man es also möglichts vermeiden, mit Viren in Kontakt zu kommen.
+Im sogenannten "Open Window" 10-20 Minuten nach der Behandlung steigt das Risiko für virale Infekte erst einmal an, bevor es sich verringert. 
+In dieser Zeit sollte man es also möglichst vermeiden, mit Viren in Kontakt zu kommen.
 Auch auf den Hormonspiegel hat die Kälte Einfluss, da das Cortisol steigt, wird kurzfristig eventuell weniger Testosteron produziert.
 Ist man nicht vorsichtig und setzte sich der Kälte zu lange aus, steigt das Risiko für Neuropathien, also Erfrierungen.
 
