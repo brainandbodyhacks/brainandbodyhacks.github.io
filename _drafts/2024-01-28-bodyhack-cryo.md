@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodyhack "Cryo"
-summary: Mit dem Bodyhack "Cryo" kannst Du diverse positive Effekte für den Körper hervorrufen, wie zum Beispiel Verringerung von Entzündungen.
+summary: Mit dem Bodyhack "Cryo" kannst Du diverse positive Effekte für den Körper hervorrufen, wie zum Beispiel Verringerung von Entzündungen und Stärkung des Immunsystems.
 lang: de
 
 tags: bodyhack
@@ -10,7 +10,7 @@ tags: bodyhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du hast entzündlich Prozesse im Körper und/oder Dein Immunsystem ist nicht das beste.
+Du hast entzündlich Prozesse im Körper und bzw. oder Dein Immunsystem ist nicht das beste.
 
 ## Was ist das Ziel?
 Du möchtest Entzündungen reduzieren oder Dein Immunsystem aktivieren. 
@@ -21,73 +21,55 @@ Du möchtest Entzündungen reduzieren oder Dein Immunsystem aktivieren.
 **Bodyhack "Cryo"**:
 Du kannst den Hack nutzen, um diverse positive Effekte für den Körper hervorrufen, die durch die Aktivierung von sogenannten Kälteschockproteinen ausgelöst werden. 
 
-Kryotherapie - das Arbeiten mit extremer Kälte - wird häufig nach dem Sport eingesetzt, um die Genesung zu beschleunigen. 
-Mechanismen, die den Erholungseffekten zugrunde liegen, sind jedoch nach wie vor schwer zu greifen. 
-Die Hauptursacehe für die Wirksamkeit der Kryotherapie die durch die Kältetherapie hervorgerufene Senkung der Gewebetemperatur.
-DIese hat Auswirkungen auf die Durchblutung, die Zellschwellung und den Stoffwechsel sowie die neuronale Leitfähigkeit.
+Kryotherapie - die Behandlung mit Kälte - wird häufig nach dem Sport eingesetzt, um die Genesung zu beschleunigen. 
+Die Hauptursache für die Wirksamkeit der Kryotherapie ist die durch die Kältetherapie hervorgerufene Senkung der Gewebetemperatur.
+Diese hat Auswirkungen auf die Durchblutung, den Stoffwechsel, die Zellschwellung und die neuronale Leitfähigkeit.
+Die Mechanismen, die den Erholungseffekten zugrunde liegen, sind jedoch nach wie vor schwer zu greifen.
+Hier ein paar Fakten aus der Wissenschaft:
 
-# Kälteschockproteine (CSPs)
+## Kälteschockproteine (CSPs)
 Was sind Kälteschockproteine oder kurz CSPs?
 CSPs sind RNA/DNA bindende Proteine mit sogenannten "cold shock domains".
-Sie sind verantwrotlich für die 
-- Reparatur fehlgefalteter Proteine und RNA
-- Y-box family: potentielle Ziele in der Krebstherapie
-- Andere CSPs: Lin28, CARHSP1, PIPPiin, upstream of N-RAS (UNR)
+Sie sind verantwrotlich für die Reparatur fehlgefalteter Proteine und RNA. Es gibt verschiedene Typen von CSPs, so wird zum Beispiel die Y-box Familie als potentielles Ziel in der Krebstherapie gesehen. Andere CSPs sind Lin28, CARHSP1 oder PIPPiin.
 
 ## Effekte der Kälte
+Durch Kälte werden diverse Effekte im Körper ausgelöst.
+Zunächst kommt es zu den **insulative Effekten**: 
+Diese bewirken eine Redirektion des Blutflusses nach zentral, der Blutfluss wird also numgeleitet zu den Organen an denen das Blut am dringtendsten gebraucht wird, wie Herz, Leber und Nieren. Es kommt zu Gänsehaut, wir suchen die Wärme und haben einen verminderter Blutfluss.
 
-**Insulative Effekte**: Redirektion des Blutflusses nach zentral: der Blutfluss wird umgeleitet zu den Organen an denne es am dringtendsten gebraucht wird: Herz, Leber, Nieren
-
-- Gänsehaut, Wärmesuche, verminderter Blutfluss
-
-Wenn dieser Mechanismus erschöpft ist, 
-
-**Metabolic Changes ** Metabolische Veränderungen durch 
-
-- erhöhte Rate durch vermehrte Hitzeproduktion durch Shivering
-
-- und NST non-shivering adaptive Thermogenesis
-  - Die Mitochondrien haben einen Prozess der sich "Uncoupling" nennt, Nährstoffe werden verschwendet um Wärme produzieren zu können
-- Energieproduktion im Skelettmuskel
-- Starkes Zittern verbrennt Fettsäuren und Glykogen
+Wenn dieser Mechanismus erschöpft ist kommt es zu den sogennanten **metabolic Changes **.
+Dies sind metabolische Veränderungen durch eine vermehrte Hitzeproduktion durch Zittern und der "non-shivering adaptive Thermogenesis", kurz NST: 
+Die Mitochondrien haben einen Prozess der sich "Uncoupling" nennt, beim Uncoupling werden Nährstoffe "verschwendet" um Wärme produzieren zu können.
+Es kommt zur Energieproduktion im Skelettmuskel und starkes Zittern verbrennt Fettsäuren und Glykogen.
 
 ## Vorteile
-- Norepinephrin steigt und fördert Fokus, Vigilanz, Aufmerksamkeit & Stimmung
-- weniger Angst & Depression
-- verringert Entzündungen wie Rheuma und Artritis
-- Hilfe bei neurodegenerativen Erkrankungen
-- erhöht Adiponektin, wichtig für die Blutzuckerregulation
-- YB-1 steigt: wichtig für Überleben des Embryos
-- Aktivierung von braunem Fettgewebe (UCP1 - Uncoupling Protein 1 )
-  - erhöhte Dichte der Mitochondrien
-- verbesserter Schlaf, vor allem die Tiefschlafphase
-- Reduktion Harnsäure & Erhöhung Glutathion
-- Aktivierung Immunsystem
-- Positive Effekte auf Longevity
-- Effekte potenziert mit Kombination von Hitze, z.B. Wechselbäder
+Was sind nun die Vorteile dieser Prozesse? 
+Gut untersucht sind die Folgen auf das Norepinephrin: 
+- Es steigt und fördert Fokus, Vigilanz, Aufmerksamkeit und die Stimmung.
+- Langfristig können wir weniger Angst und Depression verspüren, Entzündungen wie Rheuma und Artritis können sich verringern.
+- Auch verspricht die Kätetheraphie Hilfe bei neurodegenerativen Erkrankungen.
+- Sie erhöht Adiponektin, das wichtig für die Blutzuckerregulation ist.
+- Es kommt zur Aktivierung von braunem Fettgewebe und die Dichte der Mitochondrien erhöht sich.
+- In Folge kommt es zu verbessertertem Schlaf, vor allem der Tiefschlafphase.
+- Harnsäure kann reduziert werden und Glutathion erhöht werden, so können Entzündungen verringern und das Immunsystem aktiviert werden.
+- In der Kombination von Hitze können wir die Effekte sogar potenzieren, so zum Besipiel durch Wechselbäder.
 
 ## Risiken
-
-- Post workout: Unterdrückung von Entzündungen, dadurch evtl. verlangsamtes Muskelwachstum
-- Mehr Hunger
-- Erhöhtes Risiko für virale Infekte im Open Window (10-20 Minuten nach der Behandlung)
-- Eventuell weniger Testosteron durch erhöhtes Cortisol
-- Chronische Kälte: Risiko für Neuropathien - Erfrierungen
-
-## Resultate
-
-"79% of participants in the interventions groups completed the 30 consecutive days protocol. A negative binomial regression model showed a 29% reduction in sickness absence for (hot-to-) cold shower regimen compared to the control group (incident rate ratio: 0.71, P = 0.003). For illness days there was no significant group effect. No related serious advents events were reported."
-
-## Mögliche Hack Kombination
-Den **Bodyhack "Cryo"** können wir natürlich gerne auch mit dem [**Bodyhack "..."**](2024-01-05-brainhack-smart-goals.md) kombinieren und so die Vorteile von Kälteschock- und Hitzeschockproteinen nutzen.
-
+Bei all den Vorteilen, sollten wir auch die Risiken beleuchten. 
+So können zum Beispiel nach dem Training Entzündungensprozesse auch erwünscht sein, um das Muskelwachstum zu aktivieren. 
+Die Kälte unterdrückt jedoch Entzündungen und kann dadurch eventuell das Muskelwachstum verlangsamen.
+Kälte kann außerdem zu mehr Hunger führen, da der Körper nach Energie sucht.
+10Im sogennaten Open WIndow 10-20 Minuten nach der Behandlung steigt das Risiko für virale Infekte ersteinmal an, bevor es sich verringert. 
+In dieser Zeit sollte man es also möglichts vermeiden, mit Viren in Kontakt zu kommen.
+Auch auf den Hormonspiegel hat die Kälte Einfluss, da das Cortisol steigt, wird kurzfristig eventuell weniger Testosteron produziert.
+Ist man nicht vorsichtig und setzte sich der Kälte zu lange aus, steigt das Risiko für Neuropathien, also Erfrierungen.
 
 # Hack Rating
 Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
 
-Zeitaufwand: mittel - hoch
+Zeitaufwand: gering - hoch _Ich integriere die Kältetheraphie für 2 Minuten am Ende meiner täglichen Dusche_
 
-Kosten: mittel - hoch _Je nachdem_
+Kosten: mittel - hoch _Je nachdem, ob wir uns einfach unter die kalte Dusche stellen, ein Eisbad im See oder der Sauna nehmen oder uns unseren eigene Eistonne kaufen._
 
 Effizienz: hoch
 
