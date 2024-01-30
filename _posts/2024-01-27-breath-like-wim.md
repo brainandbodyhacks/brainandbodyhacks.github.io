@@ -27,7 +27,7 @@ Denn die spezielle Atemtechnik sorgt dafür, dass unser Körper vermehrt mit Sau
 
 Die Folge: Wir sind danach konzentrierter, können uns besser fokussieren und fühlen uns energetischer. Langfristig kann die Methode, wenn sie kontinuierlich durchgeführt wird, uns auch stressresistenter machen.
 
-Die **Wirkungen der Atmung** im Körper sind wissenschaftlichen gut belegt, wie in [1] und [2].
+Die **Wirkungen der Atmung** im Körper sind wissenschaftlichen gut belegt, wie in [^1] und [^2].
 
 # Beispiele
 Hinweis: **Führe die Übungen an einem sicheren Ort durch, an dem Du Dich entspannen und voll und Deine Atmung konzentrieren kannst.**
@@ -90,8 +90,6 @@ Effizienz: hoch - _Die Steigerung meiner Resilienz ist bei mir durch diese tägl
 
 - [Get your toolkit for breathing better with James Nestor](https://www.youtube.com/watch?v=grxIfNWkfDo)
 
-  
+[^1]: - [Breathing matters - PubMed](https://pubmed.ncbi.nlm.nih.gov/29740175/)
 
-[^1]: [Breathing matters - PubMed](https://pubmed.ncbi.nlm.nih.gov/29740175/)
-
-[^2]: [Acute Effects of the Wim Hof Breathing Method on Repeated Sprint Ability - A Pilot Study - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424088/)
+[^2]: - [Acute Effects of the Wim Hof Breathing Method on Repeated Sprint Ability - A Pilot Study - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424088/)
