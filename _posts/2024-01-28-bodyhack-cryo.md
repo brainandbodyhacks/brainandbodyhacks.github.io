@@ -29,7 +29,7 @@ Hier ein paar Fakten aus der Wissenschaft:
 
 ## Kälteschockproteine (CSPs)
 Was sind Kälteschockproteine oder kurz CSPs?
-CSPs sind RNA/DNA bindende Proteine mit sogenannten "cold shock domains".
+CSPs sind RNA/DNA bindende Proteine mit sogenannten "cold shock domains" [^1].
 Sie sind verantwortlich für die Reparatur fehlgefalteter Proteine und RNA. Es gibt verschiedene Typen von CSPs, so wird zum Beispiel die Y-box Familie als potentielles Ziel in der Krebstherapie gesehen. Andere CSPs sind Lin28, CARHSP1 oder PIPPiin.
 
 ## Effekte der Kälte
@@ -44,7 +44,7 @@ Es kommt zur Energieproduktion im Skelettmuskel und starkes Zittern verbrennt Fe
 
 ## Vorteile
 Was sind nun die Vorteile dieser Prozesse? 
-Gut untersucht sind die folgenden Effekte [^1] [^2]: 
+Gut untersucht sind die folgenden Effekte [^2] [^3]: 
 - Das Norepinephrin steigt und fördert Fokus, Vigilanz, Aufmerksamkeit und die Stimmung.
 - Langfristig können wir weniger Angst und Depression verspüren, Entzündungen wie Rheuma und Arthritis können sich verringern.
 - Auch verspricht die Kältetheraphie Hilfe bei neurodegenerativen Erkrankungen.
@@ -76,5 +76,6 @@ Effizienz: hoch
 # Mehr zum Thema
 - [Stronger by Stress, Siim Land](https://www.bing.com/ck/a?!&&p=2934346fe6291614JmltdHM9MTcwNTYyMjQwMCZpZ3VpZD0wYmNhZjY5My05OWI2LTY4NjQtMzMxYy1lNTYxOThkNTY5OTUmaW5zaWQ9NTE1MQ&ptn=3&ver=2&hsh=3&fclid=0bcaf693-99b6-6864-331c-e56198d56995&u=a1L3ZpZGVvcy9zZWFyY2g_cT1TdHJvbmdlcitieStTdHJlc3MlMmMrU2lpbStMYW5kJnFwdnQ9U3Ryb25nZXIrYnkrU3RyZXNzJTJjK1NpaW0rTGFuZCZGT1JNPVZEUkU&ntb=1)
 
-[^1]: - [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161749)
-[^2]: - [Cold-water immersion and other forms of cryotherapy: physiological changes potentially affecting recovery from high-intensity exercise](https://pubmed.ncbi.nlm.nih.gov/24004719/)
+[^1]: - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6158828/
+[^2]: - [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161749)
+[^3]: - [Cold-water immersion and other forms of cryotherapy: physiological changes potentially affecting recovery from high-intensity exercise](https://pubmed.ncbi.nlm.nih.gov/24004719/)
