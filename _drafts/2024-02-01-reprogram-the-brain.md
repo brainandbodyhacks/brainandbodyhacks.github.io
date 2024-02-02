@@ -8,6 +8,11 @@ tags: brainhack
 
 # Problem und Zielsetzung
 
+## Problem
+Du befindest Dich täglich in emotional herausfordernden Situationen, hast viele Anforderungen in Deinem Leben, so dass Du oft in einem Zustand des Stresses gefangen bist.
+
+## Zielsetzung
+Du möchtest Deine unbewussten Programme im Gehirn erkennen - diejenigen, die Dich in den Stressmodus versetzen - und bestenfalls ersetzen durch neue, hilfreichere Programme der Gelassenheit.
 
 ## Wie enstehen diese Prorgamme?
 Gefühle und Emotionen sind der Fingerabdruck vergangener Gefühle.
@@ -20,10 +25,9 @@ Die Frage für diese Person ist, ob es möglich ist, ein anderes Gefühl zu empf
 
 ## Wie können wir diese Programme ändern?
 Die Forschung zeigt, dass der Weg, das Gehirn tatsächlich zu Ihren Gunsten umzuprogrammieren, darin besteht, zu lernen, unsere Gehirnwellen zu regulieren.
-Wir müssen sozusagen in das Betriebssystem unseres gehirns einsteigen, um unsere Programme zu ändern.
+Wir müssen sozusagen in das Betriebssystem unseres Gehirns einsteigen, um unsere Programme zu ändern.
 
 ## Beispiele
-- Damit wir anfangen können, diese Programme zu ändern, müssen wir in das Betriebssystem einsteigen -> Wir müssen unsere Gehirnwellen verlangsamen.
 Die meisten Menschen haben so viele Anforderungen in ihrem Leben und damit auch so viele emotionale Reaktionen auf Umstände in ihrem Leben, dass sie permanent in einem Zustand des Stresses und des Überlebens sind.
 Sie fokussieren also andauerns auf die äußere Umgebung, damit neigt ihr Gehirn dazu, in einem hohen Bereich zu arbeiten. 
 Wie beim Fahren eines Sportwagens im ersten Gang, bedeutet das einen enorm hohen Energieverbrauch für das Gehirn.
