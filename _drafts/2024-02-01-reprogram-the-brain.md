@@ -32,13 +32,35 @@ Die meisten Menschen haben so viele Anforderungen in ihrem Leben und damit auch 
 Sie fokussieren also andauerns auf die äußere Umgebung, damit neigt ihr Gehirn dazu, in einem hohen Bereich zu arbeiten. 
 Wie beim Fahren eines Sportwagens im ersten Gang, bedeutet das einen enorm hohen Energieverbrauch für das Gehirn.
 Wir befinden uns inm Zustand der Betha-Gehirnwellen: Wir sind uns der Körper, der Umwelt, der Zeit bewusst, der Neokortex ist eingeschaltet, Dinge, die wir intellektuell gelernt haben. Er ist zum größten Teil ein Speicher der Vergangenheit und wir denken die gleichen Gedanken wie am Tag zuvor - das sind unsere Programme.
-WIe können wir unsere Gehirnwellen verlangsamen ?
 
-**Das Default Mode Network (DMN; Ruhezustandsnetzwerk)**:
-aktiviert bei z.B. Tagträumen,  sozialer Kognition, d.h. beim von äusseren Reizen unabhängigen Denken. Zu den beteiligten Hirnregionen gehören der ventro-mediale präfrontale Kortex (vmPFC), Praecuneus, der posteriore cinguläre Kortex (PCC) und der Lobulus parietalis superior:
-**Das Central Executive Network (CEN; Zentrale Exekutive)**:
-aktiviert bei kognitiven Funktionen wie Arbeitsgedächtnis, Problemlösen, Entscheidungsfindung. Die wichtigsten Strukturen sind der dorsolaterale präfrontale Kortex (dlPFC) und der posteriore Parietalkortex (PPC)
-**Das Salience Network (SN; Salience-Netzwerk)**:
-detektiert Auffälligkeiten und steuert damit das Verhalten zu den aktuellen Notwendigkeiten. Es beinhaltet den anterioren insulären Kortex (AI)und den dorsalen anterioren cingulären Kortex (dACC) mit Konnektivität zu subkortikalen und limbischen Strukturen:
-Man geht davon aus, dass das Salient Network die Aktivitäten des DMN und des CEN moduliert, d.h. das CEN aktiviert bzw. das DMN deaktiviert und umgekehrt, je nachdem ob nach aussen oder innen gerichtete Aufmerksamkeit und kognitiv-emotionale Verarbeitung notwendig ist. Es schaltet also zwischen dem lateralen frontoparietalen CEN und dem medialen frontoparietalen DMN hin und her, um die Aufmerksamkeit auf aufgabenrelevanten Zielen zu halten:
+Die Frequenzen der Gehirnwellen überlagern sich und entsprechen verschiedenen Bewusstseinszuständen [^1]:
+
+**Gamma-Wellen** sind wichtig für das Lernen und die Informationsverarbeitung und sind an Prozessen, wie z. B. den Körperbewegungen im Gehirnsystem beteiligt. Sie schwingen mit Frequenzen zwischen 30−100 Zyklen pro Sekunde.
+
+**Beta-Wellen** sind an den fünf Sinnen beteiligt und werden durch kognitive Aktivitäten verstärkt. Sie schwingen mit Frequenzen zwischen 12,5−30 Zyklen pro Sekunde.
+
+**Alpha-Wellen** verbinden wir mit dem normalen Wachzustand, dem Entspannungszustand, sowie mit dem Übergang zwischen Wach- und Schlafzustand und können auch mit einigen Formen der Meditation aktiviert werden. Im Zustand der Alpha-Wellen können wir unsere Kreativität und Lernfähigkeit boosten. Sie schwingen mit Frequenzen zwischen 7,5−12 Zyklen pro Sekunde.
+
+**Theta-Wellen** sind der natürliche Zustand des Gehirns, der Standardmodus des Gehirns, wenn der Geist in Ruhe ist, wenn wir tagträumen oder leicht schlafen. Sie schwingen mit einer Frequenz von 4−7,5 Zyklen pro Sekunde.
+
+**Delta-Wellen** werden mit wichitgen Wiederherstellungs- und Heilungsprozesse im tiefem, traumlosem Schlaf in Verbindung gebracht, dem Zustand des Unterbewussts. Sie schwingen mit Frequenzen zwischen 0,5−4 Zyklen pro Sekunde und sind die langsamsten Gehirnwellen.
+
+Gerade die Theta Welllen werden sind für die Entspannung eine interessante Sache. 
+Denn die frontale Theta-Aktivität ist ein Index für die Aktivität des Default Mode Network (DMN) des Gehirns. −  (Scheeringa et al., 2008)
+Das Default Mode Network ist das Ruhezustandsnetzwerk, die Gehirnaktivität im Ruhezustand, wenn es sich nicht mit bestimmten Aufgaben beschäftigt. Es springt an, wenn wir Tagträumen oder von äusseren Reizen unabhängigen denken, wenn unsere  Gedanken wandern (Mason et al., 2007). Beteiligte Hirnregionen sind der ventro-mediale präfrontale Kortex, Praecuneus, der posteriore cinguläre Kortex und der Lobulus parietalis superior.
+
+Eine erhöhte frontale Theta-Aktivität deutet also daraufhin, dass die Aktivität im DMN verringert ist und kann ein Hinweis auf ein höheres subjektives Wohlbefinden und
+höhere Resilienz sein [^1].
+Ein erhöhtes DMN wurde dagegen mit anhaltender gesteigerter Wachheit, Übererregbarkeit und damit ein verringertes Wohlbefinden in Verbindung gebracht [^2].
+
+## Wie können wir also unsere Gehirnwellen verlangsamen ?
+Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, 
+
+## Mehr zum Thema
+
+- [Die Erforschung der Hirnwellen](https://www.deutschlandfunkkultur.de/rhythmen-im-gehirn-die-erforschung-der-hirnwellen-100.html)
+
+[^1]: [Psychological resilience is correlated with dynamic changes in functional connectivity within the default mode network during a cognitive task](https://pubmed.ncbi.nlm.nih.gov/33082442/)
+
+[^2]: [Brain networks of happiness: dynamic functional connectivity among the default, cognitive and salience networks relates to subjective well-being](https://academic.oup.com/scan/article/13/8/851/5054957)
 
