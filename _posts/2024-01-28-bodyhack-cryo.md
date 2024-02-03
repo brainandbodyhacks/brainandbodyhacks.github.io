@@ -39,12 +39,12 @@ Diese bewirken eine Redirektion des Blutflusses nach zentral, der Blutfluss wird
 
 Wenn dieser Mechanismus erschöpft ist, kommt es zu den sogenannten **metabolic Changes**.
 Dies sind metabolische Veränderungen durch eine vermehrte Hitzeproduktion durch Zittern und der "non-shivering adaptive Thermogenesis", kurz NST:
-Die Mitochondrien haben einen Prozess, der sich "Uncoupling" nennt, beim Uncoupling werden Nährstoffe "verschwendet", um Wärme produzieren zu können.
+In den Mitochondrien wird ein Prozess aktiviert, der sich "Uncoupling" nennt, beim Uncoupling werden Nährstoffe "verschwendet", um Wärme produzieren zu können [^2].
 Es kommt zur Energieproduktion im Skelettmuskel und starkes Zittern verbrennt Fettsäuren und Glykogen.
 
 ## Vorteile
 Was sind nun die Vorteile dieser Prozesse? 
-Gut untersucht sind die folgenden Effekte [^2] [^3]: 
+Gut untersucht sind die folgenden Effekte [^3] [^4]: 
 - Das Norepinephrin steigt und fördert Fokus, Vigilanz, Aufmerksamkeit und die Stimmung.
 - Langfristig können wir weniger Angst und Depression verspüren, Entzündungen wie Rheuma und Arthritis können sich verringern.
 - Auch verspricht die Kältetheraphie Hilfe bei neurodegenerativen Erkrankungen.
@@ -78,6 +78,9 @@ Effizienz: hoch
 
 [^1]: - [Cold shock proteins: from cellular mechanisms to pathophysiology and disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6158828/)
 
-[^2]: - [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161749)
+[^2]: - [Mitochondrial Uncoupling: A Key Controller of Biological Processes in Physiology and Diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721602/)
 
-[^3]: - [Cold-water immersion and other forms of cryotherapy: physiological changes potentially affecting recovery from high-intensity exercise](https://pubmed.ncbi.nlm.nih.gov/24004719/)
+[^3]: - [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161749)
+
+[^4]: - [Cold-water immersion and other forms of cryotherapy: physiological changes potentially affecting recovery from high-intensity exercise](https://pubmed.ncbi.nlm.nih.gov/24004719/)
+
