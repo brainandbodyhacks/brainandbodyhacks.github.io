@@ -56,6 +56,15 @@ Ein erhöhtes DMN wurde dagegen mit anhaltender gesteigerter Wachheit, Übererre
 ## Wie können wir also unsere Gehirnwellen verlangsamen ?
 Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, 
 
+**Das Default Mode Network (DMN; Ruhezustandsnetzwerk)**:
+aktiviert bei z.B. Tagträumen,  sozialer Kognition, d.h. beim von äusseren Reizen unabhängigen Denken. Zu den beteiligten Hirnregionen gehören der ventro-mediale präfrontale Kortex (vmPFC), Praecuneus, der posteriore cinguläre Kortex (PCC) und der Lobulus parietalis superior:
+**Das Central Executive Network (CEN; Zentrale Exekutive)**:
+aktiviert bei kognitiven Funktionen wie Arbeitsgedächtnis, Problemlösen, Entscheidungsfindung. Die wichtigsten Strukturen sind der dorsolaterale präfrontale Kortex (dlPFC) und der posteriore Parietalkortex (PPC)
+**Das Salience Network (SN; Salience-Netzwerk)**:
+detektiert Auffälligkeiten und steuert damit das Verhalten zu den aktuellen Notwendigkeiten. Es beinhaltet den anterioren insulären Kortex (AI)und den dorsalen anterioren cingulären Kortex (dACC) mit Konnektivität zu subkortikalen und limbischen Strukturen:
+Man geht davon aus, dass das Salient Network die Aktivitäten des DMN und des CEN moduliert, d.h. das CEN aktiviert bzw. das DMN deaktiviert und umgekehrt, je nachdem ob nach aussen oder innen gerichtete Aufmerksamkeit und kognitiv-emotionale Verarbeitung notwendig ist. Es schaltet also zwischen dem lateralen frontoparietalen CEN und dem medialen frontoparietalen DMN hin und her, um die Aufmerksamkeit auf aufgabenrelevanten Zielen zu halten:
+
+
 
 For example, relative to happy people, unhappy people are more sensitive to negative feedback and show self-focused cognition (rumination) 
 contrast, compared to individuals with low levels of well-being, individuals with high levels of well-being are more likely to maintain and enhance positive emotions and thoughts in working memor.
