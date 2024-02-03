@@ -44,19 +44,18 @@ Bei den höheren Frequenzen sind wir fokussiert, wach, aber auch erregbar oder i
 **Delta-Wellen** Das sind die langsamen, tiefen Wellen. Sie werden mit wichtigen Wiederherstellungs- und Heilungsprozessen im tiefen, traumlosen Schlaf in Verbindung gebracht, dem Zustand des Unterbewusstseins. Man sagt auch, sie sind die Quelle der Empathie. Sie schwingen mit Frequenzen zwischen 0,5−4 Zyklen pro Sekunde und sind die langsamsten Gehirnwellen.
 
 Eine Studie untersuchte den Zusammenhang von subjektivem Wohlbefinden und der Aktivierung der unterschiedlichen Gehirnbereiche.
-Bein Tagträumen und dem von äußeren Reizen unabhängigen Denken wird zum Beispiel das sogenannte "Default Mode Network" oder auch Ruhezustandsnetzwerk aktiviert. 
-Das Central Executive Network oder Zentrale Exekutive wird beim Problemlösen, Entscheidungsfindung aktiviert. 
-Und das Salience Network oder Salience-Netzwerk detektiert Auffälligkeiten und steuert damit das Verhalten zu den aktuellen Notwendigkeiten. 
+Beim Tagträumen und dem von äußeren Reizen unabhängigen Denken wird zum Beispiel das sogenannte "Default Mode Network" aktiviert. Das Default Mode Network ist ein Gehirnwellenzustand, der langsamer als Delta ist.
+Dagegen springt das "Central Executive Network" beim Problemlösen und bei der Entscheidungsfindung an. 
+Und das Salience-Netzwerk spielt eine wichtige Rolle bei der Umschaltung des Executive-Netzwerks und des Default Mode Network. Es detektiert Auffälligkeiten und steuert damit das Verhalten.
 Eine erhöhte frontale Theta-Aktivität deutet daraufhin, dass die Aktivität im Default Mode Network verringert ist und kann ein Hinweis auf ein höheres subjektives Wohlbefinden und
 höhere Resilienz sein [^1].
+
 Ein erhöhtes Default Mode Network wurde dagegen mit anhaltender gesteigerter Wachheit, Übererregbarkeit und damit ein verringertes Wohlbefinden in Verbindung gebracht [^2].
-Die Studie hat gezeigt, dass die Lebenszufriedenheit mit dem regionalen Volumen der grauen Substanz in den Kernregionen des Default Mode Network, 
-und dem Salienznetzwerk, das eine wichtige Rolle bei der Umschaltung des Executive-Netzwerks und des Standardnetzwerks spielt, korreliert.
-Die Ergebnisse deuten konsequent darauf hin, dass die dynamischen Interaktionen zwischen den Netzwerken eine wichtige Rolle beim subjektiven Wohlbefinden spielen [^2].
+Die Studie hat gezeigt, dass die Lebenszufriedenheit mit dem Volumen der grauen Substanz in den Kernregionen des Default Mode Network und dem Salience-Netzwerk korreliert.
+Die Ergebnisse deuten konsequent darauf hin, dass die dynamischen Interaktionen zwischen den Netzwerken eine wichtige Rolle für das subjektive Wohlbefinden spielen [^2].
 
 **Die Forschung zeigt, dass wir unser Gehirn tatsächlich zu Ihren Gunsten bedienen können, indem wir lernen, unsere Gehirnwellen zu regulieren.**
-Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, uns kreativ oder handwerklich betätigen. Neben all der Zeit, die wir im Beta-Modus verbringen, um Probleme zu lösen und Entscheidungen zu treffen, 
-sollten wir ganz bewusst und konsequent Zeit einräumen, in der wir von äußeren Reizen unabhängig sind.
+Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, uns kreativ oder handwerklich betätigen. Auch mit Musik, zum Beispiel durch "binaural beats", können wir unsere brainwaves runterfahren. Wir konnen diesen Zustand also üben und dadurch neue Verbindungen im Gehirn schaffen und stärken. Neben all der Zeit, die wir im Beta-Modus verbringen, um Probleme zu lösen und Entscheidungen zu treffen, sollten wir ganz bewusst und konsequent Zeit einräumen, in der wir von äußeren Reizen unabhängig sind.
 
 - [Die Erforschung der Hirnwellen](https://www.deutschlandfunkkultur.de/rhythmen-im-gehirn-die-erforschung-der-hirnwellen-100.html)
 
