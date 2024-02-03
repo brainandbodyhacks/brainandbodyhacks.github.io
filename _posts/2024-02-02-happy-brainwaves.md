@@ -31,7 +31,7 @@ Und sie ändern sich mit unseren Gedanken und Gefühlen.
 Sind langsamere Gehirnwellen aktiv, so können wir uns müde, langsam, aber auch entspannt und träumerisch fühlen.
 Bei den höheren Frequenzen sind wir fokussiert, wach, aber auch erregbar oder im Stress-Modus.
 
-## Besipiele:
+## Beispiele:
 **Gamma-Wellen** sind die schnellsten Gehirnwellen. Sie sind wichtig für das Lernen und die Informationsverarbeitung und sind an Prozessen, wie z. B. den Körperbewegungen im Gehirnsystem beteiligt. Sie schwingen mit Frequenzen zwischen 30−100 Zyklen pro Sekunde.
 
 **Beta-Wellen** sind die Wellen, die unseren normalen Wachzustand dominieren, wenn wir uns Aufgaben zuwenden, Entscheidungen treffen, wachsam und aufmerksam sind. Sie sind an den fünf Sinnen beteiligt und werden durch kognitive Aktivitäten verstärkt. Sie schwingen mit Frequenzen zwischen 12,5−30 Zyklen pro Sekunde und werden nochmal in 3 Bänder unterteilt für Lo-Beta, Beta und Hi-Beta.
