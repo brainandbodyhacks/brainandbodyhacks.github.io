@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brainhack "Happy Brainwaves"
-summary: Mit dem Brainhack "Happy Brainwaves" kannst Du Dein Gehirn quasi umprogrammieren.. .
+summary: Mit dem Brainhack "Happy Brainwaves" kannst Du Deine Gehirnwellen beeinflussen, so dass Du Dein subjektives Wohlbefinden erhöhen kannst.
 lang: de
 tags: brainhack
 ---
@@ -12,7 +12,7 @@ tags: brainhack
 Du befindest Dich täglich in emotional herausfordernden Situationen, hast viele Anforderungen in Deinem Leben, so dass Du oft in einem Zustand des Stresses gefangen bist.
 
 ## Zielsetzung
-Du möchtest Deine unbewussten Programme im Gehirn erkennen - diejenigen, die Dich in den Stressmodus versetzen - und bestenfalls ersetzen durch neue, hilfreichere Programme der Gelassenheit.
+Du möchtest Dein subjektives Wohlbefinden erhöhen, indem Du als smarter Gehirnbenutzer bewusst einen Zustand der Gelassenheit herbeiführst.
 
 ## Wie enstehen diese Prorgamme?
 Gefühle und Emotionen sind der Fingerabdruck vergangener Gefühle.
