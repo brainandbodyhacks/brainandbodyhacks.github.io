@@ -19,7 +19,7 @@ Du möchtest Entzündungen reduzieren oder Dein Immunsystem aktivieren.
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 **Bodyhack "Cryo"**:
-Du kannst den Hack nutzen, um diverse positive Effekte für den Körper hervorrufen, die durch die Aktivierung von sogenannten Kälteschockproteinen ausgelöst werden. 
+Du kannst den Hack nutzen, um diverse positive Effekte für den Körper hervorzurufen, die durch die Aktivierung von sogenannten Kälteschockproteinen ausgelöst werden. 
 
 Kryotherapie - die Behandlung mit Kälte - wird häufig nach dem Sport eingesetzt, um die Genesung zu beschleunigen. 
 Die Hauptursache für die Wirksamkeit der Kryotherapie ist die durch die Kälte hervorgerufene Senkung der Gewebetemperatur.
