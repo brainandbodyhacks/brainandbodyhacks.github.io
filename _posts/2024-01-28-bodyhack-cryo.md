@@ -10,7 +10,7 @@ tags: bodyhack
 # Problem und Zielsetzung
 
 ## Was ist das Problem?
-Du hast entzündlich Prozesse im Körper und bzw. oder Dein Immunsystem ist nicht das Beste.
+Du hast entzündlich Prozesse im Körper oder Dein Immunsystem ist nicht das Beste.
 
 ## Was ist das Ziel?
 Du möchtest Entzündungen reduzieren oder Dein Immunsystem aktivieren. 
@@ -22,7 +22,7 @@ Du möchtest Entzündungen reduzieren oder Dein Immunsystem aktivieren.
 Du kannst den Hack nutzen, um diverse positive Effekte für den Körper hervorrufen, die durch die Aktivierung von sogenannten Kälteschockproteinen ausgelöst werden. 
 
 Kryotherapie - die Behandlung mit Kälte - wird häufig nach dem Sport eingesetzt, um die Genesung zu beschleunigen. 
-Die Hauptursache für die Wirksamkeit der Kryotherapie ist die durch die Kältetherapie hervorgerufene Senkung der Gewebetemperatur.
+Die Hauptursache für die Wirksamkeit der Kryotherapie ist die durch die Kälte hervorgerufene Senkung der Gewebetemperatur.
 Diese hat Auswirkungen auf die Durchblutung, den Stoffwechsel, die Zellschwellung und die neuronale Leitfähigkeit.
 Die Mechanismen, die den Erholungseffekten zugrunde liegen, sind jedoch nach wie vor schwer zu greifen.
 Hier ein paar Fakten aus der Wissenschaft:
@@ -33,12 +33,12 @@ CSPs sind RNA/DNA bindende Proteine mit sogenannten "cold shock domains" [^1].
 Sie sind verantwortlich für die Reparatur fehlgefalteter Proteine und RNA. Es gibt verschiedene Typen von CSPs, so wird zum Beispiel die Y-box Familie als potentielles Ziel in der Krebstherapie gesehen. Andere CSPs sind Lin28, CARHSP1 oder PIPPiin.
 
 ## Effekte der Kälte
-Durch Kälte werden diverse Effekte im Körper ausgelöst.
+Durch die Kälte werden diverse Effekte im Körper ausgelöst.
 Zunächst kommt es zu den **insulativen Effekten**: 
 Diese bewirken eine Redirektion des Blutflusses nach zentral, der Blutfluss wird also umgeleitet zu den Organen, an denen das Blut am dringendsten gebraucht wird, wie Herz, Leber und Nieren. Es kommt zu Gänsehaut, wir suchen die Wärme und haben einen verminderten Blutfluss.
 
-Wenn dieser Mechanismus erschöpft ist, kommt es zu den sogenannten **metabolic Changes **.
-Dies sind metabolische Veränderungen durch eine vermehrte Hitzeproduktion durch Zittern und der "non-shivering adaptive Thermogenesis", kurz NST: 
+Wenn dieser Mechanismus erschöpft ist, kommt es zu den sogenannten **metabolic Changes**.
+Dies sind metabolische Veränderungen durch eine vermehrte Hitzeproduktion durch Zittern und der "non-shivering adaptive Thermogenesis", kurz NST:
 Die Mitochondrien haben einen Prozess, der sich "Uncoupling" nennt, beim Uncoupling werden Nährstoffe "verschwendet", um Wärme produzieren zu können.
 Es kommt zur Energieproduktion im Skelettmuskel und starkes Zittern verbrennt Fettsäuren und Glykogen.
 
@@ -51,8 +51,8 @@ Gut untersucht sind die folgenden Effekte [^2] [^3]:
 - Sie erhöht Adiponektin, das wichtig für die Blutzuckerregulation ist.
 - Es kommt zur Aktivierung von braunem Fettgewebe und die Dichte der Mitochondrien erhöht sich.
 - In Folge kommt es zu verbessertem Schlaf, vor allem der Tiefschlafphase.
-- Harnsäure kann reduziert werden und Glutathion erhöht werden, so können Entzündungen verringern und das Immunsystem aktiviert werden.
-- In der Kombination von Hitze können wir die Effekte sogar potenzieren, so zum Beispiel durch Wechselbäder.
+- Harnsäure kann reduziert und Glutathion erhöht werden, so können Entzündungen verringern und das Immunsystem aktiviert werden.
+- In der Kombination mit Hitze können wir die Effekte sogar potenzieren, so zum Beispiel durch Wechselbäder.
 
 ## Risiken
 Bei all den Vorteilen sollten wir auch die Risiken beleuchten. 
