@@ -54,7 +54,7 @@ Ein erhöhtes Default Mode Network wurde dagegen mit anhaltender gesteigerter Wa
 Die Studie hat gezeigt, dass die Lebenszufriedenheit mit dem Volumen der grauen Substanz in den Kernregionen des Default Mode Network und dem Salience-Netzwerk korreliert.
 Die Ergebnisse deuten konsequent darauf hin, dass die dynamischen Interaktionen zwischen den Netzwerken eine wichtige Rolle für das subjektive Wohlbefinden spielen [^2].
 
-**Die Forschung zeigt, dass wir unser Gehirn tatsächlich zu Ihren Gunsten bedienen können, indem wir lernen, unsere Gehirnwellen zu regulieren.**
+**Die Forschung zeigt, dass wir unser Gehirn tatsächlich zu unseren Gunsten bedienen können, indem wir lernen, unsere Gehirnwellen zu regulieren.**
 Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, uns kreativ oder handwerklich betätigen. Auch mit Musik, zum Beispiel durch "binaural beats", können wir unsere brainwaves runterfahren. Wir konnen diesen Zustand also üben und dadurch neue Verbindungen im Gehirn schaffen und stärken. Neben all der Zeit, die wir im Beta-Modus verbringen, um Probleme zu lösen und Entscheidungen zu treffen, sollten wir ganz bewusst und konsequent Zeit einräumen, in der wir von äußeren Reizen unabhängig sind.
 
 - [Die Erforschung der Hirnwellen](https://www.deutschlandfunkkultur.de/rhythmen-im-gehirn-die-erforschung-der-hirnwellen-100.html)
