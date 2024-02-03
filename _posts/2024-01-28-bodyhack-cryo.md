@@ -33,7 +33,7 @@ CSPs sind RNA/DNA bindende Proteine mit sogenannten "cold shock domains" [^1].
 Sie sind verantwortlich für die Reparatur fehlgefalteter Proteine und RNA. Es gibt verschiedene Typen von CSPs, so wird zum Beispiel die Y-box Familie als potentielles Ziel in der Krebstherapie gesehen. Andere CSPs sind Lin28, CARHSP1 oder PIPPiin.
 
 ## Effekte der Kälte
-Durch die Kälte werden diverse Effekte im Körper ausgelöst.
+Durch die Kälte und Aktivierung der CSPs werden diverse Effekte im Körper ausgelöst.
 Zunächst kommt es zu den **insulativen Effekten**: 
 Diese bewirken eine Redirektion des Blutflusses nach zentral, der Blutfluss wird also umgeleitet zu den Organen, an denen das Blut am dringendsten gebraucht wird, wie Herz, Leber und Nieren. Es kommt zu Gänsehaut, wir suchen die Wärme und haben einen verminderten Blutfluss.
 
