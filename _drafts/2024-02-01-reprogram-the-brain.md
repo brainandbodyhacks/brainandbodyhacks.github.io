@@ -14,6 +14,38 @@ Du befindest Dich täglich in emotional herausfordernden Situationen, hast viele
 ## Zielsetzung
 Du möchtest Dein subjektives Wohlbefinden erhöhen, indem Du als smarter Gehirnbenutzer bewusst einen Zustand der Gelassenheit herbeiführst.
 
+## Was sind Brainwaves
+Die meisten Menschen haben so viele Anforderungen in ihrem Leben und damit auch so viele emotionale Reaktionen auf Umstände in ihrem Leben, dass sie permanent in einem Zustand des Stresses und des Überlebens sind.
+Sie fokussieren also andauerns auf die äußere Umgebung, damit neigt ihr Gehirn dazu, in einem hohen Bereich zu arbeiten. 
+Wie beim Fahren eines Sportwagens im ersten Gang, bedeutet das einen enorm hohen Energieverbrauch für das Gehirn.
+Wir befinden uns im Zustand der Betha-Gehirnwellen: Wir sind uns der Körper, der Umwelt, der Zeit bewusst, der Neokortex ist eingeschaltet, Dinge, die wir intellektuell gelernt haben. Er ist zum größten Teil ein Speicher der Vergangenheit und wir denken die gleichen Gedanken wie am Tag zuvor.
+
+Alle Gedanken, Emotionen und Verhaltensweisen haben ihren Ursprung im Gehirn. Neuronen kommunizieren miteinander und die elektrischen Impulse die entstehen, wenn viele tausende Neuronen synchronisiert gleichzeitig miteinander kommunizieren, nennen wir Gehirnwellen, die Brainwaves. Man kann diese Wellen über Sensoren detektieren und in verschiedene Bandbreiten unterteilen.
+Diese Bandbreiten der Gehirnwellen überlagern sich und entsprechen verschiedenen Bewusstseinszuständen [^1]. Sie ändern sich mit unseren Gedanken und Gefühlen.
+Sind langsamere Gehirnwellen aktiv, so können wir uns müde, langsam, aber auch entspannt und träumerisch fühlen.
+Bei den höheren Frequenzen sind wir fokussiert, wach, aber auch erregbar oder im Stress-Modus.
+Wir können uns die brainwaves auch als Musiknoten vorstellen.
+
+**Gamma-Wellen** sind die schnellsten Gehirnwellen, in der Analogie der Musik, sind sie hoch und schnell wie eine Flöte. Sie sind wichtig für das Lernen und die Informationsverarbeitung und sind an Prozessen, wie z. B. den Körperbewegungen im Gehirnsystem beteiligt. Sie schwingen mit Frequenzen zwischen 30−100 Zyklen pro Sekunde.
+
+**Beta-Wellen** sind die Wellen, die unseren normalen Wachzustand dominieren, wenn wir uns Aufgaben zuwenden, Entscheidungen treffen, wachsam und aufmerksam sind. Sie sind an den fünf Sinnen beteiligt und werden durch kognitive Aktivitäten verstärkt. Sie schwingen mit Frequenzen zwischen 12,5−30 Zyklen pro Sekunde und werden nochmal in 3 Bänder unterteilt für Lo-Beta, Beta und Hi-Beta.
+**Kontinuierlicher Betrieb im Betamodus ist ein uneffizienter Weg für das Gehirn, da dieser Modus sehr viel Energie benötigt. Der smarte Gehirnbenutzer vermeidet es also, sein Gehirn permanent im Beta-Modus zu bedienen, sondern schaltet abwechselnd auch in die anderen Modi.**
+
+**Alpha-Wellen** verbinden wir mit dem normalen Wachzustand, dem Entspannungszustand, sowie mit dem Übergang zwischen Wach- und Schlafzustand und können auch mit einigen Formen der Meditation aktiviert werden. Im Zustand der Alpha-Wellen können wir unsere Kreativität und Lernfähigkeit boosten, wir sind in der "Power of Now". Alpha-Wellen schwingen mit Frequenzen zwischen 7,5−12 Zyklen pro Sekunde.
+
+**Theta-Wellen** sind der natürliche Zustand des Gehirns, der Standardmodus des Gehirns, wenn der Geist in Ruhe ist, wenn wir tagträumen oder leicht schlafen. Wir fokussieren dann nach innen und weg von der äußeren Welt. In diesem Zustand gleiten wir von Schlaf- in Wachzustand und andersherum. Sie schwingen mit einer Frequenz von 4−7,5 Zyklen pro Sekunde.
+
+**Delta-Wellen** Das sind unsere langsamen, tiefen Töne, wie ein Trommelrhytmus. Sie werden mit wichtigen Wiederherstellungs- und Heilungsprozesse im tiefem, traumlosem Schlaf in Verbindung gebracht, dem Zustand des Unterbewussts. Man sagt auch, sie sind die Quelle der Empathie. Sie schwingen mit Frequenzen zwischen 0,5−4 Zyklen pro Sekunde und sind die langsamsten Gehirnwellen.
+
+Gerade die Theta Welllen werden sind für die Entspannung eine interessante Sache. 
+Denn die frontale Theta-Aktivität ist ein Index für die Aktivität des Default Mode Network (DMN) des Gehirns. −  (Scheeringa et al., 2008)
+Das Default Mode Network ist das Ruhezustandsnetzwerk, die Gehirnaktivität im Ruhezustand, wenn es sich nicht mit bestimmten Aufgaben beschäftigt. Es springt an, wenn wir Tagträumen oder von äusseren Reizen unabhängigen denken, wenn unsere  Gedanken wandern (Mason et al., 2007). Beteiligte Hirnregionen sind der ventro-mediale präfrontale Kortex, Praecuneus, der posteriore cinguläre Kortex und der Lobulus parietalis superior.
+
+Eine erhöhte frontale Theta-Aktivität deutet also daraufhin, dass die Aktivität im DMN verringert ist und kann ein Hinweis auf ein höheres subjektives Wohlbefinden und
+höhere Resilienz sein [^1].
+Ein erhöhtes DMN wurde dagegen mit anhaltender gesteigerter Wachheit, Übererregbarkeit und damit ein verringertes Wohlbefinden in Verbindung gebracht [^2].
+
+
 ## Wie enstehen diese Prorgamme?
 Gefühle und Emotionen sind der Fingerabdruck vergangener Gefühle.
 Wir können uns besser an Erfahrungen erinnern, wenn sie mit Emotionen verbunden sind. Wir erinnern uns daran, wie sie sich die Erfahrungen anfühlen.
@@ -31,27 +63,8 @@ Wir müssen sozusagen in das Betriebssystem unseres Gehirns einsteigen, um unser
 Die meisten Menschen haben so viele Anforderungen in ihrem Leben und damit auch so viele emotionale Reaktionen auf Umstände in ihrem Leben, dass sie permanent in einem Zustand des Stresses und des Überlebens sind.
 Sie fokussieren also andauerns auf die äußere Umgebung, damit neigt ihr Gehirn dazu, in einem hohen Bereich zu arbeiten. 
 Wie beim Fahren eines Sportwagens im ersten Gang, bedeutet das einen enorm hohen Energieverbrauch für das Gehirn.
-Wir befinden uns inm Zustand der Betha-Gehirnwellen: Wir sind uns der Körper, der Umwelt, der Zeit bewusst, der Neokortex ist eingeschaltet, Dinge, die wir intellektuell gelernt haben. Er ist zum größten Teil ein Speicher der Vergangenheit und wir denken die gleichen Gedanken wie am Tag zuvor - das sind unsere Programme.
+Wir befinden uns im Zustand der Betha-Gehirnwellen: Wir sind uns der Körper, der Umwelt, der Zeit bewusst, der Neokortex ist eingeschaltet, Dinge, die wir intellektuell gelernt haben. Er ist zum größten Teil ein Speicher der Vergangenheit und wir denken die gleichen Gedanken wie am Tag zuvor - das sind unsere Programme.
 
-Die Frequenzen der Gehirnwellen überlagern sich und entsprechen verschiedenen Bewusstseinszuständen [^1]:
-
-**Gamma-Wellen** sind wichtig für das Lernen und die Informationsverarbeitung und sind an Prozessen, wie z. B. den Körperbewegungen im Gehirnsystem beteiligt. Sie schwingen mit Frequenzen zwischen 30−100 Zyklen pro Sekunde.
-
-**Beta-Wellen** sind an den fünf Sinnen beteiligt und werden durch kognitive Aktivitäten verstärkt. Sie schwingen mit Frequenzen zwischen 12,5−30 Zyklen pro Sekunde.
-
-**Alpha-Wellen** verbinden wir mit dem normalen Wachzustand, dem Entspannungszustand, sowie mit dem Übergang zwischen Wach- und Schlafzustand und können auch mit einigen Formen der Meditation aktiviert werden. Im Zustand der Alpha-Wellen können wir unsere Kreativität und Lernfähigkeit boosten. Sie schwingen mit Frequenzen zwischen 7,5−12 Zyklen pro Sekunde.
-
-**Theta-Wellen** sind der natürliche Zustand des Gehirns, der Standardmodus des Gehirns, wenn der Geist in Ruhe ist, wenn wir tagträumen oder leicht schlafen. Sie schwingen mit einer Frequenz von 4−7,5 Zyklen pro Sekunde.
-
-**Delta-Wellen** werden mit wichitgen Wiederherstellungs- und Heilungsprozesse im tiefem, traumlosem Schlaf in Verbindung gebracht, dem Zustand des Unterbewussts. Sie schwingen mit Frequenzen zwischen 0,5−4 Zyklen pro Sekunde und sind die langsamsten Gehirnwellen.
-
-Gerade die Theta Welllen werden sind für die Entspannung eine interessante Sache. 
-Denn die frontale Theta-Aktivität ist ein Index für die Aktivität des Default Mode Network (DMN) des Gehirns. −  (Scheeringa et al., 2008)
-Das Default Mode Network ist das Ruhezustandsnetzwerk, die Gehirnaktivität im Ruhezustand, wenn es sich nicht mit bestimmten Aufgaben beschäftigt. Es springt an, wenn wir Tagträumen oder von äusseren Reizen unabhängigen denken, wenn unsere  Gedanken wandern (Mason et al., 2007). Beteiligte Hirnregionen sind der ventro-mediale präfrontale Kortex, Praecuneus, der posteriore cinguläre Kortex und der Lobulus parietalis superior.
-
-Eine erhöhte frontale Theta-Aktivität deutet also daraufhin, dass die Aktivität im DMN verringert ist und kann ein Hinweis auf ein höheres subjektives Wohlbefinden und
-höhere Resilienz sein [^1].
-Ein erhöhtes DMN wurde dagegen mit anhaltender gesteigerter Wachheit, Übererregbarkeit und damit ein verringertes Wohlbefinden in Verbindung gebracht [^2].
 
 ## Wie können wir also unsere Gehirnwellen verlangsamen ?
 Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, 
