@@ -18,7 +18,7 @@ Du möchtest Dein subjektives Wohlbefinden erhöhen, indem Du als smarter Gehirn
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
-**Brainhack Happy Brainwaves**:
+**Brainhack "Happy Brainwaves"**:
 Mit dem Brainhack "Happy Brainwaves" kannst Du Deine Gehirnwellen beeinflussen, so dass Du Dein Gehirn in einem energiesparenden Modus bedienen und Dein subjektives Wohlbefinden steigern kannst.
 Die meisten Menschen haben so viele Anforderungen und damit auch so viele emotionale Reaktionen auf Umstände in ihrem Leben, 
 dass sie permanent in einem Zustand des Stresses und des Überlebens sind.
