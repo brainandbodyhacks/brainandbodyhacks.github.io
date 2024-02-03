@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brainhack "Reprogramming Brainwaves"
-summary: Mit dem Brainhack "Reprogramming Brainwaves" kannst Du Dein Gehirn quasi umprogrammieren.. .
+title: Brainhack "Happy Brainwaves"
+summary: Mit dem Brainhack "Happy Brainwaves" kannst Du Dein Gehirn quasi umprogrammieren.. .
 lang: de
 tags: brainhack
 ---
@@ -56,7 +56,15 @@ Ein erhöhtes DMN wurde dagegen mit anhaltender gesteigerter Wachheit, Übererre
 ## Wie können wir also unsere Gehirnwellen verlangsamen ?
 Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, 
 
-## Mehr zum Thema
+
+For example, relative to happy people, unhappy people are more sensitive to negative feedback and show self-focused cognition (rumination) 
+contrast, compared to individuals with low levels of well-being, individuals with high levels of well-being are more likely to maintain and enhance positive emotions and thoughts in working memor.
+ A structural magnetic resonance imaging (MRI) study has shown that life satisfaction is associated with regional grey matter volume in the core regions of the DMN, such as the right parahippocampal gyrus, left precuneus and left ventromedial pre-frontal cortex 
+the salience network (SN), which plays an important role in switching the executive network and the default network (Goulden et al., 2014), is also involved in well-being.
+
+
+Die Ergebnisse deuten darauf hin, dass die dynamischen Interaktionen zwischen Netzwerken, die an der selbstfokussierten Verarbeitung, der emotionalen Regulation und dem kognitiven Kontrollprozess beteiligt sind, dem subjektives Wohlbefinden zugrunde liegen. Insgesamt bereicherten diese Ergebnisse das Verständnis der neuronalen Korrelate von SWB und lieferten Einblicke in die dynamischen neuronalen Grundlagen von SWB, die für zukünftige Forschungen nützlich sein werden.
+Zusammengenommen deuten diese Ergebnisse konsequent darauf hin, dass dynamische Interaktionen zwischen DMN, SN und FPN, die an der selbstfokussierten Verarbeitung, der emotionalen Regulation und der kognitiven Kontrolle beteiligt sind, eine wichtige Rolle beim subjektives Wohlbefinden spielen.
 
 - [Die Erforschung der Hirnwellen](https://www.deutschlandfunkkultur.de/rhythmen-im-gehirn-die-erforschung-der-hirnwellen-100.html)
 
