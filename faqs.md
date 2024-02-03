@@ -8,6 +8,8 @@ title: FAQs
 
 {% include_relative _faqs/faq-dumb-under-stress.md %}
 
+{% include_relative _faqs/faq-how-to-with-hacks.md %}
+
 
 
 
