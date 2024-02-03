@@ -1,4 +1,4 @@
-## Warum werden wir quasi blöd, wenn wir Stress haben und was können wir ganz konkret und effektiv dagegen tun?
+## Warum werden wir quasi blöd, wenn wir Stress haben?
 
 <details>
    <summary>Mehr..</summary>
@@ -14,8 +14,4 @@ Zusätzlich schüttet die Nebenniere außerdem das Stresshormon Cortisol aus.
 Da das frontoparietale Netzwerk entscheidend für unsere Fähigkeit ist, unser Verhalten zielorientiert zu koordinieren, steht bei der "Abschaltung" des Netzwerkes bzw. der Priorisierung des Alarmsystems genau diese Fähigkeit nicht zur Verfügung. Wir können also keine auf sorgfältiger Überlegung basierenden Entscheidungen treffen, unsere Logik ist sozusagen auf Eis gelegt solange der Überlebensmodus greift.
 
 Dieser Mechanismus ist sehr nützlich und lebenswichtig, wenn wir einer echten Bedrohung gegenüberstehen, die wir bekämpfen müssen, vor der wir flüchten, oder uns zumindest tot stellen können. Bei Stressoren jedoch, die unser heutiger Alltag so oft für uns bereit hält - Meetingmarathons, ständige Erreichbarkeit, Konflikte und Arbeit ohne gehirngerechte Pausen - wird dieser Mechansimus ständig aktiviert und wir werden entscheidungsunfähig und reagieren nur noch anstatt in eine überlegte Reaktion zu gehen. Wir werden quasi dumm unter Dauerstress.
-
-Was können wir nun dagegen tun? Die hier vorgestellten Brain- und Bodyhacks helfen uns dabei, sowohl Dauerstress zu vermeiden und unseren schnelllebigen Alltag gehirngerecht zu gestalten, als auch in anspruchsvollen Situationen besonnen zu reagieren.
-
-Die Hacks basieren auf wissenschaftlich belegten Techniken, die uns helfen, nachaltige Veränderung anzustoßen und gesunde Routinen zu entwickeln. Mit diesem Wissen um gehirngerechte Lebensgestaltung können wir unsere Produktivität steigern, unser Wohlbefinden und unsere Gesundheit verbessern und unsere große Ziele Schritt für Schritt und Hack für Hack erreichen.
 </details>
