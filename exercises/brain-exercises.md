@@ -3,4 +3,5 @@
 3. Schreibe einen Brief an Dein Gehirn und bedanke Dich dafür, was es alles für Dich tut.
 4. Hast Du ein Auto oder etwas anderes, das Du liebst und pflegts? Lässt Du Deinem Gehirn dieselbe Pflege zukommen? Wenn nicht, was sind die Gründe?
 5. Take the Memory Rescue Quiz to see which BRIGHT MINDS risk factors you may have: memoryrescue.com/assessment.
+6. Meditate on this question: In what ways is your life harder when you engage in behaviors that hurt your brain?
    
