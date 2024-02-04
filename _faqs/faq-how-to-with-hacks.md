@@ -1,4 +1,4 @@
-## Was können wir ganz konkret und effektiv gegen Stress und eine ineffiziente Gehirnbenutzung tun ?
+## Was können wir gegen eine ineffiziente Gehirnbenutzung bei Stress oder auch im Alltag tun?
 
 <details>
    <summary>Mehr..</summary>
