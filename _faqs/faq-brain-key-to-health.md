@@ -1,4 +1,4 @@
-## Warum Gesundheit mit Hirn?
+## Was hat Gesundheit mit dem Gehirn zu tun?
 <details>
   <summary>Mehr..</summary>
 Unser Gehirn ist der Schlüssel zur geistigen und körperlichen Gesundheit.
