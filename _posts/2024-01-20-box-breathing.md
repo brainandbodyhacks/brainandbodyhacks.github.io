@@ -36,7 +36,7 @@ Hier ein Auszug einer Studie, die die Auswirkungen von Box-Breathing zusammen mi
 # Beispiele
 
 Wir können die **Box-Breathing** Technik entweder pur anwenden oder auch leicht abwandeln.
-Box-Breathing ist in seiner Reinform absichtlich einfach gehalten, es folgt den dem Rhythmus Einatmen - Luft halten - Ausatmen - Luft halten, wie im nächsten Beispiel beschrieben: 
+Box-Breathing ist in seiner Reinform absichtlich einfach gehalten, es folgt dem Rhythmus Einatmen - Luft halten - Ausatmen - Luft halten, wie im nächsten Beispiel beschrieben: 
 
 ## 1. Box-Breathing
 
