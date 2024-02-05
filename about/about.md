@@ -20,13 +20,7 @@ Ich bin **studierte Informatikerin** und habe einen Background in der Softwareen
 Durch meine Liebe zur Programmierung habe ich gelernt, wie **Algorithmen**, **Tests**, **agile Methoden** und kleine **Hacks** gewinnbringend eingesetzt werden können um Großes zu bewirken.
 Die **Kombination aus Informatik und Neurologie** empfinde ich dabei als besonders spannend und hilfreich, gerade die Neuroinformatik ist ein stark interdisziplinäres und wachsendes Forschungsgebiet im Schnittbereich zwischen KI-Forschung und Kognitionswissenschaft.
           
-Wenn ich dieses Wissen teilen und damit Menschen helfen kann, ihr Leben einfacher zu machen, erfüllt mich das mit großer Freude!
-
-## Woran ich glaube
-Ich sehe die Welt nicht schwarz-weiß und falsch oder richtig, sondern in verschiedenen Farben und vielen Möglichkeiten.
-Ich glaube an Experimente, die Kraft der kleinen Schritte für eine gehirngerechte Entwicklung und an die Power-Kombi Gehirn und Körper.
-Ich liebe es, zu lernen, zu wachsen und meinen Körper und mein Gehirn bestmöglich einzusetzen und zu unterstützen.
-Ich strebe danach, effiziente Lösungen für die Probleme der heutigen hektischen Welt zu finden. 
+Wenn ich dieses Wissen teilen und damit Menschen helfen kann, ihr Leben einfacher zu machen, erfüllt mich das mit großer Freude! 
 
 # Aus- und Weiterbildungen
 
@@ -39,7 +33,7 @@ Ich habe durch die Anwendung der gelehrten Inhalte nicht nur mir selbst, sondern
 Ich habe mehrere Jahre Erfahrung im Einzelcoaching und Coaching für Teams im agilen Umfeld. Gerade agile Transformationen profitieren von gehirngerechter Gestaltung oder können furchtbar schiefgehen, wenn die neurologischen Basics nicht verstanden sind.
 Ich habe die unterschiedlichsten transformativen und agilen Setups selbst durchlebt und begleitet und durfte in den Rollen als Scrum Master, Release Train Engineer und Agiler Coach sowohl gescheiterte als auch erfolgreiche Veränderungsvorhaben erleben. 
 
-## Mehr
+## Aktivitäten u d Interessen
 Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig. Hier ein Auszug meiner Aktivitäten und Interessen:
 
 - Health Coach für "Brain- and Body Hacks"
@@ -52,6 +46,10 @@ Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig.
 - Softwareentwicklerin, Key Developer Expert
 - Master of Science in Informatik und Multimedia
 - HIIT Fan, On-off Boulderin und Salsa-Tänzerin
+
+## Woran ich glaube
+
+Ich sehe die Welt nicht schwarz-weiß und falsch oder richtig, sondern in verschiedenen Farben und vielen Möglichkeiten. Ich glaube an Experimente, die Kraft der kleinen Schritte für eine gehirngerechte Entwicklung und an die Power-Kombi Gehirn und Körper. Ich liebe es, zu lernen, zu wachsen und meinen Körper und mein Gehirn bestmöglich einzusetzen und zu unterstützen. Ich strebe danach, effiziente Lösungen für die Probleme der heutigen hektischen Welt zu finden.
 
 
 **Kontakt:** 
