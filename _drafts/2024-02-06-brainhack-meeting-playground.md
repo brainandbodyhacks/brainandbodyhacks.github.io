@@ -9,10 +9,10 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Problem
-Du befindest Dich oft in meetings, die unstrukturiert sind, keine klare Agenda haben oder kein klares Ziel.
+Du befindest Dich oft in Meetings, die Du als ineffizient empfindest, die unstrukturiert sind, keine klare Agenda haben oder kein klares Ziel.
 
 ## Zielsetzung
-Du möchtest das meeting entweder besser machen oder zumindest für Dich einen konkreten Nutzen, ein positives Ergebnis erzielen.
+Du möchtest das Meeting entweder besser machen oder zumindest für Dich einen konkreten Nutzen, ein positives Ergebnis erzielen und Deine Zeit sinnvoll nutzen.
 
 # Hack
 
