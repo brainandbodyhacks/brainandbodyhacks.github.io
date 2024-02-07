@@ -37,11 +37,11 @@ Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich be
 - Welche Kriterien setze ich für meine Entscheidung an?
 - Kann ich eine Pause machen und mich kreativ beschäftigen, bevor ich spontan eine Entscheidung treffe?
 So können wir sowohl eine individuelle Entscheidung bewusst und neurologisch gesehen klug treffen, also auch Entscheidungen in der Gruppe, indem wir die Fragen in die Runde stellen.
-Eine ausführliche Beschreibung findest Du [hier ](/blog/).
+Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/08/kluge-entscheidung/).
 
 ### Brainhack "Klares Gespräch"
 Ein Meeting, das etwas unstrukturiert ist, an dem viele Menschen teilnehmen und ihre Sicht der Dinge einbringen ist eine wunderbare Übungsmöglichkeit für den **Brainhack "Klares Gespräch"**. Wir können hier bewusst darauf achten, welche Sprachmuster - wie Generalisierung, Tilgung oder Verzerrung - sich einschleichen und wir können bewusst die Fragen nutzen, die in den entsprechenden Hacks zum Thema "Klares Gespräch" beschrieben sind. So können wir Hintergründe transparenter machen, konkrete nächste Schritte erfragen und vor allem auch die anderen Sichtweisen besser verstehen lernen.
-Eine ausführliche Beschreibung findest Du [hier ](/blog/).
+Eine ausführliche Beschreibung findest Du [hier ](/blog/2024/01/21/klares-gespr%C3%A4ch-teil-1/).
 
 ### Brainhack "Pause the movie"
 Falls wir in einem Meeting merken, dass wir uns aufregen oder nervös sind, so können wir wunderbar den **Brainhack "Pause the Movie"** üben:
