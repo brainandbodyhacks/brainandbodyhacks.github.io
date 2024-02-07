@@ -23,7 +23,7 @@ Du willst Deine Botschaften klar kommunizieren, Deine Mitmenschen besser versteh
 
 **Brainhack "Klares Gespräch - Teil 2"**:
 
-Wir haben im [**Brainhack "Klares Gespräch - Teil 1"**](2024-01-20-klares-gespräch-teil-1.md) eine Ursache für Missverständnisse in der Kommunikation kennengelernt: Die Verallgemeinerung. 
+Wir haben im [**Brainhack "Klares Gespräch - Teil 1"**](https://brainbodyhacks.github.io/2024/01/21/klares-gespräch-teil-1/)) eine Ursache für Missverständnisse in der Kommunikation kennengelernt: Die Verallgemeinerung. 
 Wir haben gesehen, wie das sogenannte **Meta-Modell der Sprache** uns dabei helfen kann, Verallgemeinerungen in der Sprache zu erkennen und zu hinterfragen. 
 
 Ein weiteres Muster in der ungenauen Sprache ist die Tilgung. 
@@ -64,7 +64,7 @@ Es gibt verschiedene Arten von Tilgungen. Hier ein paar Beispiele, auf die wir m
 
 ## Mögliche Hack Kombination
 
-Den **Brainhack "Klare Kommunikation"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 3"**](2024-01-23-klares-gespräch-teil-3.md) kombinieren.
+Den **Brainhack "Klare Kommunikation"** können wir bestens auch mit dem [**Brainhack "Klares Gespräch - Teil 3"**](https://brainbodyhacks.github.io/2024/01/23/klares-gespr%C3%A4ch-teil3/) kombinieren.
 
 # Hack Rating
 
