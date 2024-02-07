@@ -31,9 +31,9 @@ Ich habe durch die Anwendung der gelehrten Inhalte nicht nur mir selbst, sondern
 
 ## Agiler Coach
 Ich habe mehrere Jahre Erfahrung im Einzelcoaching und Coaching für Teams im agilen Umfeld. Gerade agile Transformationen profitieren von gehirngerechter Gestaltung oder können furchtbar schiefgehen, wenn die neurologischen Basics nicht verstanden sind.
-Ich habe die unterschiedlichsten transformativen und agilen Setups selbst durchlebt und begleitet und durfte in den Rollen als Scrum Master, Release Train Engineer und Agiler Coach sowohl gescheiterte als auch erfolgreiche Veränderungsvorhaben erleben. 
+Ich habe die unterschiedlichsten transformativen und agilen Setups selbst durchlebt und begleitet und durfte in den Rollen als Scrum Master, Product Owner, Tester, Release Train Engineer und Agiler Coach sowohl gescheiterte als auch erfolgreiche Veränderungsvorhaben erleben. 
 
-## Aktivitäten u d Interessen
+## Aktivitäten und Interessen
 Mein Leben ist strukturiert, aber bunt, gehirnherecht gestaltet und vielfältig. Hier ein Auszug meiner Aktivitäten und Interessen:
 
 - Health Coach für "Brain- and Body Hacks"
