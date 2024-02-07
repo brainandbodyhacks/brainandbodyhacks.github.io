@@ -33,23 +33,24 @@ Du kannst die hier vorgestellten Hacks verproben.
 ### Kluge Entscheidung
 So kann zum Beispiel der Brainhack "Kluge Entscheidung" wunderbar "eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
 Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich beschrieben ist:
-- Was ist das Bauchgefühl und was will es uns sagen? Welche Erfahrungen sind dafür eventuell ausschlaggebend
+- Was ist mein Bauchgefühl und was will es mir sagen? Welche Erfahrungen sind dafür eventuell ausschlaggebend?
 - Welche Kriterien setze ich für meine Entscheidung an?
 - Kann ich eine Pause machen und mich kreativ beschäftigen, bevor ich spontan eine Entscheidung treffe?
-Eine ausführliche Beschreibung findest Du hier.
+So können wir sowohl eine individuelle Entscheidung bewusst und neurologisch gesehen klug treffen, also auch Entscheidungen in der Gruppe, indem wir die Fragen in die Runde stellen.
+Eine ausführliche Beschreibung findest Du [hier ](/blog/).
 
 ### Brainhack "Klares Gespräch"
 Ein Meeting, das etwas unstrukturiert ist, an dem viele Menschen teilnehmen und ihre Sicht der Dinge einbringen ist eine wunderbare Übungsmöglichkeit für den **Brainhack "Klares Gespräch"**. Wir können hier bewusst darauf achten, welche Sprachmuster - wie Generalisierung, Tilgung oder Verzerrung - sich einschleichen und wir können bewusst die Fragen nutzen, die in den entsprechenden Hacks zum Thema "Klares Gespräch" beschrieben sind. So können wir Hintergründe transparenter machen, konkrete nächste Schritte erfragen und vor allem auch die anderen Sichtweisen besser verstehen lernen.
-Eine ausführliche Beschreibung findest Du hier.
+Eine ausführliche Beschreibung findest Du [hier ](/blog/).
 
 ### Brainhack "Pause the movie"
 Falls wir in einem Meeting merken, dass wir uns aufregen oder nervös sind, so können wir wunderbar den **Brainhack "Pause the Movie"** üben:
 Wir können und bewusst vorstellen, wir schauen einen Film an, sind einer der Zuschauer und drücken einfach kurz auf Pause, um den Film zu stoppen und zu überlegen, was wohl der Background der Darsteller ist oder wie der Film sich wohl zum Positiven ändern könnte. Je öfter wir diesen kleinen Trick anwenden, desto besser funktioniert er gegen Ärger oder auch Nervosität.
-Eine ausführliche Beschreibung findest Du hier.
+Eine ausführliche Beschreibung findest Du [hier ](/blog/).
 
 ### Bodyhack "Box-Breathing"
 Auch manche Bodyhacks bieten sich an. So können wir zum Beispiel einfach und unbemerkt die Atemübung der Navy SEALS, das Box-Breathing nutzen:
-Eine ausführliche Beschreibung findest Du hier.
+Eine ausführliche Beschreibung findest Du [hier ](/blog/).
 
 ### Bodyhack "Exercise Snacking"
 Auch kurze Exercise Snacks können eingebaut werden, vor allem in online Meetings, wenn wir Audio und die Kamera kurz ausschalten können. Hier bieten sich zum Beispiel an:
@@ -57,7 +58,7 @@ Auch kurze Exercise Snacks können eingebaut werden, vor allem in online Meeting
 - 30 Kniebeugen
 - 1 Minute auf der Stelle laufen
 und ähnliches.
-Eine ausführliche Beschreibung findest Du hier.
+Eine ausführliche Beschreibung findest Du [hier ](/blog/).
 
 # Mehr zum Thema
 - [Brainbodyhacks Blog](/blog/)
