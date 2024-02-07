@@ -12,7 +12,7 @@ tags: brainhack
 Du befindest Dich oft in Meetings, die Du als ineffizient empfindest, die unstrukturiert sind, keine klare Agenda haben oder kein klares Ziel.
 
 ## Zielsetzung
-Du möchtest das Meeting entweder besser machen oder zumindest für Dich einen konkreten Nutzen, ein positives Ergebnis erzielen und Deine Zeit sinnvoll nutzen.
+Du möchtest das Meeting besser machen oder zumindest für Dich einen konkreten Nutzen, ein positives Ergebnis erzielen und Deine Zeit sinnvoll nutzen.
 
 # Hack
 
