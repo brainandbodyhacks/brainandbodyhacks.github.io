@@ -48,7 +48,7 @@ Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github
 
 ### Brainhack "Pause the movie"
 Falls wir in einem Meeting merken, dass wir uns aufregen oder nervös sind, so können wir wunderbar den **Brainhack "Pause the Movie"** üben:
-Wir können und bewusst vorstellen, wir schauen einen Film an, sind einer der Zuschauer und drücken einfach kurz auf Pause, um den Film zu stoppen und zu überlegen, was wohl der Background der Darsteller ist oder wie der Film sich wohl zum Positiven ändern könnte. Je öfter wir diesen kleinen Trick anwenden, desto besser funktioniert er gegen Ärger oder auch Nervosität.
+Wir können uns bewusst vorstellen, wir schauen einen Film an, sind einer der Zuschauer und drücken einfach kurz auf Pause, um den Film zu stoppen und zu überlegen, was wohl der Background der Darsteller ist oder wie der Film sich wohl zum Positiven ändern könnte. Je öfter wir diesen kleinen Trick anwenden, desto besser funktioniert er gegen Ärger oder auch Nervosität.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/06/brain-hack-pause-the-movie/).
 
 ### Bodyhack "Box-Breathing"
