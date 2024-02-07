@@ -24,10 +24,11 @@ Hier eignen sich Fragen die Struktur reinbringen, wie:
 - Was ist das gewünschte Ergebnis?
 - Wer notiert die Besprechungsergebnisse?
 - Wer macht bis wann was?
+
 Diese einfachen Fragen kann man immer wieder platzieren, um fehlende Moderation und Struktur auszugleichen.
 
 Außer der klaren Moderation und dem Strukturieren über Fragen gibt es noch eine weitere Möglichkeit, um gefühlt ineffiziente Meetings sinnvoller zu gestalten:
-Du kannst die hier vorgestellten Hacks verproben.
+Du kannst die Zeit nutzen, um einige Hacks, die in diesem Blog vorgestellten werden, zu verproben.
 
 ## Beispiele
 ### Kluge Entscheidung
