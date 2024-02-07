@@ -41,16 +41,16 @@ Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github
 
 ### Brainhack "Klares Gespräch"
 Ein Meeting, das etwas unstrukturiert ist, an dem viele Menschen teilnehmen und ihre Sicht der Dinge einbringen ist eine wunderbare Übungsmöglichkeit für den **Brainhack "Klares Gespräch"**. Wir können hier bewusst darauf achten, welche Sprachmuster - wie Generalisierung, Tilgung oder Verzerrung - sich einschleichen und wir können bewusst die Fragen nutzen, die in den entsprechenden Hacks zum Thema "Klares Gespräch" beschrieben sind. So können wir Hintergründe transparenter machen, konkrete nächste Schritte erfragen und vor allem auch die anderen Sichtweisen besser verstehen lernen.
-Eine ausführliche Beschreibung findest Du [hier ](/blog/2024/01/21/klares-gespr%C3%A4ch-teil-1/).
+Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/21/klares-gespr%C3%A4ch-teil-1/).
 
 ### Brainhack "Pause the movie"
 Falls wir in einem Meeting merken, dass wir uns aufregen oder nervös sind, so können wir wunderbar den **Brainhack "Pause the Movie"** üben:
 Wir können und bewusst vorstellen, wir schauen einen Film an, sind einer der Zuschauer und drücken einfach kurz auf Pause, um den Film zu stoppen und zu überlegen, was wohl der Background der Darsteller ist oder wie der Film sich wohl zum Positiven ändern könnte. Je öfter wir diesen kleinen Trick anwenden, desto besser funktioniert er gegen Ärger oder auch Nervosität.
-Eine ausführliche Beschreibung findest Du [hier ](/blog/).
+Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/06/brain-hack-pause-the-movie/).
 
 ### Bodyhack "Box-Breathing"
 Auch manche Bodyhacks bieten sich an. So können wir zum Beispiel einfach und unbemerkt die Atemübung der Navy SEALS, das Box-Breathing nutzen:
-Eine ausführliche Beschreibung findest Du [hier ](/blog/).
+Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/20/box-breathing/).
 
 ### Bodyhack "Exercise Snacking"
 Auch kurze Exercise Snacks können eingebaut werden, vor allem in online Meetings, wenn wir Audio und die Kamera kurz ausschalten können. Hier bieten sich zum Beispiel an:
@@ -58,7 +58,7 @@ Auch kurze Exercise Snacks können eingebaut werden, vor allem in online Meeting
 - 30 Kniebeugen
 - 1 Minute auf der Stelle laufen
 und ähnliches.
-Eine ausführliche Beschreibung findest Du [hier ](/blog/).
+Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/09/bodyhack-exercise-snacking/).
 
 # Mehr zum Thema
 - [Brainbodyhacks Blog](/blog/)
