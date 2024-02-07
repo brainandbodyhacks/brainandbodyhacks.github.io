@@ -60,5 +60,8 @@ Auch kurze Exercise Snacks können eingebaut werden, vor allem in online Meeting
 und ähnliches.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/09/bodyhack-exercise-snacking/).
 
+Viel Spaß beim Verproben der Hacks auf Deiner Meeting Spielwiese!
+
 # Mehr zum Thema
 - [Brainbodyhacks Blog](/blog/)
+- [Was sagt die Wissenschaft zu Meetings?](https://www.betterwork.uni-hamburg.de/podcasts/was-sagt-wissenschaft-zu-meetings.html)
