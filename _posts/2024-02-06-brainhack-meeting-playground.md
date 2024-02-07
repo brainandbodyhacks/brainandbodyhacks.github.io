@@ -21,10 +21,10 @@ Du möchtest das Meeting entweder besser machen oder zumindest für Dich einen k
 Wenn Du nicht der Moderator oder Organisator eines Meetings bist, so kannst Du auch als Teilnehmer viel dafür tun, um dasselbe effizient zu machen.
 
 Hier eignen sich Fragen die Struktur reinbringen, wie:
-- Wer notiert die Besprechungsergebnisse?
 - Was ist das gewünschte Ergebnis?
+- Wer notiert die Besprechungsergebnisse?
 - Wer macht bis wann was?
-Diese einfachen Fragen kann man immer wieder platzieren, um fehlende Moderation und Struktur wettzumachen.
+Diese einfachen Fragen kann man immer wieder platzieren, um fehlende Moderation und Struktur auszugleichen.
 
 Außer der klaren Moderation und dem Strukturieren über Fragen gibt es noch eine weitere Möglichkeit, um gefühlt ineffiziente Meetings sinnvoller zu gestalten:
 Du kannst die hier vorgestellten Hacks verproben.
