@@ -52,15 +52,15 @@ Wir können uns bewusst vorstellen, wir schauen einen Film an, sind einer der Zu
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/06/brain-hack-pause-the-movie/).
 
 ### Bodyhack "Box-Breathing"
-Auch manche Bodyhacks bieten sich an. So können wir zum Beispiel einfach und unbemerkt die Atemübung der Navy SEALS, das Box-Breathing nutzen:
+Auch manche Bodyhacks bieten sich an. So können wir zum Beispiel einfach und unbemerkt die Atemübung der Navy SEALS, das Box-Breathing nutzen, um uns zu fokussieren und Stress im Zaum zu halten.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/20/box-breathing/).
 
 ### Bodyhack "Exercise Snacking"
 Auch kurze Exercise Snacks können eingebaut werden, vor allem in online Meetings, wenn wir Audio und die Kamera kurz ausschalten können. Hier bieten sich zum Beispiel an:
 - 1 Minute Hampelmann
 - 30 Kniebeugen
-- 1 Minute auf der Stelle laufen
-und ähnliches.
+- 1 Minute auf der Stelle laufen und ähnliches
+
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/09/bodyhack-exercise-snacking/).
 
 Viel Spaß beim Verproben der Hacks auf Deiner Meeting Spielwiese!
