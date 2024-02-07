@@ -33,11 +33,13 @@ Du kannst die Zeit nutzen, um einige Hacks, die in diesem Blog vorgestellten wer
 ## Beispiele
 ### Kluge Entscheidung
 So kann zum Beispiel der Brainhack "Kluge Entscheidung" wunderbar "eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
-Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich beschrieben ist:
+Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich beschrieben ist und unter anderem folgende Fragen stellen:
+
 - Was ist mein Bauchgefühl und was will es mir sagen? Welche Erfahrungen sind dafür eventuell ausschlaggebend?
 - Welche Kriterien setze ich für meine Entscheidung an?
 - Kann ich eine Pause machen und mich kreativ beschäftigen, bevor ich spontan eine Entscheidung treffe?
-So können wir sowohl eine individuelle Entscheidung bewusst und neurologisch gesehen klug treffen, also auch Entscheidungen in der Gruppe, indem wir die Fragen in die Runde stellen.
+
+So können wir sowohl eine individuelle Entscheidung bewusst und neurologisch gesehen klug treffen, als auch Entscheidungen in der Gruppe, indem wir die Fragen in die Runde stellen.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/08/kluge-entscheidung/).
 
 ### Brainhack "Klares Gespräch"
