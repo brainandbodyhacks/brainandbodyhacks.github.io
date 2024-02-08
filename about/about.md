@@ -17,6 +17,8 @@ Entwickle auch Du Dich mit meiner Hilfe Schritt für Schritt und **Hack für Hac
 
 ![image](../assets/images/IMG_0506.jpeg)
 
+<img src="../assets/images/IMG_0506.jpeg" alt="drawing" width="200" height="200"/>
+
 
 ## Wer ich bin und was mich auszeichnet 
 Ich bin **studierte Informatikerin** und habe einen Background in der Softwareentwicklung.
