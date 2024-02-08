@@ -13,6 +13,7 @@ Entwickle auch Du Dich mit meiner Hilfe Schritt für Schritt und **Hack für Hac
 
 **Kontakt:** 
 <brainbodyhacks@outlook.com>
+![image](assets/.png)
 
 
 ## Wer ich bin und was mich auszeichnet 
