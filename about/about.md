@@ -21,7 +21,7 @@ Entwickle auch Du Dich mit meiner Hilfe Schritt für Schritt und **Hack für Hac
 ## Wer ich bin und was mich auszeichnet 
 Ich bin **studierte Informatikerin** und habe einen Background in der Softwareentwicklung.
 Durch meine Liebe zur Programmierung habe ich gelernt, wie **Algorithmen**, **Tests**, **agile Methoden** und kleine **Hacks** gewinnbringend eingesetzt werden können um Großes zu bewirken.
-Die **Kombination aus Informatik und Neurologie** empfinde ich dabei als besonders spannend: Auch wir haben Programme im Kopf, die mal bewusst, mal unbewusst ablaufen. Wir können diese Programme erkennen, Fehler eliminieren und neue Programme und Routinen installieren, die uns helfen, unseren Alltag auf Gesundheit, Erfolg und Produktivität zu programmieren.
+Die **Kombination aus Informatik und Neurowissenschaften** empfinde ich dabei als besonders spannend: Auch wir haben Programme im Kopf, die mal bewusst, mal unbewusst ablaufen. Wir können diese Programme erkennen, Fehler eliminieren und neue Programme und Routinen installieren, die uns helfen, unseren Alltag auf Gesundheit, Erfolg und Produktivität zu programmieren.
           
 Wenn ich dieses Wissen teilen und damit Menschen helfen kann, ihr Leben einfacher zu machen, erfüllt mich das mit großer Freude! 
 
