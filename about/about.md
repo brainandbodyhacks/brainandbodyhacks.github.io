@@ -28,12 +28,12 @@ Wenn ich dieses Wissen teilen und damit Menschen helfen kann, ihr Leben einfache
 # Aus- und Weiterbildungen
 
 ## TÜV zertifizierter Medletics Health Coach
-In der ganzheitliche Ausbildung der [Medletics Academy](https://medletics-academy.de) wurde tiefes, fundiertes Wissen von gleich mehreren ganzheitlich denkenden Ärzten und Coaches zu medizinischen Basics, Trainings- und Ernährungswissenschaften, Psychologie, Regeneration, biochemischen Prozessen und Blutwerten vermittelt.
-Vor allem haben mich die Zusammenhänge von Gehirn und Körper und die neurobiologischen Aspekte gepackt: Wie funktioniert das Gehirn, wie werde ich zum smarten Gehirnbenutzer, welche Prozesse laufen im Gehirn ab und wie äußert sich das im Körper? Warum werden wir quasi blöd, wenn wir Stress haben, wie äußert sich das im Körper und was können wir ganz konkret und effektiv dagegen tun?
+In der ganzheitliche Ausbildung der [**Medletics Academy**](https://medletics-academy.de) wurde tiefes, fundiertes Wissen von gleich mehreren ganzheitlich denkenden Ärzten und Coaches zu medizinischen Basics, Trainings- und Ernährungswissenschaften, Psychologie, Regeneration, biochemischen Prozessen und Blutwerten vermittelt.
+Vor allem haben mich die Zusammenhänge von Gehirn und Körper und die neurobiologischen Aspekte gepackt: **Wie funktioniert das Gehirn, wie werde ich zum smarten Gehirnbenutzer, welche Prozesse laufen im Gehirn ab und wie äußert sich das im Körper?** Warum werden wir quasi blöd, wenn wir Stress haben und was können wir ganz konkret und effektiv dagegen tun?
 Ich habe durch die Anwendung der gelehrten Inhalte nicht nur mir selbst, sondern auch meiner Umgebung helfen können, einen gesunden, produktiven und gehirngerechten Lifestyle zu leben!
 
 ## Agiler Coach
-Ich habe mehrere Jahre Erfahrung im Einzelcoaching und Coaching für Teams im agilen Umfeld. Gerade agile Transformationen profitieren von gehirngerechter Gestaltung oder können furchtbar schiefgehen, wenn die neurologischen Basics nicht verstanden sind.
+Ich habe mehrere Jahre Erfahrung im Einzelcoaching und Coaching für Teams im agilen Umfeld. Gerade **agile Transformationen profitieren von gehirngerechter Gestaltung** oder können furchtbar schiefgehen, wenn die neurobiologischen Basics nicht verstanden sind.
 Ich habe die unterschiedlichsten transformativen und agilen Setups selbst durchlebt und begleitet und durfte in den Rollen als Scrum Master, Product Owner, Tester, Release Train Engineer und Agiler Coach sowohl gescheiterte als auch erfolgreiche Veränderungsvorhaben erleben. 
 
 ## Aktivitäten und Interessen
