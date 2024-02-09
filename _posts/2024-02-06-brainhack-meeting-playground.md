@@ -33,7 +33,7 @@ Denn Du kannst die Zeit nutzen, um einige Hacks, die in diesem Blog vorgestellte
 
 ## Beispiele
 ### Kluge Entscheidung
-So kann zum Beispiel der Brainhack "Kluge Entscheidung" wunderbar "eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
+So kann zum Beispiel der Brainhack "Kluge Entscheidung" wunderbar eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
 Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich beschrieben ist und unter anderem folgende Fragen stellen:
 
 - Was ist mein Bauchgefühl und was will es mir sagen? Welche Erfahrungen sind dafür eventuell ausschlaggebend?
