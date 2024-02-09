@@ -9,16 +9,16 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Problem
-Du befindest Dich oft in Meetings, die Du als ineffizient empfindest, die unstrukturiert sind, keine klare Agenda haben oder kein klares Ziel.
+Du befindest Dich oft in Meetings, die Du als ineffizient empfindest, die unstrukturiert sind, keine klare Agenda haben oder kein klares Ziel. Du glaubst, Du kannst das nicht ändern.
 
 ## Zielsetzung
-Du möchtest das Meeting besser machen oder zumindest für Dich einen konkreten Nutzen, ein positives Ergebnis erzielen und Deine Zeit sinnvoll nutzen.
+Du möchtest das Meeting besser machen oder zumindest für Dich einen konkreten Nutzen, ein positives Ergebnis erzielen und Deine Zeit sinnvoll nutzen. Du möchtest weg von der Rolle des Meeting-Opfers hin zum Gestalter.
 
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 **Brainhack "Meeting Playground"**:
-Wenn Du nicht der Moderator oder Organisator eines Meetings bist, so kannst Du auch als Teilnehmer viel dafür tun, um dasselbe effizient zu machen.
+Wenn Du nicht der Moderator oder Organisator eines Meetings bist, so kannst Du auch als Teilnehmer viel dafür tun, um dasselbe effizient zu machen und zu gestalten:
 
 Hier eignen sich Fragen die Struktur reinbringen, wie:
 - Was ist das gewünschte Ergebnis?
@@ -28,7 +28,8 @@ Hier eignen sich Fragen die Struktur reinbringen, wie:
 Diese einfachen Fragen kann man immer wieder platzieren, um fehlende Moderation und Struktur auszugleichen.
 
 Außer der klaren Moderation und dem Strukturieren über Fragen gibt es noch eine weitere Möglichkeit, um gefühlt ineffiziente Meetings sinnvoller zu gestalten:
-Du kannst die Zeit nutzen, um einige Hacks, die in diesem Blog vorgestellten werden, zu verproben.
+Du machst aus dem Problem eine Tugend.
+Denn Du kannst die Zeit nutzen, um einige Hacks, die in diesem Blog vorgestellten werden, zu verproben.
 
 ## Beispiele
 ### Kluge Entscheidung
