@@ -57,6 +57,17 @@ Die Ergebnisse deuten konsequent darauf hin, dass die dynamischen Interaktionen 
 **Die Forschung zeigt, dass wir unser Gehirn tatsächlich zu unseren Gunsten bedienen können, indem wir lernen, unsere Gehirnwellen zu regulieren.**
 Wir können bewusst Tagträumen, unsere Gedanken schweifen lassen, uns kreativ oder handwerklich betätigen. Auch mit Musik, zum Beispiel durch "binaural beats", können wir unsere brainwaves runterfahren. Wir konnen diesen Zustand also üben und dadurch neue Verbindungen im Gehirn schaffen und stärken. Neben all der Zeit, die wir im Beta-Modus verbringen, um Probleme zu lösen und Entscheidungen zu treffen, sollten wir ganz bewusst und konsequent Zeit einräumen, in der wir von äußeren Reizen unabhängig sind.
 
+# Hack Rating
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
+
+Zeitaufwand: mittel - hoch _Je nach Situation: 5 Minuten Musik zu hören kostet uns zum Beispiel kaum Zeit, kreative Hobbies können dagegen aufwändiger sein._
+
+Kosten: minimal
+
+Effizienz:  mittel - sehr hoch _Der Hack wird einfacher, je mehr man übt._
+
+# Mehr zum Thema
+
 - [Die Erforschung der Hirnwellen](https://www.deutschlandfunkkultur.de/rhythmen-im-gehirn-die-erforschung-der-hirnwellen-100.html)
 
 [^1]: [Psychological resilience is correlated with dynamic changes in functional connectivity within the default mode network during a cognitive task](https://pubmed.ncbi.nlm.nih.gov/33082442/)
