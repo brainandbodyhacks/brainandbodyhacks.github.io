@@ -9,6 +9,12 @@ Gesundheit beginnt im Gehirn! Das Wissen um **gehirngerechte Lebensgestaltung** 
 
 Ich zeige Dir, welche **wissenschaftlich belegten Techniken** uns helfen, nachaltige Veränderung anzustoßen und gesunde Routinen zu entwickeln um zum smarten Gehirnbenutzer zu werden. Dadurch können wir unsere **Produktivität steigern, unser Wohlbefinden und unsere Gesundheit verbessern und große Ziele durch kleine Schritte erreichen**. 
 
+Durch brainbodyhacks trainieren wir die: 
+- Optimierung von Gehirn und Körper
+- Programmierung von hilfreichen Denkmustern, Gewohnheiten und Routinen
+- Identifikation von Stressoren und Energiequellen
+- Realisierung von Zielen und Wünschen
+
 Entwickle auch Du Dich mit meiner Hilfe Schritt für Schritt und **Hack für Hack zu Deinem besten Selbst**. 
 
 **Kontakt:** 
