@@ -49,7 +49,8 @@ Auch der **Bodyhack "Box-Breathing"** bietet sich beim Warten an. So können wir
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/20/box-breathing/).
 
 ### Du kommst nicht zu Wort
-In Situationen in denen Du Dich ärgerst, weil andere permanent reden und Du nicht zu Wort kommst, kannst Du die Möglichkeit nutzen, um zu üben. "Wenn ich nicht zu Wort komme, was wird dadurch möglich?". Du kannst bewusster zuhören und die Zeit als wunderbare Übungsmöglichkeit für die Identifizierung von Sprachmustern aus dem **Brainhack "Klares Gespräch"** nutzen. Wir können dann bewusst darauf achten, welche konkreten Muster - wie Generalisierung, Tilgung oder Verzerrung - sich bei den dominanten Rednern einschleichen. Wir können trainieren, diese Muster zu erkennen, uns dazu die Fragen notieren, die in den entsprechenden Hacks zum Thema "Klares Gespräch" beschrieben sind. So können wir die Situation nutzen um zu üben, damit wir in wichtigen Situationen unsere neuen Fähigkeiten anwenden können. Wir können dann Hintergründe transparenter machen, konkrete nächste Schritte erfragen und vor allem auch die anderen Sichtweisen besser verstehen lernen.
+In Situationen in denen Du Dich ärgerst, weil andere permanent reden und Du nicht zu Wort kommst, kannst Du die Möglichkeit nutzen, um zu fragen: "Wenn ich nicht zu Wort komme, was wird dadurch möglich?". So kannst Du zum Beispiel ganz genau zuhören und die Zeit als wunderbare Übungsmöglichkeit für die Identifizierung von Sprachmustern aus dem **Brainhack "Klares Gespräch"** nutzen. Du kannst dann bewusst darauf achten, welche konkreten Muster - wie Generalisierung, Tilgung oder Verzerrung - sich bei den dominanten Rednern einschleichen. Du kannst trainieren, diese Muster zu erkennen und die Fragen notieren, die in den entsprechenden Hacks zum Thema "Klares Gespräch" beschrieben sind. 
+So können wir eine solche Situation nutzen um zu üben, damit wir in wichtigen Situationen unsere neuen Fähigkeiten anwenden können. Wir können dann Hintergründe transparenter machen, konkrete nächste Schritte erfragen und vor allem auch die anderen Sichtweisen besser verstehen lernen.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/21/klares-gespr%C3%A4ch-teil-1/)
 
 ### Du befindest Dich oft in ineffizienten Meetings
@@ -64,16 +65,12 @@ Hier eignen sich Fragen die Struktur reinbringen, wie:
 
 Diese einfachen Fragen kann man immer wieder platzieren, um fehlende Moderation und Struktur auszugleichen.
 
-Außer der klaren Moderation und dem Strukturieren über Fragen gibt es noch eine weitere Möglichkeit, um gefühlt ineffiziente Meetings sinnvoller zu gestalten:
-Du machst aus dem Problem eine Tugend.
-Denn Du kannst die Zeit nutzen, um einige Hacks, die in diesem Blog vorgestellten werden, zu verproben.
-
-So kann zum Beispiel der **Brainhack "Kluge Entscheidung"** wunderbar eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
+Auch kann zum Beispiel der **Brainhack "Kluge Entscheidung"** wunderbar eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
 Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich beschrieben ist und unter anderem folgende Fragen stellen:
 
 - Was ist mein Bauchgefühl und was will es mir sagen? Welche Erfahrungen sind dafür eventuell ausschlaggebend?
 - Welche Kriterien setze ich für meine Entscheidung an?
-- Kann ich eine Pause machen und mich kreativ beschäftigen, bevor ich spontan eine Entscheidung treffe?
+- Kann ich eine Pause machen und mich kreativ beschäftigen, bevor ich spontan eine Entscheidung treffe, um auch meine unterbewussten Erfahrungen wirken zu lassen?
 
 So können wir sowohl eine individuelle Entscheidung bewusst und neurologisch gesehen klug treffen, als auch Entscheidungen in der Gruppe, indem wir die Fragen in die Runde stellen.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/08/kluge-entscheidung/).
