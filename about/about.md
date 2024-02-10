@@ -63,3 +63,5 @@ Ich sehe die Welt nicht schwarz-weiß und falsch oder richtig, sondern in versch
 
 **Kontakt:** 
 <brainbodyhacks@outlook.com>
+
+https://www.loom.com/share/9c075d4837124284afe4a2f9ede22421?sid=2d093c88-8d2a-414a-9006-7d8d76e8ef32
