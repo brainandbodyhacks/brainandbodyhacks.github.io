@@ -78,9 +78,6 @@ Wir können zu diesem Fall nun wieder unsere Fragen formulieren:
 - Was ist das Schlimmste, was passieren kann, wenn ich meine Meinung verschweige, damit ich es anderen recht mache?
 - Was ist das Beste, das passieren kann, wenn ich meine Meinung klar und wertschätzend äußere?
 
-## Mögliche Hack Kombination
-
-Den **Brainhack "Stop People Pleasing"** können wir gut auch durch den [**Brainhack "Kluge Entscheidung"**](2024-01-08-brainhack-smart-goals.md) unterstützen und so herausfinden, welche Kriterien dafür sprechen, es anderen immer recht zu machen, welche dagegen sprechen und was unser Gefühl damit zu tun hat.
 
 
 # Hack Rating
