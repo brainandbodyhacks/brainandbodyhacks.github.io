@@ -20,7 +20,7 @@ Du möchtest das Problem vermeiden, eliminieren, lösen oder zumindest Dein Gef�
 **Brainhack "Problem to Possibility"**:
 Ein Problem kann man definieren als eine Diskrepanz zwischen aktuellem und gewünschtem Zustand. Wir versuchen tendenziell Probleme zu vermeiden und wir fühlen uns oft machtlos, wenn sie auftauchen.
 Doch eine gute Methode, um ein Problem mal aus einer ganz anderen Perspektive zu betrachten, ist die folgende Technik:
-Versuche einmal Dein Problem bewusst größer zu machen, so groß, dass es nicht mehr zu ignorieren ist. Und dann frage Dich: Was wird dadurch möglich?
+Versuche einmal Dein Problem bewusst größer zu machen. Und dann frage Dich: Was wird dadurch möglich?
 Was wäre, wenn das Problem eigentlich eine Chance ist, um persönlich zu wachsen und sich weiterzuentwickeln oder um neue Gewohnheiten einzuüben.
 Wenn wir uns dies bewusst fragen, so finden wir oft ganz neue Möglichkeiten und **das Problem wird zur Possibility - zur Möglichkeit**.
 
