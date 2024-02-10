@@ -23,6 +23,7 @@ Doch eine gute Methode, um ein Problem mal aus einer ganz anderen Perspektive zu
 Versuche einmal Dein Problem bewusst größer zu machen. Und dann frage Dich: Was wird dadurch möglich?
 Was wäre, wenn das Problem eigentlich eine Chance ist, um persönlich zu wachsen und sich weiterzuentwickeln oder um neue Gewohnheiten einzuüben.
 Wenn wir uns dies bewusst fragen, so finden wir oft ganz neue Möglichkeiten und **das Problem wird zur Possibility - zur Möglichkeit**.
+Der smarte Gehirnbenutzer übt diesen Hack im Alltag, so dass er ihn quasi automatisch anwendet, wenn er mit einem größeren Problem konfrontiert wird.
 
 ## Beispiele
 Im Folgenden findest Du konkrete Beispiele, die dieses Vorgehen verdeutlichen.
