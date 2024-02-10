@@ -38,7 +38,7 @@ Unser Verhalten dafür zu sorgen, dass wir es anderen recht machen, ist also ein
 Als Erwachsener ist diese Strategie jedoch nicht mehr in allen Fällen notwendig oder auch hilfreich. Wir können uns nun um uns selbst sorgen und sind nicht mehr auf den Schutz unserer Eltern angewiesen. Auch kennen wir uns selbst und unsere Bedürfnisse oft besser, unserer Prioritäten sind klarer und wir sind nicht mehr nur auf die Gunst von anderen angewiesen um unsere Ziele zu erreichen. **Ganz sicher müssen wir nicht immer jedem gefallen**.
 
 Wir können mit anderen Mitteln wirken, je nachdem welche Situation gerade vorliegt.
-Wir können andere Strategien wählen und unser Bedürfnis für Sicherheit, Bindung, Zugehörigkeit und Akzeptanz auch anders erfüllen.
+Als smarte Gehirnbenutzer können wir neue Strategien wählen und unser Bedürfnis für Sicherheit, Bindung, Zugehörigkeit und Akzeptanz auch anders erfüllen.
 
 Sogenannte "People Pleaser" haben dies nicht gelernt. Ein "People Pleaser" ist mit seiner Aufmerksamkeit vorwiegend bei den anderen, hat Angst davor, nicht gemocht zu werden oder es den anderen nicht recht zu machen und kann schlecht "Nein" sagen. Oft führt dies dazu, dass die eigenen Bedürfnisse entweder gar nicht erst wahrgenommen oder schlicht vernachlässigt werden. Ein "People Pleaser" ist also nicht mehr im gesunden Einklang mit den eigenen Bedürfnissen [^1].
 Weitere wichtige Merkmale sind auch, sich für die Gefühle der anderen verantwortlich zu fühlen, sich oft zu entschuldigen und viel dafür zu tun, um Konflikte möglichst zu vermeiden [^2].
