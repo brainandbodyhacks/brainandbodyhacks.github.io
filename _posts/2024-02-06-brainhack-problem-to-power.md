@@ -79,4 +79,4 @@ Viel Spaß beim "Vergrößern" kleiner Probleme, beim Nutzen der dadurch erkannt
 
 # Mehr zum Thema
 - [Alle Hacks: Brainbodyhacks Blog](/blog/)
-- [Was sagt die Wissenschaft zu Meetings?](https://www.betterwork.uni-hamburg.de/podcasts/was-sagt-wissenschaft-zu-meetings.html)
+- [Zauberwort „Resilienz“? Wie werden aus Krisen Chancen](https://www.researchgate.net/publication/341454232_Zauberwort_Resilienz_Wie_werden_aus_Krisen_Chancen)
