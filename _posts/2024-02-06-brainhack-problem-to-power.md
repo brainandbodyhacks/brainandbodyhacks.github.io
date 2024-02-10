@@ -19,7 +19,7 @@ Du möchtest das Problem vermeiden, eliminieren, lösen oder zumindest Dein Gef�
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
 **Brainhack "Problem to Possibility"**:
 Ein Problem kann man definieren als eine Diskrepanz zwischen aktuellem und gewünschtem Zustand. Wir versuchen tendenziell Probleme zu vermeiden und wir fühlen uns oft machtlos, wenn sie auftauchen.
-Doch eine gute Methode, um ein Problem mal aus einer ganz anderen Perspektive zu betrachten, ist die folgende Methode:
+Doch eine gute Methode, um ein Problem mal aus einer ganz anderen Perspektive zu betrachten, ist die folgende Technik:
 Versuche einmal Dein Problem bewusst größer zu machen, so groß, dass es nicht mehr zu ignorieren ist. Und dann frage Dich: Was wird dadurch möglich?
 Was wäre, wenn das Problem eigentlich eine Chance ist, um persönlich zu wachsen und sich weiterzuentwickeln oder um neue Gewohnheiten einzuüben.
 Wenn wir uns dies bewusst fragen, so finden wir oft ganz neue Möglichkeiten und **das Problem wird zur Possibility - zur Möglichkeit**.
@@ -28,8 +28,8 @@ Wenn wir uns dies bewusst fragen, so finden wir oft ganz neue Möglichkeiten und
 Im Folgenden findest Du konkrete Beispiele, die dieses Vorgehen verdeutlichen.
 
 ### Problem: Aufregung und Nervosität
-Hier kannst Du den Hack **Brainhack "Problem to Possibility"** wunderbar nutzen, indem Du vom Opfer zum Gestalter wirst, Du also Dein Problem zur Möglichkeit umdeutest.
-Sind wir in einer Stress-Situation, so driften wir oft in den Fight-or-Flight Modus. In diesem Zustand schüttet der Körper Cortisaol und Adrenalin aus und stellt kurzfristig so viel Energie bereit, dass wir in der Lage sind, schnell zu handeln und vor einer Bedrohung davonzulaufen oder zu kämpfen.
+Hier kannst Du den **Brainhack "Problem to Possibility"** wunderbar nutzen, indem Du vom Opfer zum Gestalter wirst, Du also Dein Problem zur Möglichkeit umdeutest.
+Sind wir in einer Stress-Situation, so driften wir oft in den Fight-or-Flight Modus. In diesem Zustand schüttet der Körper Cortisol und Adrenalin aus und stellt kurzfristig so viel Energie bereit, dass wir in der Lage sind, schnell zu handeln und vor einer Bedrohung davonzulaufen oder zu kämpfen.
 Hier kannst Du Dich ganz bewusst fragen: Wenn mein Körper noch mehr Cortisol ausschüttet und Adrenalin produziert, was wird dadurch möglich?
 Wenn wir also kurz vor einer Rede oder einem Auftritt unsere Stressreaktion bemerken, so können wir die bereitgestellte Energie zu unserem Vorteil nutzen, unseren Körper bewegen und dadurch gutes für unsere Gesundheit tun und den Stress loswerden. Hier bietet sich der **Bodyhack "Exercise Snacking"** an, Du kannst unterschiedliche Kombinationen ausprobieren, zum Beispiel:
 - 1 Minute Hampelmann
