@@ -77,6 +77,15 @@ Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github
 
 Viel Spaß beim "Vergrößern" kleiner Probleme, beim Nutzen der dadurch erkannten Möglichkeiten und beim  Verproben der hier vorgestellten Hacks.
 
+# Hack Rating
+Alle Hacks sind von mir selbst auf Zeitaufwand, Kosten und Effizienz getestet (minimal, gering, mittel, hoch, sehr hoch). Hier mein persönliches Rating für den heutigen Hack:
+
+Zeitaufwand: minimal
+
+Kosten: minimal
+
+Effizienz:  mittel - sehr hoch __Der Hack wird, je mehr man übt, da einem das Gehirn mit etwas Training schnell mehr Möglichkeiten vorschlägt__
+
 # Mehr zum Thema
 - [Alle Hacks: Brainbodyhacks Blog](/blog/)
 - [Zauberwort „Resilienz“? Wie werden aus Krisen Chancen](https://www.researchgate.net/publication/341454232_Zauberwort_Resilienz_Wie_werden_aus_Krisen_Chancen)
