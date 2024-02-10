@@ -31,11 +31,13 @@ Im Folgenden findest Du konkrete Beispiele, die dieses Vorgehen verdeutlichen.
 Hier kannst Du den Hack **Brainhack "Problem to Possibility"** wunderbar nutzen, indem Du vom Opfer zum Gestalter wirst, Du also Dein Problem zur Möglichkeit umdeutest.
 Sind wir in einer Stress-Situation, so driften wir oft in den Fight-or-Flight Modus. In diesem Zustand schüttet der Körper Cortisaol und Adrenalin aus und stellt kurzfristig so viel Energie bereit, dass wir in der Lage sind, schnell zu handeln und vor einer Bedrohung davonzulaufen oder zu kämpfen.
 Hier kannst Du Dich ganz bewusst fragen: Wenn mein Körper noch mehr Cortisol ausschüttet und Adrenalin produziert, was wird dadurch möglich?
-Wenn wir also kurz vor einer Rede oder einem Auftritt unsere Stressreaktion bemerken, so können wir die bereitgestellte Energie zu unserem Vorteil nutzen und zum Beispiel auf der Toilette kleine Bewegungseinheiten einbauen. Hier bietet sich der **Bodyhack "Exercise Snacking"** an, Du kannst unterschiedliche Kombinationen ausprobieren, zum Beispiel:
+Wenn wir also kurz vor einer Rede oder einem Auftritt unsere Stressreaktion bemerken, so können wir die bereitgestellte Energie zu unserem Vorteil nutzen, unseren Körper bewegen und dadurch gutes für unsere Gesundheit tun und den Stress loswerden. Hier bietet sich der **Bodyhack "Exercise Snacking"** an, Du kannst unterschiedliche Kombinationen ausprobieren, zum Beispiel:
 - 1 Minute Hampelmann
 - 30 Kniebeugen
 - 1 Minute auf der Stelle laufen und ähnliches
 
+Wenn man keine gute Rückzugsmöglichkeit hat, so kann man auch auf der Toilette kleine Bewegungseinheiten einbauen. 
+Gerade auch im Online Setup sind Exercise Snacks vor Präsentationen sehr gut zu integrieren und ein echter Gamechanger.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/09/bodyhack-exercise-snacking/).
 
 ### Die Bahn kommt mal wieder zu spät
