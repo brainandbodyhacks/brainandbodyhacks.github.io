@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brainhack "Meeting Playground"
-summary: Mit dem Brainhack "Meeting Playground" kannst Du ineffiziente Meetings mal auf eine andere Weise nutzen und dabei auch noch Spaß haben und lernen.
+title: Brainhack "Problem to Possibility"
+summary: Mit dem Brainhack "Problem to Possibility" kannst Du vermeintliche Probleme in Möglichkeiten verwandeln.
 lang: de
 tags: brainhack
 ---
@@ -9,16 +9,29 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Problem
-Du befindest Dich oft in Meetings, die Du als ineffizient empfindest, die unstrukturiert sind, keine klare Agenda haben oder kein klares Ziel. Du glaubst, Du kannst das nicht ändern.
+Du befindest Dich oft in Situationen, die Du als problematisch empfindest und Du glaubst, Du kannst das nicht ändern. 
 
 ## Zielsetzung
-Du möchtest das Meeting besser machen oder zumindest für Dich einen konkreten Nutzen, ein positives Ergebnis erzielen und Deine Zeit sinnvoll nutzen. Du möchtest weg von der Rolle des Meeting-Opfers hin zum Gestalter.
+Du möchtest das Problem eliminieren oder lösen und weg von der Rolle des Opfers hin zum Gestalter.
 
 # Hack
 
 ## Welchen Hack kannst Du nutzen, um das Ziel zu erreichen?
-**Brainhack "Meeting Playground"**:
-Wenn Du nicht der Moderator oder Organisator eines Meetings bist, so kannst Du auch als Teilnehmer viel dafür tun, um dasselbe effizient zu machen und zu gestalten:
+**Brainhack "Problem to Possibility"**:
+Ein Problem kann man definieren als eine Diskrepanz zwischen aktuellem und gewünschtem Zustand, grundsätzlich versuchen wir Probleme zu vermeiden und wir fühlen uns oft machtlos, wenn sie auftachen.
+Doch eine gute Methode, um ein Problem mal aus einer ganz anderen Perspektive zu betrachten, ist die folgende Methode:
+Versuche einmal Dein Problem bewusst größer zu machen, so groß, dass es nicht mehr zu ignorieren ist. Und dann frage Dich: Was wird dadurch möglich?
+Was wäre, wenn das Problem eigentlich eine Chancen ist, um persönlich zu wachsen und sich weiterzuentwickeln oder um neue Gewohnheiten einzuüben.
+Wenn wir uns dies bewusst fragen, so finden wir oft ganz neue Möglichkeiten und **das Problem wird zu Power**.
+
+## Beispiele
+Im Folgenden findest Du konkrete Beispiele, die dieses Vorgehen verdeutlichen.
+
+### Du befindest Dich in ineffiziente Meetings
+Du befindest Dich oft in Meetings, die Du als ineffizient empfindest, die unstrukturiert sind, keine klare Agenda haben oder kein klares Ziel. Du glaubst, Du kannst das nicht ändern und Du ärgerst Dich über die verschwendete Zeit.
+Hier kannst Du den Hack **Brainhack "Problem to Power"** wunderbar nutzen, indem Du vom Opfer zum Gestalter wirst, Du also Dein Problem zur Möglichkeit umdeutest. Du kannst einen konkreten Nutzen, ein positives Ergebnis erzielen und Deine Zeit sinnvoll nutzen, wenn Du Dich fragst: "Was wird dadurch möglich?" oder "Was kann ich ausprobieren, wie kann ich das Meeting als Spielwiese nutzen?"
+
+Wenn Du nicht der Moderator oder Organisator eines Meetings bist, so kannst Du diese Rolle nun ein wenig üben und auch als Teilnehmer viel dafür tun, um dasselbe effizient zu machen und zu gestalten:
 
 Hier eignen sich Fragen die Struktur reinbringen, wie:
 - Was ist das gewünschte Ergebnis?
@@ -31,9 +44,7 @@ Außer der klaren Moderation und dem Strukturieren über Fragen gibt es noch ein
 Du machst aus dem Problem eine Tugend.
 Denn Du kannst die Zeit nutzen, um einige Hacks, die in diesem Blog vorgestellten werden, zu verproben.
 
-## Beispiele
-### Kluge Entscheidung
-So kann zum Beispiel der Brainhack "Kluge Entscheidung" wunderbar eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
+So kann zum Beispiel der **Brainhack "Kluge Entscheidung"** wunderbar eingesetzt werden, sobald in einem Meeting Entscheidungen getroffen werden müssen.
 Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich beschrieben ist und unter anderem folgende Fragen stellen:
 
 - Was ist mein Bauchgefühl und was will es mir sagen? Welche Erfahrungen sind dafür eventuell ausschlaggebend?
@@ -43,29 +54,31 @@ Wir können hier dem klaren Prozess folgen, der im Hack nochmals ausführlich be
 So können wir sowohl eine individuelle Entscheidung bewusst und neurologisch gesehen klug treffen, als auch Entscheidungen in der Gruppe, indem wir die Fragen in die Runde stellen.
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/08/kluge-entscheidung/).
 
-### Brainhack "Klares Gespräch"
-Ein Meeting, das etwas unstrukturiert ist, an dem viele Menschen teilnehmen und ihre Sicht der Dinge einbringen ist eine wunderbare Übungsmöglichkeit für den **Brainhack "Klares Gespräch"**. Wir können hier bewusst darauf achten, welche Sprachmuster - wie Generalisierung, Tilgung oder Verzerrung - sich einschleichen und wir können bewusst die Fragen nutzen, die in den entsprechenden Hacks zum Thema "Klares Gespräch" beschrieben sind. So können wir Hintergründe transparenter machen, konkrete nächste Schritte erfragen und vor allem auch die anderen Sichtweisen besser verstehen lernen.
-Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/21/klares-gespr%C3%A4ch-teil-1/).
 
-### Brainhack "Pause the movie"
-Falls wir in einem Meeting merken, dass wir uns aufregen oder nervös sind, so können wir wunderbar den **Brainhack "Pause the Movie"** üben:
-Wir können uns bewusst vorstellen, wir schauen einen Film an, sind einer der Zuschauer und drücken einfach kurz auf Pause, um den Film zu stoppen und zu überlegen, was wohl der Background der Darsteller ist oder wie der Film sich wohl zum Positiven ändern könnte. Je öfter wir diesen kleinen Trick anwenden, desto besser funktioniert er gegen Ärger oder auch Nervosität.
-Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/06/brain-hack-pause-the-movie/).
-
-### Bodyhack "Box-Breathing"
-Auch manche Bodyhacks bieten sich an. So können wir zum Beispiel einfach und unbemerkt die Atemübung der Navy SEALS, das Box-Breathing nutzen, um uns zu fokussieren und Stress im Zaum zu halten.
-Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/20/box-breathing/).
-
-### Bodyhack "Exercise Snacking"
-Auch kurze Exercise Snacks können eingebaut werden, vor allem in online Meetings, wenn wir Audio und die Kamera kurz ausschalten können. Hier bieten sich zum Beispiel an:
+### Problem: Aufregung und Nervosität
+Sind wir in einer Stress-Situation, so oft in den Fight-or-Flight- Modus. In diesem Zustand schüttet der Körper Cortisaol und Adrenalin aus und stellt kurzfristig so viel Energie bereit, dass wir in der Lage sind, schnell zu handeln und vor einer Bedrohung davonzulaufen oder zu kämpfen.
+Hier kannst Du Dich ganz bewusst fragen: Wenn mein Körper noch mehr Cortisol ausschüttet und Adrenalin produziert, was wird dadurch möglich?
+Wenn wir also kurz vor einer Rede oder einem Auftritt unsere Stressreaktion bemerken, so können wir die bereitgestellte Energie zu unserem Vorteil nutzen und zum Beispiel auf der Toilette kleine Bewegungseinheiten einbauen. Hier bietet sich der **Bodyhack "Exercise Snacking"** an, Du kannst unterschiedliche Kombinationen ausprobieren, zum Beispiel:
 - 1 Minute Hampelmann
 - 30 Kniebeugen
 - 1 Minute auf der Stelle laufen und ähnliches
 
 Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/09/bodyhack-exercise-snacking/).
 
-Viel Spaß beim Verproben der Hacks auf Deiner Meeting Spielwiese!
+### Die Bahn kommt mal wieder zu spät
+Auch diese unangenehme Situation kann man vom Problem zur Tugend machen.
+Hier kannst Du Dich bewusst fragen: "Wenn ich hier noch länger warten muss, was wird dadurch möglich?"
+
+WIe im vorherigen Besipiel beschrieben können wir auch hier den **Bodyhack "Exercise Snacking"** anwenden und die Zeit nutzen, um unseren Körper zu bewegen.
+Auch der **Bodyhack "Box-Breathing"** bietet sich beim Warten an. So können wir zum Beispiel einfach und unbemerkt die Atemübung der Navy SEALS, das Box-Breathing nutzen, um uns zu fokussieren und Stress im Zaum zu halten.
+Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/20/box-breathing/).
+
+### Du kommst nicht zu Wort
+In Situationen in denen Du Dich ärgerst, weil andere permanent reden und Du nicht zu Wort kommst, kannst Du die Möglichkeit nutzen, um zu üben. "Wenn ich nicht zu Wort komme, was wird dadurch möglich?" Du kannst bewusster zuhören und die Zeit als wunderbare Übungsmöglichkeit für den **Brainhack "Klares Gespräch"** nutzen. Wir können dann bewusst darauf achten, welche Sprachmuster - wie Generalisierung, Tilgung oder Verzerrung - sich bei den dominanten Rednern einschleichen. Wir können üben, diese Muster zu erkennen, uns dazu die Fragen notieren, die in den entsprechenden Hacks zum Thema "Klares Gespräch" beschrieben sind. So können wir die Situation nutzen um zu üben, damit wir in wichtigen Situationen unsere neuen Fähigkeiten anwenden können. Wir können dann Hintergründe transparenter machen, konkrete nächste Schritte erfragen und vor allem auch die anderen Sichtweisen besser verstehen lernen.
+Eine ausführliche Beschreibung findest Du [hier ](https://brainbodyhacks.github.io/2024/01/21/klares-gespr%C3%A4ch-teil-1/)
+
+Viel Spaß beim "Vergrößern" kleiner Probleme, beim Nutzen der dadurch erkannten Möglichkeiten und beim  Verproben der hier vorgestellten Hacks.
 
 # Mehr zum Thema
-- [Brainbodyhacks Blog](/blog/)
+- [Alle Hacks: Brainbodyhacks Blog](/blog/)
 - [Was sagt die Wissenschaft zu Meetings?](https://www.betterwork.uni-hamburg.de/podcasts/was-sagt-wissenschaft-zu-meetings.html)
