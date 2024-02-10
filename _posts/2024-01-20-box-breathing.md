@@ -26,8 +26,8 @@ Du kannst den Hack nutzen, um Deine Konzentration zu verbessern, besser mit Stre
 
 Soldaten der U.S. Navy SEALs nutzen diese Atemtechnik, um einen kühlen Kopf zu bewahren. Die Navy SEALs gelten als härteste Elitetruppe der Welt und sind hohem physischem und psychischem Stress ausgesetzt. Um diesen zu kontrollieren, lernen die Soldaten Atemtechniken wie das Box-Breathing.
 
-Und auch wir können diese Technik zu unserem Vorteil nutzen: 
-Wir können das Box-Breathing nutzen, um insgesamt gelassener zu werden. Wir können sie aber auch gerade dann einsetzen, wenn wir gestresst oder nervös sind und uns damit in der akuten Situation selbst beruhigen.
+Als smarte Gehirnbenutzer orientieren wir uns wo möglich an erfolgreichen Modellen und nutzen die Atemtechnik zu seinem Vorteil: 
+Wir können das Box-Breathing einsetzten, um insgesamt gelassener zu werden. Wir können sie aber auch gerade dann nutzen, wenn wir gestresst oder nervös sind und uns damit in der akuten Situation selbst beruhigen.
 Durch tiefes und fokussiertes Atmen können wir unser autonomes Nervensystem regulieren, unseren Herzschlag verlangsamen und dadurch unsere Gedanken beruhigen und langfristig Stress entgegenwirken. Auch für den Fokus ist diese Technik hilfreich, wir können durch die rhythmische Atmung unseren Verstand auf die eine Sache lenken, die wir gerade tun müssen oder wollen und damit unsere Aufmerksamkeit verbessern.
 
 Hier ein Auszug einer Studie, die die Auswirkungen von Box-Breathing zusammen mit anderen Atemtechniken untersuchte:
