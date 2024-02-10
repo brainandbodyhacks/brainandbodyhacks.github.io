@@ -9,10 +9,10 @@ tags: brainhack
 # Problem und Zielsetzung
 
 ## Problem
-Du befindest Dich oft in Situationen, die Du als problematisch empfindest und Du glaubst, Du kannst das nicht ändern. 
+Du befindest Dich oft in Situationen, die Du als problematisch empfindest und in denen Du Dich machtlos fühlst.
 
 ## Zielsetzung
-Du möchtest das Problem eliminieren oder lösen und weg von der Rolle des Opfers hin zum Gestalter.
+Du möchtest das Problem vermeiden, eliminieren, lösen oder zumindest Dein Gefühl der Machtlosigkeit loswerden.
 
 # Hack
 
@@ -21,7 +21,7 @@ Du möchtest das Problem eliminieren oder lösen und weg von der Rolle des Opfer
 Ein Problem kann man definieren als eine Diskrepanz zwischen aktuellem und gewünschtem Zustand. Wir versuchen tendenziell Probleme zu vermeiden und wir fühlen uns oft machtlos, wenn sie auftauchen.
 Doch eine gute Methode, um ein Problem mal aus einer ganz anderen Perspektive zu betrachten, ist die folgende Methode:
 Versuche einmal Dein Problem bewusst größer zu machen, so groß, dass es nicht mehr zu ignorieren ist. Und dann frage Dich: Was wird dadurch möglich?
-Was wäre, wenn das Problem eigentlich eine Chancen ist, um persönlich zu wachsen und sich weiterzuentwickeln oder um neue Gewohnheiten einzuüben.
+Was wäre, wenn das Problem eigentlich eine Chance ist, um persönlich zu wachsen und sich weiterzuentwickeln oder um neue Gewohnheiten einzuüben.
 Wenn wir uns dies bewusst fragen, so finden wir oft ganz neue Möglichkeiten und **das Problem wird zur Possibility - zur Möchglichkeit**.
 
 ## Beispiele
