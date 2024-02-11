@@ -1,0 +1,15 @@
+- Ein alter Schlüssel passt nur in das alte Schloss, nicht in das neue!
+- Mit selbst Erdachtem ist es wie mit den eigenen Kindern: Was immer auch aus ihnen wird, wie immer sie geklingen,
+  man liebt sie uznd hält an ihnen fest
+  - Unser Hirn hat eine Firewall: Unser Filter
+- ACC Bullshitdetektor, Fehlerdetektor
+- Trampelpfade
+- Wir haben eine chaotische Lagerhaltung in unserem Gehirn: Das am häufigsten Gedachte taucht bei allen Möglichen Gelegenheiten auf. Meist sind dies unerledigte Dinge.
+- Unsere Neuronen sind Engeriesparer: Bei zu wenig Beanspruchung von zum Besipiel neu Gelerntem, misten sie aus und widmen sich wichtigeren Dingen
+- Neuronen sind Kommunikationskünstler, in einer Stunde baut ein einziges Neuron zenhtausende Kontakte zu seinen Kollegen auf, das sind Profi-Netzwerker.
+- Leite Dein Neuronen-TEam vorbildlich in dem Du ihm genaue Instruktionen - ohne Verneinungen - und mit klarer Priorisierung gibst.
+- Seien sie gnädig mir ihrem Gehirn und schenken ihm ein Sekretariat: Delegieren sie alle Ideen und Gedanken an Notizen, Schreiben sie alles auf
+- Der Friedhof der guten Ideen: Wissensriesen und Umsetzungszwerge
+- Löse den Knoten Stück für Stück: Das komplexe Knäuel aus bremsenden Gedanken, Gefühlen und "Ja aber" Überlegungen
+- Ein Selbstgespräch ist wie Bodybuilding für das Gehirn 
+- Amygdala: Wiederstandskämpferin und Hüterin des kindlichen Egos -> überlisten
