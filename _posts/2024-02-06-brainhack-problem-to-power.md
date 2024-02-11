@@ -61,8 +61,8 @@ Wenn Du nicht der Moderator oder Organisator eines Meetings bist, so kannst Du d
 
 Hier eignen sich Fragen die Struktur reinbringen, wie:
 - Was ist das gewünschte Ergebnis?
-- Wer notiert die Besprechungsergebnisse?
-- Wer macht bis wann was?
+- Was wurde bis jetzt schon versucht und erreicht? Was wurde noch nicht erreicht?
+- Wer notiert die Besprechungsergebnisse? Wer macht bis wann was?
 
 Diese einfachen Fragen kann man immer wieder platzieren, um fehlende Moderation und Struktur auszugleichen.
 
