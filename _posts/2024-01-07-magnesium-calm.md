@@ -47,7 +47,7 @@ Der Magnesiumspiegel wird am besten durch eine Blutprobe im Vollblut bestimmt.
 
 # Beispiele
 
-## 1. Enstpannung und besserer Schlaf
+## 1. Entspannung und besserer Schlaf
 Magnesium kann uns vor allem dabei unterstützen, abzuschalten und besser zu schlafen.
 Wird Magnesium abends vor dem Schlafen eingenommen, so kann dies für einen tieferen und damit optimal regenerativen Schlaf sorgen. 
 Studien bestätigen den Zusammenhang zwischen der Aufnahme von Magnesium in der Nahrung und der Schlafqualität und den Schlafmustern [^2].
