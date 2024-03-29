@@ -14,7 +14,7 @@ permalink:        pretty
 title:            BRAINBODYHACKS
 tagline:          'Der Blog für smarte Gehirnbenutzer'
 description:      'Der Blog für smarte Gehirnbenutzer'
-url:              
+url:              www.brainbodyhacks.de
 
 author:
   name:           'hb'
@@ -26,7 +26,7 @@ paginate_path: "/blog/page:num/"
 version:          1.0.0
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'Hacks':'/blog','Info':'/about/about','Kategorien':'/categories','FAQs':'/faqs'}
+# pages_list:       {'Hacks':'/blog','Info':'/about/about','Kategorien':'/categories','FAQs':'/faqs'}
 
 
 
